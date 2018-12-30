@@ -1,0 +1,395 @@
+Válassza ki az alábbiak közül az útkereszteződés helyes fogalmát!
+× Két vagy több útnak azonos szintben való kereszteződése, egymásba torkollása, elágazása.
+− Két olyan út találkozása, amelyek csak jobbról torkollanak egymásba.
+− Két vagy több olyan út találkozása, amelyek csak jobbról torkollanak egymásba.
+− Minden azonos szintű és nem azonos szintű útcsatlakozás.
+− Csak a szilárd útburkolattal ellátott utak találkozása.
+
+[3.1] Hogyan kell közlekedni a jelzőtáblát követően?
+× Úgy, hogy az út által körbezárt terület a járművezetőtől balra essék.
+− Úgy, hogy az út által körbezárt terület a járművezetőtől jobbra essék.
+− Ellentétes rendőri jelzésig körbe-körbe kell haladni.
+
+[3.1] Hogyan kell közlekedni a jelzőtáblát követően?
+× Úgy, hogy az út által körbezárt terület a járművezetőtől balra essék.
+− Úgy, hogy az út által körbezárt terület a járművezetőtől jobbra essék.
+− Ellentétes rendőri jelzésig körbe-körbe kell haladni.
+
+[3.1] Mi a jelzőtábla neve?
+× ’Körforgalom’.
+− ’Kötelező haladási irány’.
+− ’Forgószél’.
+
+Alkalmazni kell-e a jobbratartás szabályait körforgalmú úton történő közlekedés során?
+× Igen.
+− Nem.
+
+A körforgalomban egy olyan villamospályát keresztez, amelyen egy villamos hajt be a körforgalomba. Mikor jár el szabályosan?
+× Ha elsőbbséget ad a körforgalmat keresztező villamos részére.
+− Ha elhalad a villamos előtt, mivel a körforgalomba behajtó villamos köteles elsőbbséget adni.
+− Ha a kölcsönös udvariasság alapján megegyeznek az áthaladási sorrendben.
+
+Az alábbiak közül mikor kell irányjelzőt használnia?
+× Amikor lehajt az útpadkára.
+− Amikor behajt a körforgalomba.
+− Amikor a kanyarodó főútvonalon követi a főútvonal vonalvezetését.
+
+Körforgalmú útra történő bekanyarodás előtt köteles-e irányjelzést adni?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a körforgalom párhuzamos közlekedésre alkalmas.
+
+Milyen körforgalmakban kell a párhuzamos közlekedés szabályait alkalmazni?
+× A párhuzamos közlekedésre alkalmas körforgalmakban.
+− Csak a háromsávos körforgalmakban.
+− Minden körforgalomban.
+
+[3.1 1] Ön az ’A’ jelű személygépkocsit vezeti. Köteles-e az irányjelzőjét használni?
+× Igen, a ’3’ helyen a sávváltás miatt, majd a ’4’ helyen a körforgalomból történő kihajtás miatt.
+− Igen, az ’1’ helyen a körforgalomba történő behajtás miatt, majd a ’4’ helyen a körforgalomból történő kihajtás miatt.
+− Igen, valamennyi, számmal jelölt helyen.
+
+[3.1 1] Behajthat-e az 'A' jelű személygépkocsi a körforgalom belső forgalmi sávjára?
+× Igen, de a kihajtás előtt köteles a jobb szélső forgalmi sávba átsorolni.
+− Igen, és a belső forgalmi sávból ki is hajthat, ha a kihajtás után szintén többsávos útra érkezik.
+− Nem, a körforgalom belső forgalmi sávja csak veszély esetén használható.
+
+[3.1 2] Ön a ’B’ jelű személygépkocsit vezeti. Válassza ki a helyes állítást!
+× Nem köteles az ’1’ helyen a körforgalmat elhagyni.
+− Köteles az ’1’ helyen a körforgalmat elhagyni.
+
+[3.1 3] Ön a ’B’ jelű személygépkocsit vezeti. Válassza ki a helyes állítást!
+× Nem köteles az ’1’ helyen a körforgalmat elhagyni.
+− Köteles az ’1’ helyen a körforgalmat elhagyni.
+
+[3.1 4] Ön az ’A’ jelű személygépkocsit vezeti. Melyik nyomvonalon hagyhatja el szabályosan a körforgalmat?
+× Csak a ’3’ helyen.
+− Csak a ’2’ helyen.
+− Útirányától függően akár a ’2’ helyen, akár a ’3’ helyen.
+
+[3.1 4] Behajthat-e az ’A’ jelű személygépkocsi a körforgalom belső sávjára?
+× Igen, de a kihajtás előtt köteles a jobb szélső forgalmi sávba átsorolni.
+− Igen, és a belső forgalmi sávból ki is hajthat, ha a kihajtás után szintén több sávos útra érkezik.
+− Nem, a körforgalom belső forgalmi sávja csak veszély esetén használható.
+
+[3.1 4] Ön a ’B’ jelű személygépkocsit vezeti. Válassza ki a helyes állítást!
+× Nem köteles az ’1’ helyen a körforgalmat elhagyni.
+− Köteles az ’1’ helyen a körforgalmat elhagyni.
+
+[3.1 5] Mikor hajthat ki a körforgalomból az ’1’ és ’2’ helyen egyszerre az ’A’ jelű és a ’B’ jelű jármű?
+× Sohasem.
+− Ha mindkettő ezen az úton kívánja az útját folytatni.
+− Ha a ’B’ jelű az irányjelzőjével időben jelzi a kihajtási szándékát.
+
+Szabad-e megállni körforgalmú úton?
+× Nem.
+− Igen.
+− Igen, de csak egy nyomon haladó járművel.
+
+Az alábbiak közül mi minősül biztosított vasúti átjárónak?
+× Az olyan vasúti átjáró, ahol a közúti járművek forgalmát sorompó, hangjelző berendezés, fénysorompó vagy jelzőőr szabályozza.
+− Az olyan vasúti átjáró, ahol a közúti járművek forgalmát kétlencsés forgalomirányító jelzőlámpa irányítja.
+− Az olyan vasúti átjáró, amelyen szabad az áthaladás.
+− Az olyan vasúti átjáró, amely minőségi biztosítással rendelkezik.
+− Az olyan vasúti átjáró, amelyen nincs keresztirányú forgalom.
+
+Az alábbiak közül mi minősül biztosítatlan vasúti átjárónak?
+× Az olyan vasúti átjáró, ahol a forgalmat berendezések vagy jelzőőr nem szabályozza.
+− Az olyan vasúti átjáró, amit nem biztosít teljes sorompó.
+− Az olyan vasúti átjáró, amit még jelzőtábla sem jelez.
+− Az olyan vasúti átjáró, amely minőségi biztosítással nem rendelkezik.
+− Az olyan vasúti átjáró, amelyben a vasúti jármű közlekedésére szolgáló sínpár nem süllyesztett kivitelű.
+
+A gépkocsi vezetője a jármű forgalmi okból történő megállásának ideje alatt...
+× használhat kézben tartott mobiltelefont.
+− nem használhat kézben tartott mobiltelefont.
+− nem használhat kihangosított mobiltelefont.
+
+Hogyan szabad megközelíteni a vasúti átjárót?
+× Fokozott óvatossággal.
+− Az egyéb úttesten általában elvárt körültekintéssel.
+− Az egyéb úttesten általában elvárt figyelemmel.
+
+Szabályos-e a vasúti átjárón történő áthaladás, ha az áthaladás közben forgalmi okból meg kell állni?
+× Nem.
+− Igen.
+− Igen, ha nem érkezik vasúti jármű.
+
+Milyen sebességgel kell áthaladni a vasúti átjárón?
+× Legalább 5 km/h átlagsebességgel.
+− Legalább 5 km/h sebességgel.
+− Legfeljebb 5 km/h sebességgel.
+
+Az alábbiak között melyek a vasúti átjáró biztosítására szolgáló jelzőberendezések?
+× Fénysorompó, félsorompó és teljes sorompó.
+− Fénysorompó, teljes sorompó és csőkorlát.
+− Fénysorompó, terelőbóják és elválasztó lánc.
+
+Mikor indulhat el járművével a vasúti jármű elhaladását követően a sorompóval és fénysorompóval biztosított vasúti átjáróban?
+× Csak akkor, ha a sorompó rúdjai függőleges helyzetben már megálltak és a fénysorompó fehér fényjelzést ad.
+− Már a fénysorompó piros fényjelzése alatt is, de csak akkor, ha egyvágányú vasúti átjárón hajt keresztül.
+− Már akkor is elindulhat, ha a sorompó rúdja alatt elfér a járművével.
+
+[3.1 6] Az ’A’ jelű jármű vezetője a vasúti jármű áthaladása közben használhatja-e kézben tartva mobiltelefonját?
+× Igen, ameddig a járműve áll.
+− Nem, mert a forgalmi okból álló gépkocsi vezetője nem használhat kézben tartott mobiltelefont.
+
+[3.1 7] A vonat elhaladása után milyen sebességgel köteles a vasúti átjárón áthajtani a képen látható ’A’ jelű jármű?
+× Legalább 5 km/óra átlagsebességgel.
+− Legalább 10 km/óra átlagsebességgel.
+− Nincs előírva sebességhatár.
+
+[3.1 8] Ön a vonat elhaladása után milyen sebességgel köteles a vasúti átjárón áthajtani a kormánykerékkel jelzett járművel?
+× Legalább 5 km/óra átlagsebességgel.
+− Legalább 10 km/óra átlagsebességgel.
+− Nincs előírva sebességhatár.
+
+Vasúti átjáró megközelítésekor eleget kell-e tenni a vasúti átjáró biztosítására szolgáló közúti jelzéseknek?
+× Igen.
+− Nem, itt a vasúti szabályok érvényesülnek.
+− Nem, csak az érkező vonatra kell fokozottan figyelni.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha a fénysorompó nem ad villogó fehér jelzést?
+× Meg kell állnia.
+− Kellő lassítás után, megállás nélkül továbbhaladhat.
+− Ha nem közeledik vasúti jármű, szabad az áthaladás.
+
+Szabad-e ráhajtani a vasúti átjáróra, ha a fénysorompó villogó fehér fényjelzést ad?
+× Igen, amennyiben meggyőződött az áthaladás veszélytelenségéről.
+− Igen, minden további nélkül.
+− Nem, csak akkor, ha a jelzőőr szabad jelzést ad.
+
+[3.1 9] Mire következtet abból, ha a vasúti átjáró biztosítására szolgáló fénysorompó semmilyen fényjelzést sem ad?
+× A vasúti átjáróban elhelyezett fénysorompó üzemzavarára.
+− Arra, hogy gyér forgalmú vasúti átjáróhoz ért, ahol csak a vonat érkezése előtt lép működésbe a fényjelző berendezés.
+
+[3.1 10] Folytathatja-e az útját, ha az ábrán látható, félig leengedett sorompórúd alatt még átfér a járművével?
+× Nem.
+− Igen, ha nem érkezik vasúti jármű.
+
+A fénysorompó alsó fénye, amely a biztosító berendezés működőképességét jelzi...
+× villogó fehér fényt ad.
+− villogó sárga fényt ad.
+− folyamatos zöld fényt ad.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha ott ’Állj! Elsőbbségadás kötelező’ jelzőtábla van kihelyezve?
+× A megállás helyét jelző útburkolati jel előtt meg kell állnia.
+− Semmi, mert ez a jelzőtábla csak az útkereszteződésekre vonatkozik.
+− Elegendő lassítani, mert ezt a jelzőtáblát csak éjszaka kell figyelembe venni.
+
+Mi a teendő vasúti átjárónál, ha a sorompók rúdjai nem teljesen nyitott helyzetben állnak?
+× Meg kell állni.
+− Fokozott óvatosságot kell tanúsítani, de megállás nélkül továbbhaladhat.
+− Értesíteni kell a vasút egy alkalmazottját.
+
+A vasúti átjárót biztosító jelzőberendezés üzemzavara esetén járművel a vasúti átjáróra abban az esetben szabad ráhajtani, ha...
+× a megállást követően a megállás helyéről a vasúti pálya mindkét irányba belátható, és a jármű vezetője meggyőződött arról, hogy vasúti jármű nem közeledik.
+− a jármű vezetője a szükséges megállást halaszthatatlan feladata ellátása érdekében mulasztja el, ugyanakkor fokozott óvatosságot tud tanúsítani.
+− a helyszínre kiérkezett üzemzavar-elhárítók erre engedélyt adtak.
+
+A vasúti átjáróban a félsorompó rúdja félig nyitott helyzetben van és a fénysorompó semmilyen fényjelzést nem ad. Mit kell tennie ebben az esetben?
+× A vasúti átjáró előtt meg kell állnia, és csak akkor halad tovább, ha meggyőződött arról, hogy vasúti jármű nem közeledik.
+− Megállás nélkül, fokozott óvatossággal halad át a vasúti átjárón.
+− Megáll, és megvárja, hogy a fénysorompó hibáját az illetékes szakemberek kijavítsák.
+
+[3.1 11] Egy olyan vasúti átjáró felé közeledik, ahol a fénysorompó fényjelzést nem ad. Mikor jár el szabályosan?
+× Ha a vasúti átjáró előtt megáll, és csak akkor halad tovább, amikor meggyőződött arról, hogy nem közeledik vasúti jármű.
+− Ha lassítást és kellő körültekintést követően továbbhalad.
+− Ha csak akkor hajt rá a vasúti átjáróra, amikor a fényjelző berendezés újra villogó fehér fényjelzést ad.
+
+A vasúti átjáróban a fénysorompó villogó fehér jelzése azt jelenti, hogy...
+× a biztosító berendezés működik, a járművezető kellő tájékozódást követően fokozott óvatossággal köteles továbbhaladni.
+− a vasúti jármű tilos jelzésnél várakozik, ezért Ön akár körültekintés nélkül is áthajthat a vasúti átjárón.
+− ez egy szabad jelzés, mely az Ön biztonságát garantálja, ezért Ön akár körültekintés nélkül is áthajthat a vasúti átjárón.
+
+Vasúti átjáró megközelítésekor eleget kell-e tenni a vasúti átjáró biztosítására szolgáló közúti jelzéseknek?
+× Igen.
+− Nem, itt a vasúti szabályok érvényesülnek.
+− Nem, csak az érkező vonatra kell fokozottan figyelni.
+
+Szabályos-e a vasúti átjárón történő áthaladás, ha az áthaladás közben forgalmi okból meg kell állni?
+× Nem.
+− Igen.
+− Igen, ha nem érkezik vasúti jármű.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha bármely irányból vasúti jármű közeledik?
+× Meg kell állnia.
+− Gyorsan át kell haladnia.
+− Hangjelzést kell adnia a vasúti jármű vezetője számára.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha a sorompó rúdja mozgásban van?
+× Meg kell állnia.
+− Gyorsan át kell haladnia, nehogy rácsukódjon a sorompó.
+− Hangjelzést kell adnia a vasúti jármű vezetője számára.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha a fénysorompó villogó piros jelzést ad?
+× Meg kell állnia.
+− Ha nem közeledik vasúti jármű, kellő körültekintés után áthaladhat.
+− Fényjelzést kell adnia a vasúti jármű vezetője számára.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha a teljes sorompót kiegészítő berendezés hangjelzést ad?
+× Meg kell állnia.
+− Amíg a sorompó rúdjai nincsenek teljesen lezárt állapotban, addig még szabad áthaladni.
+− Ha nem közeledik vasúti jármű, kellő körültekintés után szabad áthaladni.
+
+Mi a járművezető teendője vasúti átjáró előtt, ha a fénysorompó nem ad villogó fehér jelzést?
+× Meg kell állnia.
+− Kellő lassítás után, megállás nélkül továbbhaladhat.
+− Ha nem közeledik vasúti jármű, szabad az áthaladás.
+
+Szabad-e ráhajtani a vasúti átjáróra, ha a fénysorompó villogó fehér fényjelzést ad?
+× Igen, amennyiben meggyőződött az áthaladás veszélytelenségéről.
+− Igen, minden további nélkül.
+− Nem, csak akkor, ha a jelzőőr szabad jelzést ad.
+
+[3.1 12] Mikor indulhat tovább a képen látható vasúti átjáró előtt álló jármű?
+× Csak akkor, ha a fénysorompó villogó fehér fényjelzést ad.
+− Mivel egyvágányú vasúti átjárót keresztez, a vonat elhaladása után azonnal indulhat.
+
+[3.1 13] Mire következtet abból, ha a vasúti átjáró biztosítására szolgáló fénysorompó semmilyen fényjelzést sem ad?
+× A vasúti átjáróban elhelyezett fénysorompó üzemzavarára.
+− Arra, hogy gyér forgalmú vasúti átjáróhoz ért, ahol csak a vonat érkezése előtt lép működésbe a fényjelző berendezés.
+
+[3.1 14] Folytathatja-e az útját, ha az ábrán látható, félig leengedett sorompórúd alatt még átfér a járművével?
+× Nem.
+− Igen, ha nem érkezik vasúti jármű.
+
+[3.1 15] A félsorompó rúdja még nyitott helyzetben van, de a fénysorompó már villogó piros fényjelzést ad. Mit kell tennie?
+× Megáll a vasúti átjáró előtt.
+− Amennyiben nem lát érkező vasúti járművet, még áthajthat a vasúti átjárón.
+− Mivel vasúti jármű csak akkor érkezhet, ha a sorompórúd teljesen le van engedve, még nyugodtan áthajthat a vasúti átjárón.
+
+Mi a járművezető teendője, ha a jelzőőr jelzőtárcsával jelzést ad?
+× Meg kell állnia.
+− Csak fokozott óvatossággal haladhat tovább.
+− Csökkentenie kell járműve sebességét.
+− Be kell kapcsolnia a jármű világítását.
+− Le kell állítani a jármű motorját.
+
+Mi a járművezető teendője, ha a jármű a vasúti átjáróban elakad?
+× Bármilyen módszerrel meg kell kísérelnie a járművet eltávolítani a vasúti átjáróból.
+− Haladéktalanul szerelőt kell hívnia.
+− Értesítenie kell a rendőrséget.
+
+Mi a járművezető teendője, ha a vasúti átjáróban elakadt járművet nem képes eltávolítani?
+× Haladéktalanul a vasút egy alkalmazottjának, vagy a vasúti jármű vezetőjének tudomására kell hozni a kialakult veszélyhelyzetet.
+− Gondoskodnia kell a jármű elszállításáról.
+− Minden eszközzel meg kell akadályoznia a sorompó lecsukódását.
+
+Mi a teendő vasúti átjárónál, ha a sorompók rúdjai nem teljesen nyitott helyzetben állnak?
+× Meg kell állni.
+− Fokozott óvatosságot kell tanúsítani, de megállás nélkül továbbhaladhat.
+− Értesíteni kell a vasút egy alkalmazottját.
+
+Mi a teendő vasúti átjárónál, ha a teljes sorompót kiegészítő fényjelző berendezés villogó piros jelzést ad?
+× Meg kell állni.
+− Amennyiben hangjelzést nem ad, szabad továbbhaladni.
+− Amennyiben a sorompó még nem csukódott le, szabad továbbhaladni.
+
+A vasúti átjárót biztosító jelzőberendezés üzemzavara esetén járművel a vasúti átjáróra abban az esetben szabad ráhajtani, ha...
+× a megállást követően a megállás helyéről a vasúti pálya mindkét irányba belátható, és a jármű vezetője meggyőződött arról, hogy vasúti jármű nem közeledik.
+− a jármű vezetője a szükséges megállást halaszthatatlan feladata ellátása érdekében mulasztja el, ugyanakkor fokozott óvatosságot tud tanúsítani.
+− a helyszínre kiérkezett üzemzavar-elhárítók erre engedélyt adtak.
+
+Érvényes-e a vasúti átjárót biztosító fényjelző berendezés tilos jelzése a gyalogosokra is?
+× Igen, és ez az áthaladás tilalmát jelzi.
+− Igen, de csak akkor kell figyelembe venniük, ha látják az érkező vonatot.
+− Nem, ez csak a járművek részére jelent áthaladási tilalmat.
+
+Mikor indulhat el járművével a vasúti jármű elhaladását követően a sorompóval és fénysorompóval biztosított vasúti átjáróban?
+× Csak akkor, ha a sorompó rúdjai függőleges helyzetben már megálltak és a fénysorompó fehér fényjelzést ad.
+− Már a fénysorompó piros fényjelzése alatt is, de csak akkor, ha egyvágányú vasúti átjárón hajt keresztül.
+− Már akkor is elindulhat, ha a sorompó rúdja alatt elfér a járművével.
+
+[3.1 16] Mit jelent az ábrán látható sárga útburkolati jel?
+× ’Veszélyes hely előjelzése’.
+− ’Merőleges várakozóhelyek’.
+− ’Kerékpározni tilos’.
+
+[3.1 16] Ön az ’A’ jelű személygépkocsit vezeti. Mire kell számítania az úton, ha ezt az útburkolati jelet látja?
+× Sebességkorlátozásra vagy megállási kötelezettségre.
+− Az utat keresztező vasúti átjáróra vagy villamospályára.
+− Sebességmérő rendszerre.
+
+[3.1 16] Az ábrán látható sárga útburkolati jelet látva kötelesek-e az érkező járművek csökkenteni a sebességüket?
+× Nem, de érdemes felkészülni arra, hogy az úton hamarosan sebességkorlátozás lesz, vagy megállási kötelezettsége keletkezik.
+− Igen, lakott területen max. 30, lakott területen kívül max. 60 km/h sebességgel közlekedhet az útburkolati jel kezdetétől.
+
+[3.1 17] Mit jelez ez a jelzőtábla?
+× Sorompó nélküli vasúti átjárót.
+− Vasútállomást.
+− A vasúti átjáró kezdetét.
+
+[3.1 18] Mit jelez ez a jelzőtábla?
+× Fénysorompóval és sorompóval biztosított vasúti átjárót.
+− Fénysorompóval biztosított, sorompó nélküli vasúti átjárót.
+− Forgalomirányító fényjelző készüléket.
+
+[3.1 18] Milyen vasúti átjárót biztosító jelzőberendezés következik e jelzőtábla után?
+× Teljes vagy félsorompóval együtt felszerelt fénysorompó.
+− Csak fénysorompó.
+− Csak teljes sorompó.
+
+[3.1 19] Mit jelez ez a jelzőtábla?
+× A vasúti átjáró kezdetét.
+− A vasúti átjáró végét.
+− A továbbhaladás tilalmát.
+
+[3.1 20] Elhelyezik-e minden vasúti átjárónál ezt a jelzőtáblát?
+× Nem.
+− Igen.
+− Nem, csak a kétvágányú vasúti átjáróknál.
+
+Szabad-e vasúti átjáróban járművel megfordulni?
+× Nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival kétkerekű kerékpárost?
+× Igen.
+− Nem.
+
+Milyen távolságot követően szabad megállni a vasúti átjáró után?
+× A vasúti átjárótól számított 30 m-en túl.
+− Közvetlenül a vasúti átjáró után is meg szabad állni.
+− A vasúti átjáró után nem szabad megállni.
+
+Szabad-e előzni vasúti átjáróban és közvetlenül előtte?
+× Általában nem.
+− Igen, de csak a lassan haladó mezőgazdasági vontatót.
+− Igen, a kézikocsit mindig meg szabad előzni.
+
+Szabad-e megelőzni vasúti átjáróban és közvetlenül előtte a kétkerekű segédmotoros kerékpárt?
+× Igen, gépjárművel.
+− Igen, bármilyen járművel.
+− Nem, semmilyen járművel sem szabad.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival lassú járművet?
+× Nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival mopedautót?
+× Nem.
+− Igen.
+
+Szabad-e megállni vasúti átjáróban és attól számított 30 m távolságon belül?
+× Nem.
+− Az átjáróban nem, de közvetlenül előtte igen.
+− Az átjáróban nem, de közvetlenül utána igen.
+
+[3.1 21] Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× Az ’A’ jelű jármű a vasúti átjáróban nem előzheti meg a kézikocsit.
+− Az ’A’ jelű jármű a vasúti átjáróban megelőzheti a kézikocsit.
+
+[3.1 22] Ön a kormánykerékkel jelzett járművet vezeti. Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× A vasúti átjáróban nem előzheti meg a kézikocsit.
+− A vasúti átjáróban megelőzheti a kézikocsit.
+
+[3.1 23] Ön a kormánykerékkel jelzett gépjárművet vezeti. Szabad-e megelőznie a vasúti átjáróban az állati erővel vontatott járművet?
+× Nem.
+− Igen, mert nincs felfestve záróvonal.
+− Igen, ha 25 km/h sebességnél lassabban halad az állati erővel vontatott jármű.
+
+[3.1 24] Szabad-e megelőznie a vasúti átjáróban a ’B’ jelű személygépkocsinak a ’C’ jelű kétkerekű motorkerékpárost?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha az úttest közepén nincs záróvonal felfestve.

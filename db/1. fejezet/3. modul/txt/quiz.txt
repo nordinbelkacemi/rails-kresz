@@ -1,0 +1,556 @@
+Szabad-e másokat indokolatlanul zavarni?
+× Nem.
+− Igen, csak indokolatlanul akadályozni nem szabad.
+− Igen, csak indokolatlanul veszélyeztetni nem szabad.
+− Igen, ha járművünk sebessége ezt megkívánja.
+− Igen, ha ezzel csökkenteni tudjuk a menetidőnket.
+
+Szabad-e a járművel az utat és tartozékait rongálni, szennyezni?
+× Nem.
+− Csak az elengedhetetlenül szükséges mértékben.
+− Csak indokolt esetben.
+− Igen, ha előzetesen vállalja, hogy az okozott kárt megtéríti.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a forgalomra vonatkozó jogszabályi rendelkezéseket betartani.
+− köteles a forgalomra vonatkozó szokásjogi szabályokat betartani.
+− a közlekedési szabályokat rugalmasan értelmezheti.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a közúti jelzések rendelkezéseinek eleget tenni.
+− annak célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+− annak a szabályok mérlegelése után célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne veszélyeztesse.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne akadályozza.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne zavarja.
+
+Szabad-e a közlekedés résztvevőit veszélyeztetni?
+× Nem.
+− Igen, indokolt esetben.
+− Általában nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+
+Szabad-e másokat indokolatlanul akadályozni?
+× Nem.
+− Igen, csak indokolatlanul zavarni nem szabad.
+− Igen, csak indokolatlanul veszélyeztetni nem szabad.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+
+Milyen következménnyel járhat, ha nem tartjuk be a közlekedési szabályokat?
+× Veszélyhelyzet alakulhat ki, amelyből könnyen baleset következhet be.
+− Semmilyen következménnyel nem jár.
+− Biztosan baleset ér minket.
+
+Szabad-e másokat indokolatlanul zavarni?
+× Nem.
+− Igen, csak indokolatlanul akadályozni nem szabad.
+− Igen, csak indokolatlanul veszélyeztetni nem szabad.
+− Igen, ha járművünk sebessége ezt megkívánja.
+− Igen, ha ezzel csökkenteni tudjuk a menetidőnket.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne veszélyeztesse.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne akadályozza.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne zavarja.
+
+Szabad-e a közlekedés résztvevőit veszélyeztetni?
+× Nem.
+− Igen, indokolt esetben.
+− Általában nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+
+Fékezhet-e hirtelen, ha egy figyelmetlen gyalogos váratlanul az Ön által vezetett jármű elé az úttestre lép?
+× Igen, ha ezt a személy- vagy vagyonbiztonság megóvása szükségessé teszi.
+− Csak akkor, ha az Ön mögött haladó megfelelő követési távolságot tart.
+− Nem, mert hirtelen fékezni sosem szabad.
+
+Szabad-e másokat indokolatlanul akadályozni?
+× Nem.
+− Igen, csak indokolatlanul zavarni nem szabad.
+− Igen, csak indokolatlanul veszélyeztetni nem szabad.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+
+Kötelező-e hangjelzést adni, ha az úton hajtott állatokkal találkozik?
+× Csak balesetveszély esetén.
+− Csak akkor, ha az állatokat hajtó személyt nem látja.
+− Igen, minden esetben.
+
+Parkoló járművéből egy figyelmetlenül az úton átkelő gyalogost pillant meg. Használhat-e figyelmeztetésképpen hangjelzést?
+× Igen, ha ezzel egy esetleges balesetet előz meg.
+− Nem, mert gyalogosok vonatkozásában nem használhat hangjelzést.
+
+[1.3] A képen látható ’B’ jelű jármű a lakott területen lévő belső forgalmi sávban utolér egy lassabban haladó járművet. Adhat-e hangjelzést a gyorsabb haladás érdekében?
+× Nem, mert lakott területen nem szabad hangjelzést adni az előzési szándék jelzésére.
+− Igen, mert a szabálytalanul lassan haladó járművek figyelmeztetésére bármikor szabad hangjelzést használni.
+− Igen, mert az előzési szándék jelzésére bárhol szabad hangjelzést adni.
+
+Szabad-e másokat indokolatlanul zavarni?
+× Nem.
+− Igen, csak indokolatlanul akadályozni nem szabad.
+− Igen, csak indokolatlanul veszélyeztetni nem szabad.
+− Igen, ha járművünk sebessége ezt megkívánja.
+− Igen, ha ezzel csökkenteni tudjuk a menetidőnket.
+
+Szabad-e részt venni a közlekedésben olyan járművel, amely az utat és tartozékait megrongálja?
+× Nem.
+− Igen, ha a környezetet közvetlenül nem szennyezi.
+− Igen, ha az esetleges kár értéke nem haladja meg a 10 000 Ft-ot.
+− Igen, de csak a közútkezelő engedélyével.
+− Igen, ha erre munkaadójától külön utasítást kapott.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a forgalomra vonatkozó jogszabályi rendelkezéseket betartani.
+− köteles a forgalomra vonatkozó szokásjogi szabályokat betartani.
+− a közlekedési szabályokat rugalmasan értelmezheti.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a közúti jelzések rendelkezéseinek eleget tenni.
+− annak célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+− annak a szabályok mérlegelése után célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne veszélyeztesse.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne akadályozza.
+− köteles úgy közlekedni, hogy a személy- és vagyonbiztonságot ne zavarja.
+
+Köteles-e a járművezető a közúti ellenőr jelzéseinek eleget tenni?
+× Igen.
+− Nem.
+− Csak akkor, ha rendőr is van a helyszínen.
+− Csak akkor, ha ezzel a forgalmat nem akadályozzák.
+− Csak akkor, ha a jelzést lámpával adja.
+
+Köteles-e a járművezető a közút környezetének védelmére vonatkozó jogszabályi rendelkezéseket betartani?
+× Igen.
+− Nem, csak a forgalmi szabályokat kell betartania.
+− Nem, csak az út védelmére kell tekintettel lennie.
+− Nem, mert ez a közútkezelő feladata.
+− Csak akkor, ha ez a közúti jelzésekből kifejezetten következik.
+
+Szabad-e a közlekedés résztvevőit veszélyeztetni?
+× Nem.
+− Igen, indokolt esetben.
+− Általában nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+
+Kötelező-e a forgalom irányítására jogosultak utasításainak eleget tenni?
+× Igen.
+− Csak akkor, ha nem ellentétesek a közúti jelzésekkel.
+− Igen, ha azok ésszerűek.
+− Csak akkor, ha igazolják a forgalom irányítására való jogosultságukat.
+− Nem, de nem is tiltott.
+
+A gépkocsi vezetője a jármű forgalmi okból történő megállásának ideje alatt...
+× használhat kézben tartott mobiltelefont.
+− nem használhat kézben tartott mobiltelefont.
+− nem használhat kihangosított mobiltelefont.
+
+Milyen hatással van a közlekedés biztonságára a vezetés közbeni mobiltelefonálás?
+× Figyelemelterelő hatása van, sokszor még kihangosító vagy headset használatával is.
+− A mobiltelefonálás nem akadályozza a járművezetőt a vezetésben.
+
+Szabad-e vezetés közben mobiltelefont kézben tartva telefonálni, internetezni?
+× Nem, ez jogszabályban tiltott.
+− Csak érintőképernyős okos telefonnal.
+− Kizárólag lakott területen kívül közlekedve.
+− Kizárólag akkor, ha ez a vezetésben nem zavarja.
+
+Milyen színnel világít a műszerfalon a tompított világítás bekapcsolását jelző lámpa?
+× Zöld színnel.
+− Kék színnel.
+− Sárga színnel.
+− Piros színnel.
+− Fehér, vagy kadmiumsárga színnel.
+
+Milyen színnel világít a műszerfalon a távolsági világítás bekapcsolását jelző lámpa?
+× Kék színnel.
+− Zöld színnel.
+− Sárga színnel.
+− Piros színnel.
+− Fehér, vagy kadmiumsárga színnel.
+
+[1.3 1] Mit jelent, ha a képen látható visszajelző lámpa világít?
+× A rögzítőfék behúzott állapotára figyelmeztet.
+− Elkoptak a jármű fékbetétei.
+− Túl alacsony valamelyik gumiabroncs levegőnyomása.
+− Meghibásodott az üzemi fék.
+
+[1.3 2] Mit jelent a képen látható visszajelző lámpa felgyulladása?
+× A gépjármű üzemanyagtartályában már csak a tartalék üzemanyag mennyiség áll rendelkezésre, ezért rövid időn belül tankolni kell.
+− Azonnal segítséget kell kérni, mert néhány percen belül kifogy az üzemanyag.
+− Meghibásodott a gépkocsi üzemanyagrendszere.
+− Meghibásodott a jármű kipufogógáz-tisztító berendezése (katalizátora).
+
+[1.3 3] Tovább közlekedhet-e, ha a képen látható 1-es jelű visszajelző lámpa menet közben folyamatosan világít?
+× Igen, de a blokkolásgátló (ABS) rendszer működésére nem számíthat, ezért haladéktalanul keressen fel szakszervizet.
+− Igen, de csak csökkentett sebességgel a legközelebbi javító műhelyig, mert az elérhető fékhatás számottevően csökkent.
+− Nem, a járművet szakszervizbe kell szállítani.
+− Igen, korlátozás nélkül, csak arra kell számítani, hogy a fékpedált valamivel nagyobb erővel kell nyomni.
+
+[1.3 4] Mit jelent, ha a képen látható 2-es jelű visszajelző lámpa menet közben folyamatosan világít?
+× Az elektronikus menetdinamikai szabályozórendszer (elektronikus menetstabilizáló program - ESP) meghibásodott vagy kikapcsolták.
+− A blokkolásgátlót (ABS) a jármű vezetője kikapcsolta.
+− Az elektronikus menetdinamikai szabályozórendszer (elektronikus menetstabilizáló program - ESP) működésbe lépett.
+− A blokkolásgátló (ABS) rendszer meghibásodott.
+
+Mi az elektronikus menetdinamikai szabályozórendszer (elektronikus menetstabilizáló program - ESP) rendeltetése?
+× A jármű stabilitásának megőrzése, illetve a vezető által a kormánykerékkel kijelölt haladási irány tartása a motor hajtónyomatékának szabályozásával és a kerékfékek célzott működtetésével.
+− A járművek követési távolságának automatikus szabályozása a kerékfékek célzott működtetésével.
+− A vezető által beállított haladási sebesség automatikus tartása a gázpedál érintése nélkül.
+− A kerekek blokkolásának megakadályozása a fékezőnyomás megfelelő szabályozásával.
+
+[1.3 5] Miről tájékoztat a képen látható 1-es jelű visszajelző lámpa?
+× A távolsági fényszóró bekapcsolt állapotáról.
+− A tompított fényszóró bekapcsolt állapotáról.
+− A ködfényszóró bekapcsolt állapotáról.
+− A helyzetjelző lámpák bekapcsolt állapotáról.
+
+[1.3 6] Mire szolgál a képen látható 2-es jelű visszajelző lámpa?
+× A tompított fényszóró bekapcsolt állapotát mutatja.
+− A távolsági fényszóró bekapcsolt állapotát mutatja.
+− A ködfényszóró bekapcsolt állapotát mutatja.
+− A helyzetjelző lámpák bekapcsolt állapotát mutatja.
+
+[1.3 7] Miről tájékoztat a képen látható visszajelző lámpa?
+× A hátsó helyzetjelző ködlámpa bekapcsolt állapotáról.
+− A ködfényszóró bekapcsolt állapotáról.
+− A tompított fényszóró bekapcsolt állapotáról.
+− A távolsági fényszóró bekapcsolt állapotáról.
+
+Milyen célt szolgál a jármű fordulatszám-mérője?
+× Segítséget nyújt a fogyasztás, illetve a teljesítményleadás szempontjából ideális fordulatszám tartományban történő üzemeltetéshez.
+− Segítségével meghatározható a pillanatnyi fogyasztás pontos értéke.
+− Segítségével ellenőrizhető a kenő- és a hűtőrendszer működése is.
+− Segítségével a motor elhasználódásáról kapunk fontos információkat.
+
+[1.3 8] Mire utal a képen látható visszajelző lámpa felgyulladása?
+× Minimálisra csökkent az ablakmosó folyadék szintje a tartályban.
+− Kritikus szint alá csökkent a hűtőfolyadék szintje.
+− Eltömődött az ablakmosó fúvóka.
+− Kritikus szint alá eset az üzemanyagszint.
+
+[1.3 9] Mit jelent, ha a képen látható 1-es jelű visszajelző lámpa folyamatosan világít?
+× A légzsák rendszer meghibásodott, ezért azt szakszervizben meg kell vizsgáltatni.
+− A légzsákok üzemkész állapotban vannak.
+− Leeresztett valamelyik légzsák, ezért a légzsákok nyomását ellenőriztetni kell.
+− A járműben nincs bekapcsolva valamelyik biztonsági öv.
+
+[1.3 10] Mire utal, ha a képen látható 1-es jelű visszajelző lámpa világít?
+× A vezető melletti ülés légzsákját kikapcsolták.
+− A gépkocsi valamennyi légzsákját kikapcsolták.
+− A vezetőülés légzsákját kikapcsolták.
+− A légzsák rendszer meghibásodott.
+
+[1.3 11] Mit jelez a képen látható visszajelző lámpa?
+× A ködfényszóró bekapcsolt állapotát.
+− A távolsági fényszóró bekapcsolt állapotát.
+− A nappali menetjelző lámpa bekapcsolt állapotát.
+− A tompított fényszóró bekapcsolt állapotát.
+
+[1.3 12] Mire figyelmeztet a képen látható 5-ös jelű lámpa?
+× A biztonsági öv bekapcsolásának szükségességére.
+− Arra, hogy a jármű valamelyik ajtaját nem csukták be megfelelően.
+− Arra, hogy a légzsákok nem működnek.
+− Arra, hogy a jármű túl van terhelve.
+
+[1.3 13] Melyik járműrendszer működésének visszajelzésére és ellenőrzésére szolgál a képen látható lámpa?
+× A dízelmotor izzítórendszere.
+− Az utastér fűtése.
+− Az Otto-motor gyújtásrendszere.
+− A katalizátor.
+
+[1.3 14] Mire utal a képen látható motorfordulatszám-mérőn a piros tartomány?
+× A megengedettnél nagyobb fordulatszámokat jelzi, melyeken üzemelve a motor károsodást szenvedhet.
+− Ezt a fordulatszám tartományt csak hegyvidéki utakon szabad használni.
+− Ebben a fordulatszám tartományban fejti ki a motor a maximális teljesítményét.
+− Ebben a fordulatszám tartományban optimális a motor fogyasztása.
+
+Lehet-e tovább közlekedni, ha a jármű generátora meghibásodott, nem tölt?
+× Igen, de a hiba kijavításáról mielőbb gondoskodni kell, mert az akkumulátor lemerül.
+− Nem, szigorúan tilos.
+− Nem, mert az elektromos berendezések így nem működnek.
+− Nem, mert így a jármű motorja nem kap elég üzemanyagot.
+
+[1.3 15] Mire figyelmeztet, ha a képen látható 1-es jelű visszajelző lámpa menet közben folyamatosan világít?
+× A blokkolásgátló (ABS) rendszer meghibásodott, nem üzemel.
+− Meghibásodott a dízelmotor izzító rendszere.
+− Kiégett a féklámpa.
+− Nem működnek a légzsákok.
+
+Honnan ismerhető fel a motor túlmelegedése?
+× A hűtőfolyadék hőmérsékletét jelző műszer mutatója a piros tartományba lép és/vagy kigyullad a hűtőfolyadék túlhevülésére utaló visszajelző lámpa.
+− Az utastér fűtése automatikusan bekapcsol, és forró levegőt juttat az utastérbe.
+− Kigyullad az alacsony motorolaj nyomásra figyelmeztető lámpa.
+− A jármű teljesítménye menet közben rohamosan csökkenni kezd.
+
+[1.3 16] Tovább közlekedhet-e járművével, ha a műszerfalon menet közben kigyullad a képen látható figyelmeztető lámpa?
+× Igen, ha más hibajelenséget nem tapasztal, de számítania kell rá, hogy járműve generátora nem fejleszt áramot, így hamarosan lemerül a járműbe szerelt akkumulátor.
+− Igen, az akkumulátor a generátor töltése nélkül is még legalább fél évig képes működtetni a jármű elektromos rendszerét.
+− Nem, a járművel azonnal meg kell állnia, mert károsodhat a jármű akkumulátora.
+− Igen, mert ez csak annyit jelent, hogy az elektromos fogyasztók áramfelvétele átmenetileg meghaladja a generátor töltőáramát.
+
+Mit kell ellenőrizni a járművel való napi első elindulás előtt?
+× A jármű és a járművezető alkalmas-e a közlekedésre, a szükséges iratok rendelkezésre állnak-e.
+− Van-e a járműben térkép vagy műholdas navigációs (GPS) berendezés.
+− Az utasok személyazonosító igazolványának érvényességét.
+
+Az Otto-, vagy a dízelmotorok hidegindítása nehézkesebb?
+× A dízelmotoroké.
+− Az Otto-motoroké.
+− Egyformán nehézkes mindkét motorfajta hidegindítása.
+− A belsőégésű motorok téli indítása -50 Celsius fokig egyik motorfajtánál sem okoz különösebb gondot.
+
+Mi a gépkocsikban alkalmazott hibrid hajtás?
+× Egy belsőégésű és egy villamos motor összehangolt működésén alapuló hajtásrendszer.
+− Egy gázturbina és egy belsőégésű motor összehangolt működésén alapuló hajtásrendszer.
+− Egy Otto- és egy dízelmotor összehangolt működésén alapuló hajtásrendszer.
+− Ez a gázüzemre is alkalmas járművek hajtásrendszerének elnevezése.
+
+Melyek a tisztán elektromos hajtású személygépkocsi sajátosságai?
+× Nem bocsát ki kipufogó gázokat, szinte hangtalan az üzemelése, intenzíven gyorsul, viszont kis hatótávolsággal rendelkezik.
+− Nem bocsát ki kipufogó gázokat, gyengén gyorsul, zajos az üzemelése és kis hatótávolsággal rendelkezik.
+− Kipufogógáza nem mérgező, szinte hangtalan az üzemelése, gyengén gyorsul, viszont nagy hatótávolsággal rendelkezik.
+
+Szabad-e a jármű motorját zárt helyiségben hosszabb ideig működtetni?
+× Nem, mert a kipufogógázban lévő szén-monoxid belélegezve rosszullétet, súlyos esetben halált okozhat.
+− Igen, mert a kipufogógázban nincsenek mérgező, káros anyagok.
+− Igen, de csak akkor, ha a hanghatás mások számára nem zavaró.
+− Igen, ha a motor ez idő alatt csak alapjáraton működik.
+− Igen, de csak akkor, ha a járművezető előzetesen üresbe kapcsolta a jármű sebességváltóját.
+
+Miért szükséges a jármű motorjának hűtése?
+× A jármű motorjának ideális, üzemi hőmérsékleten tartása miatt.
+− Mert nagy hőmérsékleten az üzemanyag kémiailag átalakul, és ez akadályozza a megfelelő égést.
+− A motor hirtelen hőterhelésének megakadályozására.
+
+Az Otto-, vagy a dízelmotorok hidegindítása nehézkesebb?
+× A dízelmotoroké.
+− Az Otto-motoroké.
+− Egyformán nehézkes mindkét motorfajta hidegindítása.
+− A belsőégésű motorok téli indítása -50 Celsius fokig egyik motorfajtánál sem okoz különösebb gondot.
+
+Milyen motorok esetén alkalmaznak a hidegindítás megkönnyítésére izzítást?
+× Dízelmotorok esetében.
+− Otto-motorok esetében.
+− Kétütemű motorok esetében.
+− Minden járműmotor esetében.
+
+[1.3 17] Melyik járműrendszer működésének visszajelzésére és ellenőrzésére szolgál a képen látható lámpa?
+× A dízelmotor izzítórendszere.
+− Az utastér fűtése.
+− Az Otto-motor gyújtásrendszere.
+− A katalizátor.
+
+Mire szolgál a jármű motorjának beindításánál alkalmazott izzítás?
+× A dízelmotoros járművek szívócsövének és/vagy égésterének előmelegítésére a hidegindítás megkönnyítése céljából.
+− Az Otto-motoros járművek szívócsövének és/vagy égésterének előmelegítésére a hidegindítás megkönnyítése céljából.
+− Az utastér előmelegítésére elindulás előtt.
+− Az üzemanyagtartály felmelegítésére hidegindításkor.
+
+[1.3 18] A képen látható tartály…
+× a gépkocsi hűtőrendszerének kiegyenlítőtartálya.
+− az ablakmosó berendezés folyadéktartálya.
+− a fékfolyadéktartály.
+
+Lehet-e tovább közlekedni, ha a jármű generátora meghibásodott, nem tölt?
+× Igen, de a hiba kijavításáról mielőbb gondoskodni kell, mert az akkumulátor lemerül.
+− Nem, szigorúan tilos.
+− Nem, mert az elektromos berendezések így nem működnek.
+− Nem, mert így a jármű motorja nem kap elég üzemanyagot.
+
+Mi lehet a következménye annak, ha a generátor ékszíja elszakad?
+× A generátor nem fejleszt áramot.
+− A motor leáll.
+− Megnövekszik a jármű üzemanyag fogyasztása.
+− A motor üzemi hangja megnövekszik.
+− Megnövekszik a motor károsanyag kibocsátása.
+
+Mi a teendője a járműbe szerelt akkumulátorral, ha az tönkremegy?
+× A tönkrement akkumulátort az erre kijelölt átvevőhelyen leadom.
+− A tönkrement akkumulátort a kommunális hulladékgyüjtőbe dobom.
+− A tönkrement akkumulátorban lévő folyadékot kiöntöm, és sósavat öntök a helyébe, így az akkumulátor tovább használható.
+
+[1.3 19] Tovább közlekedhet-e járművével, ha a műszerfalon menet közben kigyullad a képen látható figyelmeztető lámpa?
+× Igen, ha más hibajelenséget nem tapasztal, de számítania kell rá, hogy járműve generátora nem fejleszt áramot, így hamarosan lemerül a járműbe szerelt akkumulátor.
+− Igen, az akkumulátor a generátor töltése nélkül is még legalább fél évig képes működtetni a jármű elektromos rendszerét.
+− Nem, a járművel azonnal meg kell állnia, mert károsodhat a jármű akkumulátora.
+− Igen, mert ez csak annyit jelent, hogy az elektromos fogyasztók áramfelvétele átmenetileg meghaladja a generátor töltőáramát.
+
+Mi a gépjármű hatótávolsága?
+× Az egy tank üzemanyaggal megtehető maximális út hossza.
+− Az 1 liter üzemanyaggal megtehető maximális út hossza.
+− Az 1 óra alatt megtehető út hossza.
+− A két olajcsere között megtehető út hossza.
+
+Szabad-e Otto-motort gázolajjal, dízelmotort benzinnel üzemeltetni?
+× Nem.
+− Igen, tetszés szerint.
+− Csak rövid időre, szükségmegoldásként.
+
+Milyen gépkocsik üzemeltethetőek bioetanollal (E-85 jelzésű üzemanyaggal)?
+× Az ennek megfelelő kialakítású Otto-motoros gépkocsik.
+− Bármelyik Otto-motoros gépkocsi.
+− Az ennek megfelelő kialakítású dízelmotoros gépkocsik.
+− Bármelyik dízelmotoros gépkocsi.
+
+[1.3 20] Mennyinek kell lennie a motorolaj mennyiségének a képen látható ellenőrző pálcával történő ellenőrzéskor?
+× A minimum és a maximum között.
+− Lehetőleg a maximum fölött.
+− Lehetőleg a minimum alatt.
+
+Kell-e időközönként cserélni a motor kenőolaját?
+× Igen, a meghatározott időközönként, ill. futásteljesítményenként.
+− Nem, mert a motorolaj nem használódik el.
+− Cserélni nem kell, csak le kell szűrni belőle a leülepedett olajsarat.
+− Igen, de csak akkor, ha már nehéz a kormányt forgatni.
+− Igen, de csak akkor, ha a motor akadozva jár.
+
+[1.3 21] Hogyan lehet motorolajat tölteni a képen látható motorba?
+× A 3-as jelű fedél által lezárt olajbetöltő nyíláson keresztül.
+− A 2-es jelű nívópálca kihúzása után szabaddá váló nyíláson keresztül.
+− Az 1-es jelű átlátszó kiegyenlítőtartály tetején található betöltőnyíláson keresztül.
+
+[1.3 21] Hogyan ellenőrizheti a motorolaj szintjét a képen látható motortérben?
+× A 2-es jelű nívópálca segítségével.
+− A 3-as jelű fedél által lezárt olajbetöltő nyíláson keresztül.
+− Az 1-es jelű átlátszó kiegyenlítőtartály oldalfalán át.
+
+Milyen olajat használ utántöltésre, ha a motorban lévő olajszint csökken?
+× Ugyanazt az olajfajtát, ami a motorban van.
+− Bármilyen motorolajat.
+− A motorban lévőnél jobb minőségűt.
+− Az utántöltéshez csak fagyálló használható.
+− A motorban lévőnél rosszabb minőségűt.
+
+Mire szolgálnak a gépkocsik kipufogórendszerébe épített katalizátorok?
+× A kipufogógázban található mérgező gázok semlegesítésére.
+− A kipufogás zajának csökkentésére.
+− A motor fogyasztásának csökkentésére.
+− A motor teljesítményének növelésére.
+
+[1.3 22] Milyen járműrendszerek rendellenes működésére utalhat, ha a képen látható lámpa folyamatosan világít, vagy villog?
+× A motorvezérlés, a motor tüzelőanyagellátása, vagy a katalizátor hibájára.
+− A motor kenőrendszerének meghibásodására.
+− A motor hűtőrendszerének meghibásodására.
+− A generátor meghibásodására.
+
+Mire kell ügyelnie a katalizátoros gépkocsi leállításakor?
+× A gépkocsival ne álljon gyúlékony anyag (pl. száraz fű) fölé, mert a katalizátor üzemi hőmérséklete magas és ez tűzveszéllyel járhat.
+− A motor leállítását megelőzően pörgesse fel a motort, így meghosszabbítható a katalizátor élettartama.
+− A motort csak huzamosabb alapjáraton történő járatás után állítsa le, így meghosszabbítható a katalizátor élettartama.
+− A katalizátor magas hőmérséklete miatt a motor nem mindig állítható le, ilyenkor a motort még egy ideig alapjáraton kell működtetni.
+
+Lemerült akkumulátor esetén szabad-e a katalizátoros gépjármű motorját behúzatással (betolással) beindítani?
+× Nem, mert a katalizátor károsodhat, tönkremehet.
+− Igen, mert ez a katalizátor élettartamát nem befolyásolja.
+− Igen, mert másképp nem lehet ezt a járművet beindítani.
+− Igen, ha előzetesen a katalizátor kapcsolóját kikapcsolták.
+− Igen, de csak akkor, ha a behúzatást a nyomó- és húzóerők felvételére alkalmas vontatórúddal végzik.
+
+Kisebb, vagy a nagyobb sebességi fokozatban jobb a jármű gyorsítóképessége?
+× Kisebb sebességi fokozatban.
+− Nagyobb sebességi fokozatban.
+− Nem függ a sebességi fokozattól.
+
+Mi a sebességváltó feladata?
+× A motor és a hajtott kerekek fordulatszám tartományainak összehangolása, a menetellenállásoknak megfelelő hajtónyomaték beállítása, illetve hátramenet biztosítása.
+− A hajtónyomaték elosztása a jármű hajtott kerekei között, valamint a kétoldali hajtott kerekek fordulatszám különbségének lehetővé tétele kanyarban haladva.
+− Nehéz terepen a jármű összkerékhajtásának biztosítása.
+− A hajtott kerekek kipörgésének megakadályozása csúszós úton.
+
+Amikor járművével egy várakozóhelyről az úttestre kíván ráhajtani, akkor...
+× az úttesten haladó járművek részére köteles elsőbbséget adni.
+− az úttesten haladó járművek kötelesek Önnek elsőbbséget adni.
+− az úttesten haladó járművektől elvárható az udvariasság.
+
+Köteles-e irányjelzéssel jelezni az úttest széléről történő, irányváltoztatással nem járó elindulást?
+× Igen, minden esetben.
+− Nem
+
+Mennyi a jól működő irányjelző lámpa percenkénti villogásainak száma?
+× 60-120 villogás/perc.
+− 30-40 villogás/perc.
+− 20-50 villogás/perc.
+
+Miről ismerhetjük fel vezetés közben, ha valamelyik irányjelző lámpa izzója kiégett?
+× A műszerfalon lévő zöld visszajelző lámpa nem világít, vagy nagyobb sebességgel villog.
+− A műszerfalon lévő zöld visszajelző lámpa folyamatosan világít.
+− A műszerfalon lévő visszajelző lámpa pirosan világít.
+
+Ha elromlott a személygépkocsi irányjelző berendezése, akkor a jármű...
+× csak akkor közlekedhet tovább, ha kézzel megfelelő irányjelzés adható.
+− tovább közlekedhet.
+− semmilyen körülmények között sem közlekedhet tovább.
+− legfeljebb földúton közlekedhet tovább.
+
+Mi a szerepe az alábbiak közül a jármű irányjelző berendezésének?
+× A járművezető irányváltoztatási szándékának jelzése a többi közlekedő számára.
+− A jármű kanyarodását segíti elő.
+− A jármű láttatása.
+
+[1.3 23] Miről tájékoztat a képen bekeretezetten látható visszajelző lámpa felvillanása?
+× A baloldali irányjelzők működéséről.
+− A jobboldali irányjelzők működéséről.
+− A baloldali helyzetjelzők működéséről.
+− A bal oldali ködlámpa működéséről.
+
+Mire figyelmeztet, ha az irányjelző visszajelző lámpája a megszokottnál sűrűbben villog?
+× Az irányjelző berendezés hibájára, valószínűleg kiégett valamelyik izzó.
+− Arra, hogy hosszabb ideje bekapcsolva felejtettük az irányjelzőt.
+− Arra, hogy kiolvadt az irányjelző biztosítéka.
+− Arra, hogy a forgalmi helyzet nem teszi lehetővé az irányváltoztatást.
+
+Kell-e sávváltáskor irányjelzést alkalmazni?
+× Igen, a többi közlekedő tájékoztatása céljából.
+− Ha nincs mögöttünk más jármű, akkor nem szükséges.
+− Nem, elég a fejünket hátrafordítva tájékozódni a sávváltás előtt.
+
+Kell-e az előzési szándékot irányjelzéssel jelezni?
+× Igen, ha az irányváltoztatással jár.
+− Igen, minden esetben.
+− Igen, de csak sűrű forgalom esetén.
+
+Kell-e a megállást - ide nem értve a forgalmi okból történő megállást - irányjelzéssel jelezni?
+× Igen, kell.
+− Nem kell.
+− Csak akkor kell, ha az irányváltoztatással is jár.
+
+[1.3 24] Ön egy olyan úton halad, ahol ezt a közúti jelzést látja. Mikor jár el szabályosan?
+× Ha az út vonalvezetését követve nem használja az irányjelzőjét.
+− Ha először jobbra, majd a kanyar közepétől balra ad irányjelzést.
+− Ha csak jobbra működteti az irányjelzőjét, és a kanyarok után kikapcsolja azt.
+
+Köteles-e irányjelzéssel jelezni az úttest széléről történő, irányváltoztatással nem járó elindulást?
+× Igen, minden esetben.
+− Nem
+
+[1.3 25] Az ’A’ jelű személygépkocsi várakozóhelyről kíván elindulni. Mikor kell az irányjelzőt használnia?
+× Az elindulás megkezdése előtt, és addig kell működtetnie, amíg kikanyarodik az úttestre.
+− Csak az elindulás után, és addig kell működtetnie, amíg elkanyarodik.
+− Ilyen helyzetben csak akkor kell az irányjelzőt használnia, ha az úttesten érkezik jármű.
+
+Az alábbiak közül mikor kell irányjelzőt használnia?
+× Amikor lehajt az útpadkára.
+− Amikor behajt a körforgalomba.
+− Amikor a kanyarodó főútvonalon követi a főútvonal vonalvezetését.
+
+[1.3 26] Az ’A’ jelű személygépkocsi várakozóhelyről kíván elindulni. Mikor kell az irányjelzőt használnia?
+× Az elindulás megkezdése előtt, amit az úttestre kikanyarodásig működtetnie kell.
+− Csak az elindulás után, mielőtt elkanyarodik a választott irányba.
+− Itt csak akkor kell irányjelzést adnia, ha az úttesten másik jármű érkezik.
+
+[1.3 27] Megtévesztőnek minősül-e a balra történő irányjelzés, ha Ön ennél a közúti jelzőtáblánál haladva a balra kanyarodó főútvonal vonalvezetését követi?
+× Nem.
+− Igen.
+
+Használhat-e irányjelzőt abban az esetben, ha az útkereszteződésben a jobbra kanyarodó főútvonalon halad tovább?
+× Igen, de csak jobbra.
+− Igen, de csak balra.
+− Nem.

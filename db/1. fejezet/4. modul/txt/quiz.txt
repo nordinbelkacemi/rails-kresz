@@ -1,0 +1,569 @@
+Amikor járművével egy várakozóhelyről az úttestre kíván ráhajtani, akkor...
+× az úttesten haladó járművek részére köteles elsőbbséget adni.
+− az úttesten haladó járművek kötelesek Önnek elsőbbséget adni.
+− az úttesten haladó járművektől elvárható az udvariasság.
+
+Az úttest széléről elinduló jármű vezetője köteles az úttesten haladó...
+× járművek és gyalogosok részére elsőbbséget adni.
+− járművek és gyalogosok zavarásától tartózkodni.
+
+Amikor járművével egy várakozóhelyről az úttestre kíván ráhajtani, akkor...
+× az úttesten haladó járművek részére köteles elsőbbséget adni.
+− az úttesten haladó járművek kötelesek Önnek elsőbbséget adni.
+− az úttesten haladó járművektől elvárható az udvariasság.
+
+Köteles-e irányjelzéssel jelezni az úttest széléről történő, irányváltoztatással nem járó elindulást?
+× Igen, minden esetben.
+− Nem
+
+[1.4] Ön az ’A’ jelű személygépkocsival az úttest széléről kíván elindulni. Köteles-e elsőbbséget adni a kézikocsit húzó ’B’ jelű személy részére?
+× Igen, minden esetben.
+− Nem, mert a kézikocsi nem jármű, ezért elsőbbséget sem kell adni számára.
+− Nem, mert a kézikocsival a járdán kell közlekedni.
+
+[1.4 1] Ön a ’B’ jelű kézikocsival az úttesten halad. Számíthat-e arra, hogy az ’A’ jelű személygépkocsi az úttest szélérő elindulva elsőbbséget fog Önnek adni?
+× Igen, hiszen a kézikocsi is a forgalomban részt vevő jármű.
+− Nem, mert a kézikocsi nem minősül járműnek.
+− Nem, mert kézikocsival a járdán kellene haladnia.
+
+[1.4 2] Az ’A’ jelű személygépkocsi a parkolóhelyről kíván elindulni. A tervezett manőver kapcsán van-e elsőbbségadási kötelezettsége?
+× Igen van.
+− Nincs.
+
+[1.4 3] Az ’A’ jelű jármű a parkolóhelyről kíván elindulni. Eközben...
+× a gyalogos részére köteles elsőbbséget adni.
+− feltarthatja a gyalogost.
+− elsőbbséget fog kapni a gyalogostól.
+
+[1.4 3] Az ’A’ jelű személygépkocsi várakozóhelyről kíván elindulni. Mikor kell az irányjelzőt használnia?
+× Az elindulás megkezdése előtt, amit az úttestre kikanyarodásig működtetnie kell.
+− Csak az elindulás után, mielőtt elkanyarodik a választott irányba.
+− Itt csak akkor kell irányjelzést adnia, ha az úttesten másik jármű érkezik.
+
+[1.4 3] Az ’A’ jelű jármű a parkolóhelyről kíván elindulni. A tervezett manőver kapcsán van-e elsőbbségadási kötelezettsége?
+× Igen, van.
+− Nincs.
+
+[1.4 4] Az ’A’ jelű autóbusz vezetője számíthat-e arra, hogy az érkező ’B’ jelű személygépkocsi vezetője lehetővé teszi a belső sávba történő besorolást?
+× Nem.
+− Igen.
+
+[1.4 5] Ön lakott területen az ’A’ jelű járművet vezeti. Válassza ki a helyes állítást!
+× Lehetővé kell tennie a megállóból elinduló ’B’ jelű autóbusz besorolását az Ön által használt forgalmi sávba.
+− Nem köteles lehetővé tennie a megállóból elinduló 'B' jelű autóbusz besorolását az Ön által használt forgalmi sávba.
+− Elsőbbséget kell adnia a megállóból elinduló ’B’ jelű autóbusz részére.
+
+[1.4 6] Ön lakott területen az ’A’ jelű személygépkocsit vezeti. Van-e valamilyen kötelezettsége, ha azt látja, hogy a ’B’ jelű autóbusz el kíván indulni a megállóhelyről?
+× Igen, lassítással, szükség esetén megállással is lehetővé kell tennie az autóbusz elindulását.
+− Nincs, mivel az autóbusz többsávos útra kíván ráhajtani.
+− Igen, be kell állni az autóbusz mögé a megállóhelyre, ezzel is elősegítvén az autóbusz elindulását.
+
+[1.4 7] Milyen módon köteles lehetővé tenni az ’A’ jelű személygépkocsi vezetője lakott területen a ’B’ jelű autóbusz elindulását az autóbusz-megállóból?
+× Lassítással, szükség esetén megállással is.
+− Az autóbusz-megállóba történő beállással.
+− Akár hirtelen fékezéssel is.
+
+[1.4 8] Mikor számíthat arra a ’B’ jelű autóbusz vezetője lakott területen, hogy az érkező ’A’ jelű személygépkocsi lehetővé teszi az elindulását?
+× Ha elindulási szándékát jelzi az irányjelzővel.
+− Ha az ajtaját becsukja.
+− Amikor beáll a megállóhelyre.
+
+[1.4 9] Mikor köteles az ’A’ jelű jármű a ’B’ jelű autóbusz elindulását lehetővé tenni?
+× Csak akkor, ha ezt hirtelen fékezés nélkül meg tudja tenni.
+− Minden esetben, még hirtelen fékezés árán is.
+− Soha nem köteles lehetővé tenni.
+
+[1.4 10] Ön az ’A’ jelű gépkocsit vezeti. Van-e valamilyen kötelezettsége, ha azt látja, hogy a ’B’ jelű autóbusz el kíván indulni a megállóhelyről?
+× Igen, lassítással, szükség esetén megállással is lehetővé kell tennie az autóbusz elindulását.
+− Nincs, mivel az autóbusz olyan útra kíván ráhajtani, amelyen van villamospálya.
+− Nincs. Lassítás nélkül folytathatja útját, mivel az elinduló járművek kötelesek elsőbbséget adni az érkezők részére.
+
+[1.4 11] Milyen módon köteles az ’A’ jelű személygépkocsi vezetője lehetővé tenni a ’B’ jelű autóbusz elindulását a megállóhelyről?
+× Lassítással, szükség esetén megállással.
+− Csak lassítással.
+− Akár hirtelen fékezéssel is.
+
+Az úttest széléről elinduló jármű vezetője köteles az úttesten haladó...
+× járművek és gyalogosok részére elsőbbséget adni.
+− járművek és gyalogosok zavarásától tartózkodni.
+
+Amikor járművével egy várakozóhelyről az úttestre kíván ráhajtani, akkor...
+× az úttesten haladó járművek részére köteles elsőbbséget adni.
+− az úttesten haladó járművek kötelesek Önnek elsőbbséget adni.
+− az úttesten haladó járművektől elvárható az udvariasság.
+
+Hol kell lehetővé tenni az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak a megállóhelyről való elindulását?
+× Csak lakott területen.
+− Csak lakott területen kívül.
+− Lakott területen és lakott területen kívül egyaránt.
+
+Válassza ki, hogy az alábbiak közül mely jármű elindulását köteles lakott területen lehetővé tenni?
+× A megállóhelyről elinduló iskolabuszét.
+− A telephelyről kiinduló, figyelmeztető jelzést használó autóét.
+− A taximegállóból kiinduló taxiét.
+
+Lakott területen a megállóhelyről egy gyermekeket szállító autóbusz kíván elindulni. Ha ez hirtelen fékezés nélkül megtehető, köteles-e az elindulását lehetővé tenni?
+× Igen.
+− Nem, mert ez csak a menetrend szerinti autóbusz esetén kötelező.
+
+Milyen módon kell lehetővé tenni a lakott területen lévő megállóhelyen tartózkodó, elindulási szándékát jelző autóbusz elindulását?
+× Lassítással, szükség esetén megállással
+− Kizárólag csak lassítással.
+− Minden esetben megállással.
+
+Milyen módon kell lehetővé tenni az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak a lakott területen lévő megállóhelyről való elindulását?
+× Lassítással, szükség esetén megállással.
+− Sebességcsökkentés nélkül.
+− Akár hirtelen fékezéssel is.
+
+[1.4 12] Ön az ’A’ jelű személygépkocsival az úttest széléről kíván elindulni. Köteles-e elsőbbséget adni a kézikocsit húzó ’B’ jelű személy részére?
+× Igen, minden esetben.
+− Nem, mert a kézikocsi nem jármű, ezért elsőbbséget sem kell adni számára.
+− Nem, mert a kézikocsival a járdán kell közlekedni.
+
+[1.4 13] Köteles-e az 'A' jelű jármű vezetője lakott területen lehetővé tenni a 'B' jelű autóbusz részére a megállóból történő elindulást?
+× Igen, ha ez hirtelen fékezés nélkül megtehető.
+− Igen, minden esetben.
+− Nem.
+
+[1.4 14] Az ’A’ jelű személygépkocsi a parkolóhelyről kíván elindulni. A tervezett manőver kapcsán van-e elsőbbségadási kötelezettsége?
+× Igen van.
+− Nincs.
+
+[1.4 15] Az ’A’ jelű jármű a parkolóhelyről kíván elindulni. Eközben...
+× a gyalogos részére köteles elsőbbséget adni.
+− feltarthatja a gyalogost.
+− elsőbbséget fog kapni a gyalogostól.
+
+[1.4 16] Az ’A’ jelű jármű a parkolóhelyről kíván elindulni. A tervezett manőver kapcsán van-e elsőbbségadási kötelezettsége?
+× Igen, van.
+− Nincs.
+
+[1.4 17] A képen látható ’B’ jelű jármű vezetője maga elé engedheti-e a forgalmi sávot váltani kívánó ’A’ jelű gépkocsit?
+× Igen.
+− Nem, az elsőbbségéről soha nem mondhat le.
+
+[1.4 18] Ön az ’A’ jelű személygépkocsit vezeti. A képen látható helyzetben maga elé engedheti a ’B’ jelű motorkerékpárt?
+× Igen, de ezt egyértelműen lassítással vagy megállással jeleznie kell számára.
+− Nem, ebben az esetben köteles élni az elsőbbségi jogával és tilos maga elé engedni a másik járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű motorkerékpárnak van elsőbbsége.
+
+[1.4 19] Ön az ’A’ jelű személygépkocsit vezeti. A képen látható helyzetben maga elé engedheti a ’B’ jelű járműszerelvényt?
+× Igen, de ezt egyértelműen lassítással vagy megállással jeleznie kell számára.
+− Nem, ebben az esetben köteles élni az elsőbbségi jogával és tilos maga elé engedni a másik járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű járműszerelvénynek van elsőbbsége.
+
+[1.4 20] Ön az ’A’ jelű személygépkocsit vezeti. Az ábrán látható helyzetben maga elé engedheti-e a ’B’ jelű személygépkocsit?
+× Igen, de ezt egyértelműen, például lassítással vagy megállással kell jeleznie számára.
+− Nem, ebben az esetben köteles élni az Önt megillető elsőbbségi joggal, és nem engedheti maga elé a ’B’ jelű járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű személygépkocsinak van elsőbbsége.
+
+[1.4 21] Ön az ’A’ jelű személygépkocsit vezeti. A képen látható helyzetben maga elé engedheti a ’B’ jelű tehergépkocsit?
+× Igen, de ezt egyértelműen lassítással vagy megállással jeleznie kell számára.
+− Nem, ebben az esetben köteles élni az elsőbbségi jogával és tilos maga elé engedni a másik járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű tehergépkocsinak van elsőbbsége.
+
+[1.4 22] Ön az ’A’ jelű személygépkocsit vezeti. A képen látható helyzetben maga elé engedheti a ’B’ jelű járműszerelvényt?
+× Igen, de ezt egyértelműen lassítással vagy megállással jeleznie kell számára.
+− Nem, ebben az esetben köteles élni az elsőbbségi jogával és tilos maga elé engedni a másik járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű járműszerelvénynek van elsőbbsége.
+
+[1.4 23] Ön az ’A’ jelű személygépkocsit vezeti. A képen látható helyzetben maga elé engedheti a ’B’ jelű autóbuszt?
+× Igen, de ezt egyértelműen lassítással vagy megállással jeleznie kell számára.
+− Nem, ebben az esetben köteles élni az elsőbbségi jogával és tilos maga elé engedni a másik járművet.
+− Kötelessége ezt megtenni, hiszen ebben a helyzetben a ’B’ jelű autóbusznak van elsőbbsége.
+
+Útnak minősül-e a közforgalom elől el nem zárt magánút?
+× Igen.
+− Nem.
+− Csak akkor, ha az út alkalmas kétirányú forgalom lebonyolítására.
+− Igen, ha az út elején ennek megfelelő közúti jelzést helyeztek el.
+− Igen, ha az utat szilárd útburkolattal látták el.
+
+Az alábbiak közül mi minősül úttestnek?
+× Az útnak a közúti járművek közlekedésére szolgáló része.
+− Az útnak a közúti járművek és a gyalogosok közlekedésére szolgáló része.
+− Az útnak a gépkocsik közlekedésére szolgáló része.
+− Az útnak a gépjárművek közlekedésére szolgáló része.
+− Az útnak az a része, amely szilárd útburkolattal van ellátva.
+
+Az alábbiak közül mi minősül járdának?
+× Az útnak a gyalogosok közlekedésére szolgáló része.
+− Az útnak a gyalogosok és a kerékpárok közlekedésére szolgáló része.
+− Az útnak a gyalogosok és a segédmotoros kerékpárok közlekedésére szolgáló része.
+− Minden gyalogút járdának minősül.
+− Az úttestnek a gyalogosok közlekedésére szolgáló része.
+
+Az alábbiak közül mi minősül forgalmi sávnak?
+× Az úttestnek egy gépkocsisor biztonságos közlekedésére elegendő szélességű része.
+− Az úttestnek egy motorkerékpársor közlekedésére elegendő része.
+− Az úttestnek egy járműsor közlekedésére elegendő része.
+− Az úttestnek a két terelővonal közötti része.
+− Csak az úttestnek az útburkolati jelekkel megjelölt, egy gépkocsisor biztonságos közlekedésére elegendő szélességű része.
+
+Az alábbiak közül mi minősül leállósávnak?
+× Az útnak az úttesttel azonos szintben lévő, attól útburkolati jellel elválasztott és útburkolattal ellátott része.
+− Az úttestnek útburkolattal el nem látott része.
+− Az útnak útburkolattal el nem látott része.
+− A jelzőtáblával leállósávként megjelölt forgalmi sáv.
+− Az útnak az a része, amely kiemelt szegéllyel van elválasztva az úttest egyéb részétől.
+
+Az alábbiak közül mi minősül útpadkának?
+× Az útnak az úttest mellett lévő, útburkolattal el nem látott része.
+− Az útnak az úttesttől útburkolati jellel elválasztott része.
+− Az útnak az egy nyomon haladó járművek közlekedésére szolgáló része.
+− Az útnak az a része, amely kiemelt szegéllyel van elválasztva az úttest egyéb részétől.
+− Az út melletti vízelvezető árok rézsű szerű oldala.
+
+Az alábbiak közül mi minősül osztott pályás útnak?
+× Az olyan út, amelyen a két forgalmi irány számára két külön úttest áll rendelkezésre.
+− Az olyan út, amelyen a két forgalmi irány számára útburkolati jellel elválasztott két külön rész áll rendelkezésre.
+− Az autóút úttestje.
+− A főútvonal lakott területen kívüli szakasza.
+− Az olyan út, ahol a forgalmi sávokat kiemelt szegéllyel, vagy más egyéb fizikai akadállyal választották el egymástól.
+
+Az alábbiak közül mi minősül járdaszigetnek?
+× Az útnak az úttesttől kiemelt szegéllyel elválasztott, a gyalogosok védelmére szolgáló része.
+− Az útnak a gyalogosok számára készült része.
+− Az útnak a gyaloglásra szolgáló része.
+− Az útnak az a része, amelyet a járművek forgalmától folyamatos fehér vonallal választanak el.
+− Az útnak az a része, amely a járműforgalom elől betonelemekkel van elzárva.
+
+Mi minősül általában a menetirány szerinti jobb oldalnak?
+× Az úttestnek az a része, amely a felezővonaltól jobbra esik.
+− Csak az osztott pályás út jobb oldali útteste.
+− Csak a körforgalom és az egyirányú utca útteste.
+− A párhuzamos közlekedésre alkalmas út külső forgalmi sávja.
+− Csak a menetirány szerinti jobb oldali úttest széle.
+
+Ha a kormányzott kerekek megcsúsznak, ...
+× akkor a jármű nem irányítható.
+− akkor a jármű irányítható marad, de nagyobb erőkifejtést igényel.
+− akkor ellenkormányzással kell stabilizálni a jármű mozgását.
+
+Miért veszélyes, ha a jármű kormányzott kerekei megcsúsznak?
+× Mert a jármű irányíthatatlanná válik.
+− Mert a jármű nehezebben kormányozható.
+− Mert a jármű az üzemi fékkel nem fékezhető.
+
+Mi a teendő a jármű fékezésből eredő megcsúszása esetén?
+× A fékerő csökkentése és kormányzás a helyes irányba.
+− A tengelykapcsolót és a fékpedált együttesen benyomva igyekezzünk elkerülni a jármű kicsúszását.
+− Blokkoló fékezéssel igyekezzünk megállítani a járművet.
+
+Gépkocsija nincs elektronikus menetdinamikai szabályozórendszerrel (ESP) felszerelve. Milyen kormányzást végez akkor, ha a jármű hátsó kerekei megcsúsznak, és a jármű pördülni kezd?
+× Ellenkormányoz (a hátsó kerekek csúszásának irányába).
+− A hátsó kerekek csúszásával ellentétes irányba kormányoz.
+− Az eredeti haladási szándékának megfelelő helyzetben tartja a kormánykereket.
+− Elengedi a kormánykereket.
+
+A kerék és a talaj közti tapadóerő...
+× arányos a kereket talajra szorító erővel.
+− nem függ a jármű terhelésétől.
+− a jármű sebességével négyzetes arányban változik.
+
+Függ-e – és miért – a jármű menetellenállásának mértéke a sebességtől?
+× Igen, a sebesség növelésével a menetellenállás – a légellenállás növekedése miatt – nő.
+− Nem, a menetellenállás mértéke nem függ a sebességtől.
+− Igen, a sebesség növelésével a menetellenállás – a gördülési ellenállás csökkenése miatt – csökken.
+− Igen, a sebesség növelésével a menetellenállás – a légellenállás csökkenése miatt – csökken.
+
+Milyen következménnyel kell számolni, ha a motor levegőszűrője eltömődött?
+× Megnövekszik a jármű üzemanyag fogyasztása.
+− Megnövekszik a jármű kipufogó gázok mennyisége.
+− Eldugul az üzemanyag befecskendező fúvókája.
+− Nincs következménye, mert a motor levegőszűrője csak az utastérbe jutó levegőt szűri.
+− Leáll a motor.
+
+Mitől függ a jármű üzemanyag fogyasztásának mértéke az alábbiak közül?
+× A jármű műszaki állapotától, a vezetési stílustól és az útviszonyoktól.
+− A járművezető életkorától.
+− A tankolt üzemanyag mennyiségétől.
+
+Hogyan hat a rakomány tömege a szállító jármű üzemanyag fogyasztására?
+× A rakomány tömegének növelése növeli az üzemanyag fogyasztást.
+− A rakomány tömege nincs hatással az üzemanyag fogyasztásra, csak a rakomány terjedelme.
+− A rakomány tömege csökkenti az üzemanyag fogyasztást.
+
+Hogyan hat a jármű üzemanyag fogyasztására az útburkolat minősége?
+× A puha és egyenetlen talajon való haladás növeli a jármű üzemanyag fogyasztását.
+− Az útburkolat minősége nem befolyásolja az üzemanyag fogyasztást.
+− A puhább, egyenetlenebb talajon való haladáskor csökken az üzemanyag fogyasztás.
+
+Hogyan hat a jármű üzemanyag fogyasztására a jármű légellenállása?
+× A megnövekedett légellenállás növeli a jármű üzemanyag fogyasztását.
+− A megnövekedett légellenállás csökkenti a jármű üzemanyag fogyasztását.
+− A légellenállás változása nem befolyásolja az üzemanyag fogyasztást.
+
+Mi növelheti meg jelentősen a jármű légellenállását?
+× A tetőcsomagtartó, illetve az azon szállított tárgyak, a lehúzott ablakok, illetve a nyitott tetőablak.
+− A túl alacsony gumiabroncsnyomás.
+− Az erőltetett hegymenet.
+− A túl magas gumiabroncsnyomás.
+
+Hogyan érhető el általában a legkedvezőbb üzemanyag fogyasztás?
+× Kíméletes gyorsításokkal, egyenletes haladási sebességgel (kevés indokolatlan gyorsítással, fékezéssel), egyenletes haladáskor a lehető legmagasabb sebességfokozat használatával.
+− Intenzív gyorsításokkal, egyenletes haladási sebességgel (kevés indokolatlan gyorsítással, fékezéssel), egyenletes haladáskor a lehető legmagasabb sebességfokozat használatával.
+− Intenzív gyorsításokkal, egyenletes haladási sebességgel (kevés indokolatlan gyorsítással, fékezéssel), egyenletes haladáskor a lehető legalacsonyabb sebességfokozat használatával.
+− Kíméletes gyorsításokkal, egyenletes haladási sebességgel (kevés indokolatlan gyorsítással, fékezéssel), egyenletes haladáskor a lehető legalacsonyabb sebességfokozat használatával.
+
+Hogyan függ a kerekek gördülési ellenállása az gumiabroncsok nyomásától?
+× Az abroncsnyomás csökkenésével a kerekek gördülési ellenállása nő.
+− Az abroncsnyomás növekedésével a kerekek gördülési ellenállása nő.
+− Az abroncsnyomás nincs hatással a kerekek gördülési ellenállására.
+
+Mennyi üzemanyagot fogyasztanak a korszerű belsőégésű motorokkal felszerelt járművek motorfék üzemben?
+× Motorfék üzemben nem fogyasztanak üzemanyagot.
+− Az alapjáraton megszokott mennyiséget fogyasztják.
+− Általában 2-4 litert fogyasztanak óránként.
+− Ilyenkor 2-4 l/100 km a fogyasztásuk.
+
+Milyen célt szolgál a jármű fordulatszám-mérője?
+× Segítséget nyújt a fogyasztás, illetve a teljesítményleadás szempontjából ideális fordulatszám tartományban történő üzemeltetéshez.
+− Segítségével meghatározható a pillanatnyi fogyasztás pontos értéke.
+− Segítségével ellenőrizhető a kenő- és a hűtőrendszer működése is.
+− Segítségével a motor elhasználódásáról kapunk fontos információkat.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a közúti jelzések rendelkezéseinek eleget tenni.
+− annak célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+− annak a szabályok mérlegelése után célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+
+Elhelyezhetők-e a közúti jelzőtáblák fényvisszaverő sárga háttéren?
+× Igen.
+− Nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak lakott területen.
+− Igen, de csak főútvonalon.
+
+Aki a közúti közlekedésben részt vesz, ...
+× köteles a közúti jelzések rendelkezéseinek eleget tenni.
+− annak célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+− annak a szabályok mérlegelése után célszerű a közúti jelzések rendelkezéseinek eleget tenni.
+
+Mi a járművezető kötelessége, ha a rendőr jelzései ellentétesek valamely közúti jelzéssel?
+× A rendőr jelzései szerint köteles eljárni.
+− Az egyéb közúti jelzés szerint köteles eljárni.
+− Köteles a biztonságosabb megoldást választani.
+− Köteles erre a rendőr figyelmét felhívni.
+− Minden esetben meg kell állni és tisztázni kell az ellentmondást.
+
+Mikor nem irányadó a ’Főútvonal’ jelzőtábla jelzése?
+× Ha a forgalmat fényjelző készülék irányítja.
+− Csak akkor, ha a fényjelző készülék piros jelzése világít.
+− Akkor, ha a fényjelző készülék villogó sárga jelzést ad.
+− Ha az út párhuzamos közlekedésre alkalmas.
+− Ha az út párhuzamos közlekedésre nem alkalmas.
+
+Kötelező-e a forgalom irányítására jogosultak utasításainak eleget tenni?
+× Igen.
+− Csak akkor, ha nem ellentétesek a közúti jelzésekkel.
+− Igen, ha azok ésszerűek.
+− Csak akkor, ha igazolják a forgalom irányítására való jogosultságukat.
+− Nem, de nem is tiltott.
+
+[1.4 24] Mit jelez ez a jelzőtábla?
+× Sorompó nélküli vasúti átjárót.
+− Vasútállomást.
+− A vasúti átjáró kezdetét.
+
+[1.4 25] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Azt, hogy az útkereszteződésben a balról érkező járműnek van elsőbbsége.
+− Vasúti átjáró kezdetét.
+
+[1.4 26] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a járműnek elsőbbsége van a keresztező úton érkező járművel szemben.
+− Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Főútvonalat.
+
+[1.4 27] Mit jelez ez a jelzőtábla?
+× Azt, hogy az úttest 500 m-en keresztül lényegesen rosszabb állapotban van a megelőző útszakaszhoz képest.
+− Azt, hogy a két bukkanó között 500 m a távolság.
+− 500 m megtétele után bukkanók következnek.
+
+[1.4 28] Mi a neve ennek a jelzőtáblának?
+× ’Elsőbbség a szembejövő forgalommal szemben’.
+− ’A szembejövő forgalom elsőbbsége’.
+− ’Egyirányú forgalmú út’.
+
+[1.4 29] Hogyan kell közlekedni a jelzőtáblát követően?
+× Úgy, hogy az út által körbezárt terület a járművezetőtől balra essék.
+− Úgy, hogy az út által körbezárt terület a járművezetőtől jobbra essék.
+− Ellentétes rendőri jelzésig körbe-körbe kell haladni.
+
+[1.4 30] Mire utasít ez a jelzőtábla?
+× Arra, hogy a jelzőtáblával jelzett akadályt jobbról kell kikerülni.
+− Jobbra történő bekanyarodásra.
+− Arra, hogy a jelzőtáblával jelzett akadályt valamely irányból ki kell kerülni.
+
+[1.4 31] Mi a jelzőtábla neve?
+× ’Kikerülési irány’.
+− ’Kötelező haladási irány’.
+− ’Szoros jobbra tartási kötelezettség’.
+
+[1.4 32] Mi a jelzőtábla neve?
+× ’Körforgalom’.
+− ’Kötelező haladási irány’.
+− ’Forgószél’.
+
+[1.4 33] Mi a jelzőtábla neve?
+× ’Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos’.
+− ’Személygépkocsival behajtani tilos’.
+− ’Személygépkocsival és mopedautóval behajtani tilos’.
+
+[1.4 34] Mi a jelzőtábla megnevezése?
+× ’Autóút’.
+− ’Főútvonal’.
+− ’Autópálya’.
+
+[1.4 35] Mi a jelzőtábla jelentése?
+× ’Főútvonal’.
+− ’Autóút’.
+− ’Mellékút vége’.
+
+[1.4 36] Mi a jelzőtábla jelentése?
+× Az útkereszteződésben a főútvonal balra kanyarodik.
+− Az útkereszteződésben kötelező balra kanyarodni.
+− A főútvonal forgalmát elterelték a vastag vonal szerinti irányba.
+
+[1.4 37] Mit jelent az ábrán látható jelzőtábla?
+× ’Főútvonal vége’ jelzőtábla 100 méter megtétele után.
+− A főútvonal 100 m megtétele után kezdődik.
+− Az autóút 100 m megtétele után véget ér.
+
+[1.4 38] Mire kötelezi ez a jelzőtábla?
+× Elsőbbséget kell adnia a keresztező (betorkolló) úton érkező járművek részére.
+− Elsőbbséget kell adnia a figyelmeztető jelzést használó járművek részére.
+− Kötelező megállásra.
+
+[1.4 39] Az alábbiak közül mire kötelezi ez a jelzőtábla?
+× Megállással történő elsőbbségadásra.
+− Megállás nélküli elsőbbségadásra.
+− Csak megállásra.
+
+[1.4 40] Mit jelent ez a jelzőtábla?
+× ’Elsőbbségadás kötelező’ tábla következik 100 m megtétele után.
+− ’Állj! Elsőbbségadás kötelező’ tábla következik 100 m megtétele után.
+− ’Főútvonal’ tábla következik 100 m megtétele után.
+
+[1.4 41] Mit jelent ez a jelzőtábla?
+× Azt, hogy az útszűkületben elsőbbséget kell adni a szembejövő jármű részére.
+− Azt, hogy az útszűkület után tilos egyenesen továbbhaladni.
+− Azt, hogy ebből az irányból tilos behajtani az útszűkületbe.
+
+[1.4 42] Mit jelent ez a jelzőtábla?
+× Azt, hogy az útszűkületben a járműnek elsőbbsége van a szembejövő járművel szemben.
+− Azt, hogy az útszűkület után egyenesen kell továbbhaladni.
+− Azt, hogy az út egyirányú forgalmú a jelzőtáblától.
+
+[1.4 43] Mi a jelzőtábla jelentése?
+× ’Kötelező haladási irány’.
+− ’Egyirányú forgalmú út’.
+− ’Terelőút’.
+
+[1.4 44] Melyik irányban haladhat el az ábrán látható járdasziget mellett, ha az az úttest menetirány szerinti jobb és bal oldalát választja el egymástól?
+× Csak jobbról, a ’B’ jelű nyomvonalon.
+− Csak balról, az ’A’ jelű nyomvonalon.
+− Útiránytól függően akár az ’A’, akár a ’B’ jelű nyomvonalon.
+
+Az úttest szélén lassítósáv található. Köteles-e járművével a jobbra tartás értelmében itt közlekedni?
+× Nem.
+− Igen, ha a jármű vezetője túl lassan halad.
+− Igen, minden esetben.
+
+[1.4 45] Ön az ’A’ jelű személygépkocsit vezeti. Válassza ki a helyes állítást!
+× A ’2’ jelű nyomvonalon szabályosan halad.
+− Csak az ’1’ jelű nyomvonalon való haladása szabályos.
+− Az ’1’ jelű nyomvonalon csak akkor halad szabályosan, ha az utasa erre megkéri.
+
+Mit jelent a jobbratartási kötelezettség?
+× Lehetőség szerint az úttest jobb szélén kell közlekedni.
+− Lehetőség szerint az úttest jobb oldalán bárhol lehet közlekedni.
+− Lehetőség szerint a járdaszigettől 30 cm-re kell közlekedni.
+
+[1.4 46] A képen látható járművek az úttest jobb szélén 15-20 méter távolságra várakoznak egymástól. Szabályosan közlekedik-e az ’A’ jelű gépkocsi, ha haladása közben nem húzódik le közéjük?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően mindig köteles az úttest jobb széléhez húzódva közlekedni.
+
+[1.4 47] Köteles az ’A’ jelű gépkocsi a képen látható helyen az úttest jobb szélén várakozó járművek közé húzódni?
+× Nem.
+− Igen.
+
+[1.4 48] A képen látható járművek az úttest jobb szélén 15-20 méter távolságra várakoznak egymástól. Szabályosan közlekedik-e Ön a kormánykerékkel jelzett járművet vezetve, ha haladása közben nem húzódik le közéjük?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően mindig köteles az úttest jobb széléhez húzódva közlekedni.
+
+[1.4 49] Ön a kormánykerékkel jelzett járművet vezetve köteles a képen látható helyen az úttest jobb szélén várakozó járművek közé húzódni?
+× Nem.
+− Igen.
+
+Hol kell közlekedni az állati erővel vont járművel?
+× Szorosan az úttest jobb szélén.
+− A forgalmi sáv közepén.
+− A menetirány szerinti jobb oldalon bárhol.
+− Szorosan a felezővonalhoz húzódva.
+
+Köteles-e lassú járművével szorosan az úttest jobb szélén közlekedni?
+× Igen, ha az út- és forgalmi viszonyok ezt lehetővé teszik.
+− Nem.
+− Csak akkor, ha 20 km/h sebességnél lassabban halad.
+
+Folyamatos haladásnál melyik sebességfokozat használata a legelőnyösebb?
+× A haladási sebességhez igazodó lehető legnagyobb sebességfokozattal célszerű haladni, a közepes fordulatszámot tartva.
+− Folyamatos haladásnál magas fordulatszámot eredményező sebességfokozatot kell kapcsolni, hogy erőtartalék keletkezzen.
+− Folyamatos haladásnál mindig az 5. sebességfokozatot kell használni.
+
+[1.4 50] Hogyan kapcsolhatók a képen látható sebességváltó fokozatai járó motor mellett?
+× A tengelykapcsoló pedál benyomását követően kapcsolhatóak a fokozatok.
+− A fékpedálra lépve kapcsolható a kívánt fokozat.
+− Elinduláskor a tengelykapcsoló pedált benyomva kell az 1-es, vagy a hátrameneti ('R') fokozatot kapcsolni. A magasabb fokozatok kapcsolásánál erre már nincsen szükség.
+− A fokozatok kapcsolásához mindig folyamatosan nyomni kell a gázpedált.
+
+Fokozatváltáskor hogyan kell kezelni a tengelykapcsoló pedált?
+× Ütközésig be kell nyomni.
+− Álló helyzetben, az első fokozat bekapcsolásakor ütközésig be kell nyomni, magasabb fokozatok kapcsolásakor elég csak félig benyomni.
+− Visszakapcsolásnál mindig ütközésig be kell nyomni, felfelé kapcsolásnál nem szükséges a tengelykapcsoló pedált működtetni.
+− Felfelé kapcsolásnál mindig ütközésig be kell nyomni, visszakapcsolásnál nem szükséges a tengelykapcsoló pedált működtetni.
+
+Fokozatváltáskor hogyan kell kezelni a tengelykapcsoló pedált?
+× Ütközésig be kell nyomni.
+− Álló helyzetben, az első fokozat bekapcsolásakor ütközésig be kell nyomni, magasabb fokozatok kapcsolásakor elég csak félig benyomni.
+− Visszakapcsolásnál mindig ütközésig be kell nyomni, felfelé kapcsolásnál nem szükséges a tengelykapcsoló pedált működtetni.
+− Felfelé kapcsolásnál mindig ütközésig be kell nyomni, visszakapcsolásnál nem szükséges a tengelykapcsoló pedált működtetni.
+
+Hogyan működtetheti gépjárműve motorfékjét?
+× Bekapcsolt sebességfokozat esetén a kuplungpedál benyomása nélkül a gázpedálról lelépve.
+− A fékpedál egyszeri megnyomásával.
+− A sebességváltó kapcsolókarjának üres állásába állításával.
+− A tengelykapcsoló pedál benyomásával.
+
+Milyen sebességi fokozatot célszerű manuális sebességváltó esetén lejtőn való haladáskor használni?
+× Az emelkedőn felfelé haladva alkalmazottal megegyező, esetleg annál eggyel alacsonyabb fokozatot a megfelelő motorfékhatás biztosítása érdekében.
+− Csak az első, esetleg a második fokozatot a lehető legintenzívebb motorfékhatás elérése érdekében.
+− A sebességváltót üresbe kell kapcsolni, hogy a motorfék ne zavarja az üzemi fék működését.
+− A lehető legmagasabb fokozatot célszerű használni az alacsonyabb üzemanyag fogyasztás érdekében.
+
+[1.4 50] A képen egy személygépkocsi manuális sebességváltójának kapcsolókarja látható. Lehet-e ezzel a váltóval az ötödik fokozatból közvetlenül a másodikba visszakapcsolni?
+× Igen, lehet, csak arra kell ügyelni, hogy a második fokozat megfeleljen a jármű haladási sebességének (a motor a visszakapcsolás után a normál üzemi fordulatszám tartományában üzemeljen).
+− Nem, mert a manuális sebességváltóknál az ötödikből csak a negyedik, vagy a harmadik fokozatba lehet visszakapcsolni.
+− Nem, mert ez minden esetben súlyos károsodást okoz a sebességváltóban.
+− Nem, mert a manuális sebességváltóknál mindig csak a szomszédos fokozatok kapcsolhatóak.
+
+Milyen pedálok találhatóak az automatikus sebességváltóval szerelt személygépkocsiban?
+× Gáz- és fékpedál.
+− Gáz-, fék- és tengelykapcsoló pedál.
+− Gáz- és tengelykapcsoló pedál.
+− Gáz-, fék- és sebességváltó pedál.
+
+[1.4 51] Milyen fokozatokat, illetve programokat jelölnek a képen látható automata sebességváltó kar 'P', 'R', 'N', 'D', 'S' állásai?
+× "P" - parkolás, "R" - hátramenet, "N" - üres, "D" - előrementi fokozatok automatikus kapcsolása, "S" - előrementi fokozatok automatikus kapcsolása magasabb kapcsolási fordulatszámokon (sport program).
+− "P" - előrementi fokozatok automatikus kapcsolása, "R" - hátramenet, "N" - üres, "D" - megállás, "S" - előrementi fokozatok automatikus kapcsolása magasabb kapcsolási fordulatszámokon (sport program).
+− "P" - parkolás, "R" - hátramenet, "N" - üres, "D" - előrementi fokozatok automatikus kapcsolása, "S" - terepfokozat (felező).
+− "P" - terepfokozat (felező), "R" - hátramenet, "N" - üres, "D" - előrementi fokozatok automatikus kapcsolása, "S" - előrementi fokozatok automatikus kapcsolása magasabb kapcsolási fordulatszámokon (sport program).
+
+[1.4 51] Mi a különbség a képen látható automata váltó kapcsolókar 'D' és 'S' állása között?
+× Az automata váltó mindkét állásban automatikusan kapcsolja az előremeneti fokozatokat, de az 'S' állásban a fel- és visszakapcsolások magasabb fordulatszámon történnek meg.
+− Az automata váltó 'D' állásban az előremeneti, 'S' állásban a hátrameneti fokozatokat kapcsolja automatikusan.
+− Az automata váltó 'D' állásban rögzíti a hajtott kerekeket, 'S' állásban pedig automatikusan kapcsolja az előremeneti fokozatokat.
+− Az automata váltó 'D' állásban automatikusan kapcsolja az előremeneti fokozatokat, 'S' állásban pedig rögzíti a hajtott kerekeket.

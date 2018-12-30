@@ -1,0 +1,293 @@
+Mikor nem szabad zöld fényjelzésnél behajtani az útkereszteződésbe?
+× Ha a zöld fényjelzés időtartama alatt az útkereszteződést előreláthatólag nem lehet elhagyni.
+− A zöld fényjelzés ideje alatt mindig be szabad hajtani az útkereszteződésbe.
+− Ha a zöld fényjelzés villogni kezd.
+
+Mikor nem irányadó a ’Főútvonal’ jelzőtábla jelzése?
+× Ha a forgalmat fényjelző készülék irányítja.
+− Csak akkor, ha a fényjelző készülék piros jelzése világít.
+− Akkor, ha a fényjelző készülék villogó sárga jelzést ad.
+− Ha az út párhuzamos közlekedésre alkalmas.
+− Ha az út párhuzamos közlekedésre nem alkalmas.
+
+Mikor nem kell figyelembe venni az elsőbbséget szabályozó jelzőtáblák jelzéseit?
+× Ha a forgalmat fényjelző készülék irányítja.
+− Ha a fényjelző készülék villogó sárga jelzést ad.
+− Ha a fényjelző készülék semmilyen jelzést nem ad.
+− Ha a forgalom jelentős sűrűségű.
+− Ha az útkereszteződésbe való behajtás előtt hangjelzést használtunk.
+
+Szabályos-e, ha a közterület-felügyelő a jármű megállítására vonatkozó jelzést ad a járművezető számára?
+× Igen.
+− Nem.
+− Igen, de csak veszélyhelyzet elhárítása érdekében.
+− Igen, de csak rendőr jelenlétében.
+− Igen, de csak akkor, ha ezt az egyéb veszélyt jelző táblával előre jelezte.
+
+Mi a járművezető teendője, ha a jelzőőr jelzőtárcsával jelzést ad?
+× Meg kell állnia.
+− Csak fokozott óvatossággal haladhat tovább.
+− Csökkentenie kell járműve sebességét.
+− Be kell kapcsolnia a jármű világítását.
+− Le kell állítani a jármű motorját.
+
+A jelzőtárcsán kívül milyen egyéb eszközzel adhat jelzést a jelzőőr?
+× Piros fényű lámpával.
+− Fehér fényű lámpával.
+− Sárga, villogó fényű lámpával.
+− Forgalomirányító bottal.
+− Jelzősíppal.
+
+Mi a járművezető teendője, ha a polgárőr jelzőtárcsával jelzést ad?
+× Meg kell állnia.
+− Csak fokozott óvatossággal haladhat tovább.
+− A polgárőr nem adhat közúti jelzést.
+− Csökkentenie kell járműve sebességét.
+− Be kell kapcsolnia a jármű világítását.
+
+A jelzőtárcsán kívül milyen egyéb eszközzel adhat jelzést a polgárőr?
+× Piros fényű lámpával.
+− Fehér fényű lámpával.
+− A polgárőr nem adhat semmilyen jelzést.
+− Sárga, villogó fényű lámpával.
+− Forgalomirányító bottal.
+
+Kell-e előre jelezni, ha a forgalmat jelzőőr vagy polgárőr irányítja?
+× Igen, az ’Egyéb veszély’ jelzőtáblával, a jelzőőrre vonatkozó kiegészítő táblával együtt.
+− Nem.
+− Igen, a jelzőőrre vonatkozó kiegészítő táblával.
+− Igen, az erre vonatkozó szöveges feliratú jelzőtáblával.
+− Igen, egy ezt előjelző jelzőőr alkalmazásával.
+
+[3.5] Szabályos-e, ha a ’C’ jelű irányító személy megállítja az úttesten zajló forgalmat, amíg az ’A’ jelű jármű kitolat az épületből?
+× Nem, mivel nem minősül forgalomirányító személynek.
+− Igen, ha az ’A’ jelű jármű vezetője erre felhatalmazta.
+− Igen, mert piros tárcsát használ a járművek megállítására.
+
+Mi a járművezető kötelessége, ha a rendőr jelzései ellentétesek valamely közúti jelzéssel?
+× A rendőr jelzései szerint köteles eljárni.
+− Az egyéb közúti jelzés szerint köteles eljárni.
+− Köteles a biztonságosabb megoldást választani.
+− Köteles erre a rendőr figyelmét felhívni.
+− Minden esetben meg kell állni és tisztázni kell az ellentmondást.
+
+Milyen irányba haladhatnak tovább az útkereszteződésben a rendőr oldalirányban kinyújtott mindkét karjával párhuzamos irányból érkezők?
+× Tiltó jelzés hiányában egyenesen, jobbra vagy balra.
+− Csak egyenesen vagy jobbra.
+− Csak egyenesen.
+− Semmilyen irányba, mert ez a karjelzés az útkereszteződésbe való behajtás tilalmát jelenti.
+− Csak jobbra.
+
+Milyen irányba haladhatnak tovább az útkereszteződésben a rendőr oldalirányban kinyújtott mindkét karjára merőleges irányból érkezők?
+× Semmilyen irányba, mert ez a karjelzés az útkereszteződésbe való behajtás tilalmát jelenti.
+− Csak jobbra kis ívben.
+− Csak egyenesen.
+− Csak egyenesen vagy jobbra.
+− Csak jobbra vagy balra.
+
+Milyen irányba haladhatnak tovább az útkereszteződésben a rendőr vállára merőleges irányból érkezők?
+× Semerre sem, mivel ez a jelzés a továbbhaladás tilalmát jelenti.
+− Csak jobbra.
+− Bármelyik irányba.
+− Csak balra.
+− Csak egyenesen.
+
+Milyen irányba haladhatnak tovább egyéb jelzés hiányában a rendőr vállával párhuzamos irányból érkezők?
+× Tiltó jelzés hiányában egyenesen, jobbra vagy balra.
+− Csak egyenesen vagy jobbra.
+− Csak egyenesen.
+− Csak balra.
+− Csak jobbra.
+
+[3.5 1] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 2] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 3] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 4] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 5] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 6] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 7] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha az ábrázolt rendőri karjelzést látja?
+× Igen.
+− Nem.
+− Igen, de csak egyenesen.
+
+[3.5 8] Ön a kormánykerékkel jelzett járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Igen.
+− Nem.
+− Igen, de csak egyenesen.
+
+[3.5 9] Ha a bekanyarodást nem tiltja jelzőtábla, milyen irányban folytathatja útját a ’C’ jelű jármű ennél a rendőri karjelzésnél?
+× Semerre, mivel ez a karjelzés tiltja a továbbhaladást.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+
+[3.5 10] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a kormánykerékkel jelzett járművel ennél a rendőri jelzésnél?
+× Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Csak jobbra.
+
+[3.5 11] Ön a ’B’ jelű járművet vezeti. Hogyan kell bekanyarodnia balra, ha az ábrázolt rendőri karjelzést látja?
+× A rendőrt megkerülve.
+− A rendőr előtt elhaladva.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 12] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Igen, de csak egyenesen.
+
+[3.5 13] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Csak egyenesen.
+
+[3.5 14] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Csak egyenesen.
+
+[3.5 15] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+− Semerre, mivel a rendőr a továbbhaladást tiltja.
+
+[3.5 16] Ön a ’C’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 17] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Csak egyenesen.
+
+[3.5 18] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Csak egyenesen.
+
+[3.5 19] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 20] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 21] Ön a ’C’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem
+− Igen, egyenesen, valamint jobbra vagy balra bekanyarodva
+− Csak egyenesen.
+
+[3.5 22] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját a ’C’ jelű jármű ennél a rendőri jelzésnél?
+× Semerre, mivel a rendőr a továbbhaladást tiltja.
+− Egyenesen, valamint jobbra vagy balra bekanyarodva
+− Csak jobbra.
+
+[3.5 23] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 24] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 25] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 26] Ön a ’B’ jelű járművet vezeti. Továbbhaladhat-e az útkereszteződésben, ha a rendőrt a képen látható karjelzéssel látja?
+× Nem.
+− Igen.
+− Igen, de csak egyenesen.
+
+[3.5 27] Ön a ’B’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr előtt elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 28] Ha a bekanyarodást jelzőtábla nem tiltja, milyen irányban folytathatja az útját az ’A’ jelű jármű ennél a rendőri jelzésnél?
+× Egyenesen, valamint jobbra vagy balra bekanyarodva.
+− Csak jobbra.
+− Semerre, mivel a rendőr a továbbhaladást tiltja.
+
+[3.5 29] Ön az ’A’ jelű járművet vezeti. Ha a rendőrt a képen látható karjelzéssel látja, akkor hogyan kell balra bekanyarodnia?
+× A rendőr mögött elhaladva.
+− A rendőrt megkerülve.
+− Tetszés szerint a rendőr előtt vagy mögött elhaladva.
+
+[3.5 30] Ön a ’B’ jelű személygépkocsit vezeti. Mi a teendője, ha ezt a rendőri karjelzést látja?
+× Felkészül az elindulásra, mivel szabad jelzés fog következni.
+− Áthalad az útkereszteződésben, ha biztonságosan megállni már nem lehet.
+
+[3.5 31] Elindulhat-e az ’A’ jelű személygépkocsi vezetője, ha ezt a rendőri karjelzést látja?
+× Nem.
+− Igen.
+
+Szabad-e a közlekedés hatósági ellenőrzését megakadályozni?
+× Nem.
+− Nem, csak befolyásolni szabad.
+− Nem, csak megzavarni szabad.
+− Igen, indokolt esetben.
+− Igen, ha nem értünk egyet az ellenőrzéssel.
+
+Szabályos-e, ha a közterület-felügyelő a jármű megállítására vonatkozó jelzést ad a járművezető számára?
+× Igen.
+− Nem.
+− Igen, de csak veszélyhelyzet elhárítása érdekében.
+− Igen, de csak rendőr jelenlétében.
+− Igen, de csak akkor, ha ezt az egyéb veszélyt jelző táblával előre jelezte.
+
+Köteles-e a járművezető a közúti ellenőr jelzéseinek eleget tenni?
+× Igen.
+− Nem.
+− Csak akkor, ha rendőr is van a helyszínen.
+− Csak akkor, ha ezzel a forgalmat nem akadályozzák.
+− Csak akkor, ha a jelzést lámpával adja.
+
+Köteles-e a járművezető eleget tenni a rendőrségi helikopterről hangszórón adott utasításoknak?
+× Igen.
+− Nem.
+− Ilyen módon nem adható utasítás.
+− Csak akkor, ha rendőrautó is a helyszínen tartózkodik.
+− Csak lakott területen kívüli útszakaszon.
+
+Kötelező-e a forgalom irányítására jogosultak utasításainak eleget tenni?
+× Igen.
+− Csak akkor, ha nem ellentétesek a közúti jelzésekkel.
+− Igen, ha azok ésszerűek.
+− Csak akkor, ha igazolják a forgalom irányítására való jogosultságukat.
+− Nem, de nem is tiltott.
+
+A jármű hatósági engedélyét – ha jogszabály eltérően nem rendelkezik – a járművezetőnek vezetés közben...
+× magánál kell tartani.
+− célszerű magánál tartani.
+− nem kell magánál tartani.

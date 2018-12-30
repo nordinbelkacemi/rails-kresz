@@ -1,0 +1,494 @@
+[2.2] Szabályos-e, ha az ’A’ jelű járművel az ábrán látható útkereszteződésben való balra kanyarodás előtt az úttest bal széléhez sorol be?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha nem közlekedik más jármű az úttest bal oldalán.
+− Igen, de csak akkor, ha az útburkolati jelből ez következik.
+
+[2.2] Szabályos-e, ha az 'A' jelű járművel az ábrán látható útkereszteződésben való balra kanyarodás előtt az úttest közepére sorol be?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha az úttest legalább 3 méter szélességű.
+
+[2.2] Szabályos-e, ha az ’A’ jelű járművel az ábrán látható útkereszteződésben való balra kanyarodást az úttest jobb széléről hajtja végre?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha más jármű besorolása miatt nem tud az úttest bal széléhez besorolni.
+
+[2.2] Hogyan kell az ’A’ jelű gépkocsival a balra kanyarodás előtt elhelyezkednie?
+× Az úttest bal szélére kell besorolnia.
+− Az úttest közepén maradva kell megkezdenie a bekanyarodást.
+− Mivel nincs szembejövő forgalom, a kanyarodás előtt tetszőleges helyre sorolhat be.
+
+[2.2] Van-e valamilyen kötelezettsége az ’A’ jelű gépkocsi vezetőjének a balra történő bekanyarodás előtt?
+× Igen, balra adott irányjelzés mellett az úttest bal szélére kell besorolnia.
+− Igen, irányjelzés mellett az úttest jobb szélére kell besorolnia.
+− Csak irányjelzési kötelezettsége van, a balra kanyarodást az egyirányú út bármelyik részéről megkezdheti.
+
+Az alábbiak közül hová kell a járművel besorolni, mielőtt bekanyarodik az útkereszteződésben?
+× Az útburkolati jelek által meghatározott forgalmi sávba.
+− Bármely forgalmi sávba.
+− A legbiztonságosabbnak ítélt forgalmi sávba.
+
+Útburkolati jelek hiányában hová kell a járművel besorolni, ha az egyirányú forgalmú útról balra szeretne bekanyarodni?
+× Az úttest bal szélére.
+− Az úttest jobb szélére.
+− Az úttest közepére.
+
+[2.2 1] Ön az ’A’ jelű járművet vezeti. Válassza ki a helyes állítást!
+× Amennyiben balra kíván kanyarodni, akkor csak az ’1’ nyomvonalon szabad közlekednie.
+− Amennyiben balra kíván kanyarodni, akkor a ’2’ nyomvonalon csak akkor szabad közlekednie, ha Ön mögött másik jármű érkezik.
+− Amennyiben balra kíván kanyarodni, szabadon eldöntheti, hogy az ’1’ vagy a ’2’ nyomvonalon közlekedik.
+
+[2.2 2] Ön kormánykerékkel jelzett járművet vezeti. Válassza ki a helyes állítást!
+× Amennyiben balra kíván kanyarodni, akkor csak az ’1’ nyomvonalon szabad közlekednie.
+− Amennyiben balra kíván kanyarodni, akkor a ’2’ nyomvonalon csak akkor szabad közlekednie, ha Ön mögött másik jármű érkezik.
+− Amennyiben balra kíván kanyarodni, szabadon eldöntheti, hogy az ’1’ vagy a ’2’ nyomvonalon közlekedik.
+
+[2.2 1] Az ’A’ jelű jármű az ábrázolt útkereszteződésben balra kíván kanyarodni. Melyik nyomvonalon szabad közlekednie?
+× Csak az ’1’ jelzett nyomvonalon.
+− Csak a ’2’ jelzett nyomvonalon.
+− Akár az ’1’, akár a ’2’ nyomvonalon.
+
+[2.2 2] Ön a kormánykerékkel jelzett járművel az ábrázolt útkereszteződésben balra kíván kanyarodni. Melyik nyomvonalon szabad közlekednie?
+× Csak az ’1’ jelzett nyomvonalon.
+− Csak a ’2’ jelzett nyomvonalon.
+− Akár az ’1’, akár a ’2’ nyomvonalon.
+
+[2.2 2] Ön a kormánykerékkel jelzett járművel az ábrázolt útkereszteződésben balra kíván kanyarodni. Mikor köteles az irányjelzőjét használni?
+× Minden esetben.
+− Csak akkor, ha az úton más jármű is érkezik.
+− Csak akkor, ha a ’2’ nyomvonalon kíván bekanyarodni, majd rögtön utána leparkol az úttest bal szélére.
+
+Hogyan kanyarodhat balra segédmotoros kerékpárral a lakott területen kívüli főútvonalról?
+× A besorolási szabálynak megfelelően, a felezővonal mellől.
+− Az úttest jobb széléről, gyalogosan áttolva a segédmotoros kerékpárt a másik útra.
+− Az úttest jobb széléről.
+
+[2.2 3] Mikor közlekedik szabályosan az ’A’ jelű személygépkocsi vezetője az ábrán látható útkereszteződésben?
+× Akkor, ha a ’2’ számmal jelölt nyomvonalon halad.
+− Akkor, ha az ’1’ számmal jelölt nyomvonalon halad.
+− A két nyomvonal közül tetszőlegesen választhat.
+
+[2.2 4] Ön a kormánykerékkel jelzett járművel mikor közlekedik szabályosan a képen látható útkereszteződésben?
+× Akkor, ha a ’2’ számmal jelölt nyomvonalon halad.
+− Akkor, ha az ’1’ számmal jelölt nyomvonalon halad.
+− A két nyomvonal közül tetszőlegesen választhat.
+
+[2.2 5] Mikor hajthat tovább az ’1’ számmal jelölt nyomvonalon az ’A’ jelű személygépkocsi vezetője?
+× Mivel kanyarodás után a menetirány szerinti jobb oldalra kell érkezni, ezért nem hajthat az ’1’ számmal jelölt nyomvonalon.
+− Csak akkor, ha 30 méteren belül áthúzódik a 2-es számmal jelölt nyomvonalra.
+− Bármikor, ha nem érkezik másik jármű.
+
+[2.2 6] Ön a kormánykerékkel jelzett járművel mikor hajthat tovább az ’1’ számmal jelölt nyomvonalon a képen látható útkereszteződésben?
+× Mivel kanyarodás után a menetirány szerinti jobb oldalra kell érkezni, ezért nem hajthat az ’1’ számmal jelölt nyomvonalon.
+− Csak akkor, ha 30 méteren belül áthúzódik a 2-es számmal jelölt nyomvonalra.
+− Bármikor, ha nem érkezik másik jármű.
+
+[2.2 7] Ön az ’A’ jelű járművet vezeti. Válassza ki a helyes állítást!
+× Amennyiben balra kíván kanyarodni, akkor csak az ’1’ nyomvonalon szabad közlekednie.
+− Amennyiben balra kíván kanyarodni, akkor a ’2’ nyomvonalon csak akkor szabad közlekednie, ha Ön mögött másik jármű érkezik.
+− Amennyiben balra kíván kanyarodni, szabadon eldöntheti, hogy az ’1’ vagy a ’2’ nyomvonalon közlekedik.
+
+[2.2 8] Ön kormánykerékkel jelzett járművet vezeti. Válassza ki a helyes állítást!
+× Amennyiben balra kíván kanyarodni, akkor csak az ’1’ nyomvonalon szabad közlekednie.
+− Amennyiben balra kíván kanyarodni, akkor a ’2’ nyomvonalon csak akkor szabad közlekednie, ha Ön mögött másik jármű érkezik.
+− Amennyiben balra kíván kanyarodni, szabadon eldöntheti, hogy az ’1’ vagy a ’2’ nyomvonalon közlekedik.
+
+[2.2 9] Az ’A’ jelű jármű az ábrázolt útkereszteződésben balra kíván kanyarodni. Melyik nyomvonalon szabad közlekednie?
+× Csak az ’1’ jelzett nyomvonalon.
+− Csak a ’2’ jelzett nyomvonalon.
+− Akár az ’1’, akár a ’2’ nyomvonalon.
+
+[2.2 10] Ön a kormánykerékkel jelzett járművel az ábrázolt útkereszteződésben balra kíván kanyarodni. Melyik nyomvonalon szabad közlekednie?
+× Csak az ’1’ jelzett nyomvonalon.
+− Csak a ’2’ jelzett nyomvonalon.
+− Akár az ’1’, akár a ’2’ nyomvonalon.
+
+[2.2 10] Ön a kormánykerékkel jelzett járművel az ábrázolt útkereszteződésben balra kíván kanyarodni. Mikor köteles az irányjelzőjét használni?
+× Minden esetben.
+− Csak akkor, ha az úton más jármű is érkezik.
+− Csak akkor, ha a ’2’ nyomvonalon kíván bekanyarodni, majd rögtön utána leparkol az úttest bal szélére.
+
+Útburkolati jelek hiányában hová kell a járművel besorolni kétirányú úton, ha az útkereszteződésben balra kíván bekanyarodni?
+× Az úttest képzeletbeli felezővonala mellé.
+− Mindig az úttest bal szélére.
+− Ilyen esetben mindig az úttest jobb szélére.
+
+Párhuzamos közlekedésre alkalmas úttesten, középen elhelyezett villamosvágányok esetén szabad-e más járművel előzés céljából a villamosvágányra hajtani?
+× Igen, ha a forgalmi sávokat útburkolati jelekkel nem jelölték (ide nem értve az ellentétes irányú villamosforgalom részére szolgáló villamosvágányt).
+− A villamosforgalom részére szolgáló villamosvágányokra sosem szabad ráhajtani.
+− Igen, ha a forgalmi sávokat útburkolati jelekkel jelölték.
+
+Útburkolati jelek hiányában hová kell a járművel besorolni, ha villamospályával ellátott úttestről szeretne bekanyarodni?
+× Ha a besorolás a villamos forgalmát zavarná, akkor a villamos elhaladásához szükséges területet szabadon kell hagyni.
+− Mindig a villamosvágányra.
+− Mindig a villamosvágány mellé.
+
+[2.2 11] Mikor közlekedik szabályosan az ’A’ jelű személygépkocsi vezetője az ábrán látható útkereszteződésben?
+× Akkor, ha a ’2’ számmal jelölt nyomvonalon halad.
+− Akkor, ha az ’1’ számmal jelölt nyomvonalon halad.
+− A két nyomvonal közül tetszőlegesen választhat.
+
+[2.2 12] Ön a kormánykerékkel jelzett járművel mikor közlekedik szabályosan a képen látható útkereszteződésben?
+× Akkor, ha a ’2’ számmal jelölt nyomvonalon halad.
+− Akkor, ha az ’1’ számmal jelölt nyomvonalon halad.
+− A két nyomvonal közül tetszőlegesen választhat.
+
+[2.2 11] Mikor hajthat tovább az ’1’ számmal jelölt nyomvonalon az ’A’ jelű személygépkocsi vezetője?
+× Mivel kanyarodás után a menetirány szerinti jobb oldalra kell érkezni, ezért nem hajthat az ’1’ számmal jelölt nyomvonalon.
+− Csak akkor, ha 30 méteren belül áthúzódik a 2-es számmal jelölt nyomvonalra.
+− Bármikor, ha nem érkezik másik jármű.
+
+[2.2 12] Ön a kormánykerékkel jelzett járművel mikor hajthat tovább az ’1’ számmal jelölt nyomvonalon a képen látható útkereszteződésben?
+× Mivel kanyarodás után a menetirány szerinti jobb oldalra kell érkezni, ezért nem hajthat az ’1’ számmal jelölt nyomvonalon.
+− Csak akkor, ha 30 méteren belül áthúzódik a 2-es számmal jelölt nyomvonalra.
+− Bármikor, ha nem érkezik másik jármű.
+
+Hogyan kell a járművel másik útra bekanyarodni az alábbiak közül?
+× Úgy, hogy a jármű a bekanyarodás után a menetirány szerinti jobb oldalon maradjon.
+− A bekanyarodás után a menetirány szerinti bal oldalra is szabad érkezni.
+− Úgy, hogy a továbbhaladás gyorsasága biztosított legyen.
+
+Melyik járműnek van elsőbbsége a menetirányt változtató villamos és az egyenesen haladó más jármű forgalmi viszonyában?
+× Az egyenesen haladó (menetirányt nem változtató) járműnek.
+− Minden esetben a villamosnak.
+
+Melyik járműnek van elsőbbsége útkereszteződésben az azonos irányból érkező villamos és más jármű viszonyában?
+× Az egyenesen haladó járműnek a vele azonos irányból érkező és bekanyarodó járművel szemben elsőbbsége van (ide nem értve a kanyarodó főútvonal esetét).
+− Amikor villamos és más jármű útkereszteződésben találkoznak, mindig a villamosnak van elsőbbsége.
+
+Az alábbiakban felsorolt esetek közül kinek köteles Ön elsőbbséget adni, ha egy egyenrangú útkereszteződéshez érve járművével balra kanyarodik?
+× A szemből érkező, egyenesen továbbhaladó jármű részére.
+− A balról érkező, egyenesen továbbhaladó jármű részére.
+− Senkinek sem.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a jobbról érkező villamos részére?
+× Igen.
+− Nem, csak a balról érkező villamos részére kell elsőbbséget adni.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben egy jobbról érkező kerékpáros részére?
+× Igen.
+− Nem, csak gépjárművek részére kell elsőbbséget adni.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a balról érkező trolibusz részére?
+× Nem.
+− Igen.
+
+[2.2 13] Ön az ’A’ jelű járművet vezeti. Bekanyarodás közben köteles-e elsőbbséget adni a ’B’ jelű kerékpáros részére?
+× Igen.
+− Nem.
+− Csak akkor, ha kerékpárúton érkezik.
+
+[2.2 13] Az ’A’ jelű jármű vezetője köteles irányjelzőjével jelezni bekanyarodási szándékát?
+× Igen.
+− Nem.
+
+[2.2 14] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.2 15] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.2 16] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.2 17] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.2 17] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.2 18] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+Az alábbiak közül mely jármű részére kell elsőbbséget adni jobbra bekanyarodó járművel?
+× A kerékpársávon érkező részére.
+− Az úttesten szemből érkező jármű részére.
+− A jobbról érkező jármű részére.
+
+Elsőbbséget kell-e adni a balra bekanyarodó járművel a szemből érkező, jobbra bekanyarodó jármű részére?
+× Ha a közúti jelzésekből más nem következik, akkor igen.
+− Nem.
+
+Elsőbbséget kell-e adni a balra bekanyarodó járművel a szemből érkező és egyenesen továbbhaladó jármű részére?
+× Ha a közúti jelzésekből más nem következik, akkor igen.
+− Nem.
+
+Kell-e elsőbbséget adni annak a gyalogosnak, aki annak az útnak az úttestjén halad át, amelyre a jármű bekanyarodik?
+× Igen.
+− Nem.
+
+Útkereszteződésnél a bekanyarodó járművel a gyalogos részére...
+× elsőbbséget kell adni, ha azon az úttesten halad át, amelyre a jármű bekanyarodik.
+− csak akkor kell elsőbbséget adni, ha kijelölt gyalogos-átkelőhelyen halad át.
+− nem kell elsőbbséget adni.
+− kettő, vagy több gyalogos esetén kell elsőbbséget adni.
+
+[2.2 19] Az ’A’ jelű személygépkocsival a képen látható helyen balra kíván kanyarodni. Válassza ki a helyes állítást!
+× Köteles a ’B’ jelű gyalogos részére elsőbbséget adni.
+− Számíthat arra, hogy a gyalogos segíteni fogja a kanyarodását.
+− Az érkező gyalogost megállásra kényszerítheti.
+
+[2.2 19] Az ’A’ jelű személygépkocsi a képen látható helyen balra kíván kanyarodni. Eközben...
+× a gyalogost nem zavarhatja.
+− a gyalogost feltarthatja.
+− a gyalogostól elsőbbséget fog kapni.
+
+[2.2 20] Ön a kormánykerékkel jelzett járművel a képen látható helyen balra kíván kanyarodni. Eközben ...
+× a gyalogost nem zavarhatja.
+− a gyalogost feltarthatja.
+− a gyalogostól elsőbbséget fog kapni.
+
+[2.2 19] A ’B’ jelű gyalogos köteles-e elsőbbséget adni az ’A’ jelű személygépkocsi részére?
+× Nem.
+− Igen.
+− Csak akkor, ha az útpadkán gyalogol.
+
+[2.2 20] A ’B’ jelű gyalogos köteles-e elsőbbséget adni az Ön által vezetett jármű részére?
+× Nem.
+− Igen.
+− Csak akkor, ha az útpadkán gyalogol.
+
+[2.2 20] Ön a kormánykerékkel jelzett járművel a képen látható helyen balra kíván kanyarodni. Köteles elsőbbséget adni a ’B’ jelű gyalogos részére?
+× Igen.
+− Nem.
+
+[2.2 19] Köteles-e az ’A’ jelű személygépkocsi elsőbbséget adni a ’B’ jelű gyalogos részére?
+× Igen.
+− Nem.
+
+Kell-e elsőbbséget adni annak a gyalogosnak, aki annak az útnak az úttestjén halad át, amelyre a jármű bekanyarodik?
+× Igen.
+− Nem.
+
+Útkereszteződésnél a bekanyarodó járművel a gyalogos részére...
+× elsőbbséget kell adni, ha azon az úttesten halad át, amelyre a jármű bekanyarodik.
+− csak akkor kell elsőbbséget adni, ha kijelölt gyalogos-átkelőhelyen halad át.
+− nem kell elsőbbséget adni.
+− kettő, vagy több gyalogos esetén kell elsőbbséget adni.
+
+[2.2 21] Ön az ezzel a jelzőtáblával jelölt útkereszteződéshez érkezik. Az alábbiak közül melyik esetben számít Ön irányváltoztatónak?
+× Ha egyenesen továbbhaladva letér az út vonalvezetéséről.
+− Ha balra kanyarodva követi az út vonalvezetését.
+
+[2.2 22] Ön a ’B’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak az ’A’ jelű jármű részére.
+− Nem.
+− Igen, az ’A’ és ’C’ jelű jármű részére egyaránt.
+
+[2.2 23] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’A’ - ’B’ - ’C’.
+− ’A’ - ’C’ - ’B’.
+− ’C’ - ’B’ - ’A’.
+− ’B’ - ’A’ - ’C’.
+
+[2.2 24] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Utolsóként.
+− Elsőként.
+− Másodikként.
+
+[2.2 25] Hányadikként haladhat át az útkereszteződésben a kormánykerékkel jelzett járművel?
+× Utolsóként.
+− Elsőként.
+− Másodikként.
+
+[2.2 26] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’C’ jelű.
+− Az ’A’ jelű.
+− A ’B’ jelű.
+
+[2.2 27] Ön a ’B’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak az ’A’ jelű jármű részére.
+− Nem.
+− Igen, az ’A’ és a ’C’ jelű jármű részére egyaránt.
+
+[2.2 29] Hányadikként haladhat át az útkereszteződésben a kormánykerékkel jelzett járművel?
+× Utolsóként.
+− Elsőként.
+− Másodikként.
+
+[2.2 29] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű.
+− Ön, a kormánykerékkel jelzett járművel.
+− A ’B’ jelű.
+
+[2.2 29] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, az ’A’ és ’B’ jelű jármű részére egyaránt.
+− Nem.
+− Igen, de csak a ’B’ jelű jármű részére.
+
+[2.2 29] Ön járművezetőként az alábbi forgalmi helyzetet látja. Határozza meg a helyes áthaladási sorrendet!
+× ’A’ - ’B’ - ’Ön’.
+− ’A’ - ’Ön’ - ’B’.
+− ’Ön’ - ’B’ - ’A’.
+− ’B’ - ’A’ - ’Ön’.
+
+[2.2 30] Ön a kormánykerékkel jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű.
+− Ön, a kormánykerékkel jelzett járművel.
+
+[2.2 30] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen.
+− Nem.
+
+[2.2 31] Ön a kormánnyal jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’C’ - ’B’ - ’Ön’.
+− ’Ön’ - ’C’ - ’B’.
+− ’Ön’ - ’B’ - ’C’.
+− ’B’ - ’Ön’ - ’C’.
+
+[2.2 31] Ön a kormánnyal jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’C’ jelű.
+− Ön.
+− A ’B’ jelű.
+
+[2.2 31] Ön a kormánnyal jelzett járművet vezeti. Hányadikként haladhat át az útkereszteződésben a ’B’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.2 32] Ön a kormánnyal jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’A’ - ’B’ - ’Ön’.
+− ’B’ - ’A’ - ’Ön’.
+− ’A’ - ’Ön’ - ’B’.
+
+[2.2 32] Ön a kormánnyal jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű.
+− Ön.
+− A ’B’ jelű.
+
+[2.2 32] Ön a kormánnyal jelzett járművet vezeti. Hányadikként haladhat át az útkereszteződésben?
+× Utolsóként.
+− Elsőként.
+− Másodikként.
+
+[2.2 33] Hogyan nevezzük ezt a közúti jelzőtáblát?
+× ’Kerülő útirányt jelző tábla’.
+− ’Kötelező haladási irány’.
+− ’Besorolás rendjét jelző tábla’.
+
+Hogyan szabad a járművel megfordulni az alábbiak közül?
+× Úgy, hogy megfordulás közben a többi jármű és az úttesten haladó gyalogosok közlekedését ne akadályozza.
+− Úgy, hogy megfordulás közben a többi jármű és az úttesten haladó gyalogosok közlekedését ne zavarja.
+− Úgy, hogy megfordulás közben az úttesten haladó gyalogosok közlekedését ne zavarja, a járműforgalom akadályozása azonban megengedett.
+
+Szabad-e a járműforgalmat akadályozni, amikor a várakozóhelyre történő beálláshoz szükséges hátramenetet végzi?
+× Rövid ideig szabad.
+− Nem.
+− Ez esetben a hosszabb időtartamú akadályozás is megengedett.
+
+[2.2 34] Gépkocsival közlekedve szabad-e megfordulni a jelzőtábla utáni útkereszteződésben?
+× Nem.
+− Igen.
+− Csak akkor, ha a jelzőőr erre engedélyt ad.
+
+Hogyan szabad a járművel megfordulni az alábbiak közül?
+× Úgy, hogy megfordulás közben a többi jármű és az úttesten haladó gyalogosok közlekedését ne akadályozza.
+− Úgy, hogy megfordulás közben a többi jármű és az úttesten haladó gyalogosok közlekedését ne zavarja.
+− Úgy, hogy megfordulás közben az úttesten haladó gyalogosok közlekedését ne zavarja, a járműforgalom akadályozása azonban megengedett.
+
+Szabad-e autópályán járművel hátramenetet végezni?
+× Nem.
+− Igen.
+
+Szabad-e autópályán járművel hátramenetet végezni?
+× Nem.
+− Igen.
+− Igen, de csak azzal a céllal, hogy visszajusson az első kijárathoz.
+
+Szabad-e kijelölt gyalogos-átkelőhelyen járművel megfordulni?
+× Igen.
+− Nem.
+
+Szabad-e útkereszteződésben járművel hátramenetet végezni?
+× Igen.
+− Nem.
+
+[2.2 35] Ön az ’A’ jelű gépkocsival túlhajtott az autópálya kijáratán. Mikor jár el szabályosan?
+× Ha továbbhalad az ezt követő kijáratig.
+− Ha vészvillogót használva az érkező járművek akadályozása nélkül visszatolat a kijáratig.
+− Ha a leállósávon és az útpadkán korrigálja a hibáját.
+
+Szabad-e a járműforgalmat akadályozni, amikor a várakozóhelyre történő beálláshoz szükséges hátramenetet végzi?
+× Rövid ideig szabad.
+− Nem.
+− Ez esetben a hosszabb időtartamú akadályozás is megengedett.
+
+Hátramenet végzésekor kell-e a járművezetőnek arra alkalmas irányító személy közreműködéséről gondoskodnia?
+× Igen, ha a személy- és vagyonbiztonság ezt megkívánja.
+− Nem, soha.
+− Igen, minden esetben.
+
+Hogyan avatkozik be a parkolási segítség (tolatóradar) a jármű mozgásába?
+× Semmilyen módon, a rendszer csak figyelmezteti a járművezetőt az akadályokhoz való közeledésre.
+− Adott esetben – az ütközés veszélyének elkerülésére – akár vészfékezéssel is reagálhat.
+− Az akadály kikerülésének érdekében elkormányozza a járművet.
+− Az akadályhoz való közeledés esetén üres állásba kapcsolja a sebességváltót és aktiválja az elektromos rögzítőféket.
+
+Hogyan kell elhelyezkednie a hátramenetet irányító személynek?
+× Úgy, hogy lássa a jármű mögötti területet, és a jármű vezetőjével is kapcsolata legyen.
+− Minden esetben a jármű előtt helyezkedjen el úgy, hogy lássa a jármű vezetőjét.
+− Közvetlenül a jármű mögötti területen helyezkedjen el.
+
+[2.2 36] Szabályos-e, ha a ’C’ jelű irányító személy megállítja az úttesten zajló forgalmat, amíg az ’A’ jelű jármű kitolat az épületből?
+× Nem, mivel nem minősül forgalomirányító személynek.
+− Igen, ha az ’A’ jelű jármű vezetője erre felhatalmazta.
+− Igen, mert piros tárcsát használ a járművek megállítására.
+
+Szabad-e útkereszteződésben járművel hátramenetet végezni?
+× Igen.
+− Nem.
+
+Hogyan avatkozik be a parkolási segítség (tolatóradar) a jármű mozgásába?
+× Semmilyen módon, a rendszer csak figyelmezteti a járművezetőt az akadályokhoz való közeledésre.
+− Adott esetben – az ütközés veszélyének elkerülésére – akár vészfékezéssel is reagálhat.
+− Az akadály kikerülésének érdekében elkormányozza a járművet.
+− Az akadályhoz való közeledés esetén üres állásba kapcsolja a sebességváltót és aktiválja az elektromos rögzítőféket.
+
+[2.2 37] Ön autópályán utolér egy ilyen táblával megjelölt autóbuszt. Megelőzheti-e?
+× Igen.
+− Nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak akkor, ha az autóbusz vezetője nem működteti az autóbusz vészvillogót.
+− Igen, de csak akkor, ha az autóbusz vezetője működteti az autóbusz vészvillogóját.
+
+[2.2 37] Egy ilyen táblával megjelölt, valamint vészvillogóját működtető autóbusz a párhuzamos közlekedésre alkalmas úttesten áll. Mikor cselekszik szabályosan?
+× Ha fokozott óvatossággal kerülöm ki az autóbuszt.
+− Ha megállok az autóbusz mögött.
+− Ha az autóbusz kikerülése közben hangjelzést adok.
+− Ha az autóbusz kikerülése közben én is működtetem a járművem vészvillogóját.
+− Ha én is megállok a mellette lévő forgalmi sávban és bekapcsolom a járművem vészvillogóját.
+
+Szabályos-e, ha a lakott területen álló, elromlott személygépkocsiját az elakadás jelző háromszögön kívül mindkét oldali első és hátsó irányjelzőjének egyidejű működtetésével jelöli meg?
+× Igen.
+− Nem.
+
+Elromlott személygépkocsija lakott területen kívül az úttesten áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg kell jelölni.
+− meg szabad jelölni.
+− tilos megjelölni.
+− ajánlott megjelölni.
+
+Elromlott gépkocsija lakott területen kívül félig az úttesten, félig az útpadkán áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg kell jelölni.
+− meg szabad jelölni.
+− tilos megjelölni.
+− ajánlott megjelölni.
+
+Elromlott személygépkocsija lakott területen kívül a leállósávon áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg kell jelölni.
+− meg szabad jelölni.
+− tilos megjelölni.
+− ajánlott megjelölni.

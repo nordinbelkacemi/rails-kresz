@@ -1,0 +1,511 @@
+Mi a teendője, ha féktávolságon belül gyalogos lép a járműve elé?
+× Intenzíven fékez, és kormányzással igyekszik elkerülni az ütközést.
+− Fékezés nélkül dudál a gyalogosnak, hogy Ő is észlelje a veszélyt.
+− A baleset nem kerülhető el, fékezéssel tompíthatja az ütközést.
+
+Köteles-e a balesetben nem érintett jármű vezetője a járművön lévő tűzoltó készüléket a kigyulladt jármű oltásához használni?
+× Igen.
+− Nem.
+− Csak abban az esetben, ha a tűzoltó készülék pótlását a sérült vállalja.
+
+Köteles-e járművével azonnal megállni, ha a közlekedés során érintett egy közúti balesetben?
+× Igen.
+− Nem.
+
+Köteles-e a baleset folytán megsérült vagy veszélybe került személy részére segítséget nyújtani, ha közlekedése során érintett egy közúti balesetben?
+× Igen.
+− Nem.
+
+Köteles-e az esetleges további balesetek elkerülése érdekében minden Öntől telhetőt megtenni, ha közlekedése során érintett egy közúti balesetben?
+× Igen.
+− Nem.
+
+Köteles-e a balesetben nem érintett jármű vezetője a segítségnyújtáshoz a járművön készenlétben tartott elsősegélynyújtó felszerelést a segítségnyújtó rendelkezésére bocsátani?
+× Igen.
+− Nem.
+− Csak abban az esetben, ha az elsősegélynyújtó felszerelés pótlását a sérült vállalja.
+
+Biztosítani kell-e a forgalom zavartalanságát – a lehetőségekhez képest – baleset bekövetkezése esetén is?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha a baleset párhuzamos közlekedésre alkalmas úton következett be.
+
+A balesetről a rendőrhatóságot (a legközelebbi rendőrt) haladéktalanul értesíteni kell, ha a baleset...
+× halált vagy személyi sérülést okozott.
+− jelentős anyagi kárt okozott.
+− legalább 3 járművet érintett.
+− jelentős torlódást okoz.
+− résztvevői összevesztek.
+
+Ha a rendőrhatóság értesítése nem kötelező, de valamelyik érdekelt a baleset miatt rendőri intézkedést kíván, akkor a ...
+× balesettel érintett járművek vezetőinek a rendőri intézkedést meg kell várniuk.
+− rendőri intézkedést kérőnek kell csak az intézkedő rendőrt megvárnia.
+− balesettel érintett járművek vezetőinek a rendőrségen kell az intézkedő rendőrt megvárniuk.
+
+Mire kell ügyelni a balesetben résztvevőknek az alábbiak közül a baleseti helyszínnel kapcsolatosan?
+× Hogy a lehetőségekhez képest gondoskodni kell a nyomok megőrzéséről.
+− Hogy az utat teljes szélességében azonnal le kell zárni.
+− Hogy az utat teljes szélességében azonnal szabaddá kell tenni a közlekedők akadálytalan továbbhaladásához.
+− Hogy a számukra terhelő bizonyítékokat mielőbb eltüntessék.
+
+Ha egy balesetnél rendőr intézkedik, akkor a balesettel érintetteknek a helyszínt csak az intézkedő rendőr engedélyével szabad elhagyni?
+× Igen.
+− Nem, csak annak kell a helyszínen maradni, akit a rendőr éppen meghallgat.
+− Ha elérhetőségeit írásban a rendőrnek átadta, szabadon távozhat.
+
+A balesettel érintett járművek vezetőinek a rendőri intézkedést meg kell-e várniuk akkor, ha a rendőrhatóság értesítése nem kötelező, de valamelyik érdekelt a baleset miatt rendőri intézkedést kíván, és a rendőrhatóságot (a legközelebbi rendőrt) értesíti?
+× Igen.
+− Nem.
+
+Értesíteni kell-e a rendőrhatóságot (a legközelebbi rendőrt) a balesetről akkor, ha a baleset veszélyes anyagot szállító járművel következett be, de személyi sérülés nem történt?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha a veszélyes anyag az úttest felületére került.
+
+Értesíteni kell-e a rendőrhatóságot (a legközelebbi rendőrt) a balesetről akkor, ha a baleset csak anyagi kárral járt?
+× Nem.
+− Igen.
+
+Szabad-e a járművezetőnek a rendőri intézkedés megtörténtéig szeszes italt fogyasztania, ha a balesetnél rendőri intézkedés válik szükségessé?
+× Nem.
+− Igen, de csak kis mennyiségben.
+− Igen, de a csomagolást minden esetben át kell adni a rendőrnek.
+
+[4.2] Elszállíthatják-e azt a személygépkocsit, amely a képen látható táblával jelölt helyen, jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+Szabad-e a hatósági jelzéssel (rendszámtáblával) nem rendelkező gépjárművet főútvonalon tárolni?
+× Nem.
+− Igen.
+− Igen, legfeljebb 10 napig.
+
+Mennyi ideig szabad a hatósági jelzéssel (rendszámtáblával) nem rendelkező gépjárművet mellékútvonalon közterület-használati engedély birtokában tárolni?
+× A közterület-használati engedélyben jelzett határnapig.
+− A közterület-használati engedély birtokában sem tárolható.
+− Legfeljebb 10 napig.
+
+Ki jogosult az alábbiak közül a szabálytalanul várakozó jármű eltávolítására?
+× A közterület-felügyelet.
+− A katasztrófavédelem.
+− Aki rendelkezik autószállító járművel.
+− Annak az ingatlannak a tulajdonosa, aki előtt a szabálytalan várakozás megvalósult.
+− A polgárőrség.
+
+Ki jogosult az alábbiak közül a szabálytalanul várakozó jármű eltávolítására?
+× A rendőrség.
+− A katasztrófavédelem.
+− Annak az ingatlannak a tulajdonosa, aki előtt a szabálytalan várakozás megvalósult.
+− A polgárőrség.
+
+Szabad-e a hatósági jelzéssel (rendszámtáblával) nem rendelkező gépjárművet mellékútvonalon tárolni?
+× Igen, közterület-használati engedély nélkül legfeljebb 10 napig.
+− Nem.
+− Igen, korlátozás nélkül.
+
+Elszállíthatják-e azt a személygépkocsit, amely a mozgáskorlátozottak részére fenntartott helyen jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a személygépkocsit, amely a mozgáskorlátozottakat szállító járművek részére kijelölt, útburkolati jellel jelölt helyen jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+A rendőrség közveszély vagy elemi csapás elhárítása érdekében elszállíttathatja-e azt a járművet, amelyik szabályosan várakozik, de a kár csökkentése érdekében az elszállítás indokolt?
+× Igen.
+− Nem.
+
+Alkalmazni kell-e az általános szabályokat a lehetőségekhez képest a baleset folytán megsérült jármű közlekedésére, kivilágítására és vontatására?
+× Igen.
+− Nem.
+− A bármely mértékben sérült járművet csak elszállítani szabad a helyszínről.
+
+Kötelesek-e a rendőrhatóság értesítése, illetve rendőri intézkedés hiányában a balesetben érintettek személyazonosságukat hitelt érdemlően kölcsönösen igazolni és a biztosítójukat megnevezni?
+× Igen.
+− Nem, csak rá kell írniuk az adatokat a baleseti kárbejelentő lapra.
+
+Kötelesek-e a rendőrhatóság értesítése, illetve rendőri intézkedés hiányában a balesetben érintettek személyazonosságukat egymás számára kölcsönösen, hitelt érdemlően igazolni?
+× Igen.
+− Nem.
+− Csak akkor, ha a felelősség tekintetében megállapodtak.
+
+Értesíteni kell-e a rendőrhatóságot (a legközelebbi rendőrt) a balesetről akkor, ha a baleset csak anyagi kárral járt?
+× Nem.
+− Igen.
+
+Ha a baleset folytán megrongálódott jármű vezetője nincs jelen, a károkozó köteles erre alkalmas módon a helyszínen hátrahagyni...
+× személyi adatait és biztosítója nevét.
+− járművének forgalmi rendszámát.
+− a járművezető telefonszámát.
+− egy általa kitöltött kárbejelentő lapot.
+
+Ha a jármű vezetője a személygépkocsijának olyan hibáját észleli, amely balesethez vezethet, akkor...
+× köteles a személygépkocsiját haladéktalanul megállítani.
+− köteles szorosan az úttest jobb szélén közlekedni.
+− legfeljebb 20 km/óra sebességgel haladhat.
+− legfeljebb 25 km/óra sebességgel haladhat.
+
+Ha elromlott a személygépkocsi kormányszerkezete, a jármű...
+× nem közlekedhet tovább.
+− tovább közlekedhet.
+− legfeljebb mellékútvonalon közlekedhet.
+− differenciálzár bekapcsolásával tovább közlekedhet.
+− legfeljebb földúton közlekedhet tovább.
+
+Ha elromlott a jármű üzemi fékberendezése, a jármű...
+× nem közlekedhet tovább.
+− tovább közlekedhet.
+− csak akkor közlekedhet tovább, ha a rögzítőfék jól működik.
+− csak akkor közlekedhet tovább, ha vontatmánnyal van összekötve, és a vontatmány fékszerkezete megfelelően működik.
+
+Ha elromlott a személygépkocsi irányjelző berendezése, akkor a jármű...
+× csak akkor közlekedhet tovább, ha kézzel megfelelő irányjelzés adható.
+− tovább közlekedhet.
+− semmilyen körülmények között sem közlekedhet tovább.
+− legfeljebb földúton közlekedhet tovább.
+
+Ha elromlott a személygépkocsi összes féklámpája, akkor a jármű...
+× nem közlekedhet tovább.
+− tovább közlekedhet, ha a többi lámpa működik.
+− legfeljebb mellékútvonalon közlekedhet.
+− legfeljebb földúton közlekedhet tovább.
+
+Mi a teendője az alábbiak közül, ha menet közben a személygépkocsin olyan hibát észlel, ami a közlekedés biztonságát közvetlenül nem veszélyezteti?
+× A legközelebbi olyan helyig szabad közlekedni, ahol a hiba elhárítható.
+− Nem közlekedhet tovább.
+− Útját korlátozás nélkül folytathatja.
+
+Hol és hogyan közlekedhet tovább, ha a segédmotoros kerékpárján olyan műszaki hibát észlel, ami a közlekedés biztonságát közvetlenül nem veszélyezteti?
+× Fokozott óvatossággal, lehetőleg kis forgalmú úton és időszakban.
+− Nem közlekedhet tovább.
+− Korlátozás nélkül közlekedhet tovább.
+− A megengedett legnagyobb sebességgel bárhol közlekedhet, hogy mielőbb a javító műhelyhez érjen.
+
+Maradhat-e az elromlott járműve az úttesten, ha van lehetősége azt az útpadkán elhelyezni?
+× Nem.
+− Igen.
+− Csak akkor, ha az útpadka nem bírja el a járművet.
+
+Elromlott segédmotoros kerékpárja lakott területen kívül a leállósávon áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg szabad jelölni.
+− meg kell jelölni.
+− tilos megjelölni.
+
+Hol és hogyan közlekedhet tovább, ha a személygépkocsiján olyan műszaki hibát észlel, ami a közlekedés biztonságát közvetlenül nem veszélyezteti?
+× Fokozott óvatossággal, lehetőleg kis forgalmú úton és időszakban.
+− Nem közlekedhet tovább.
+− Korlátozás nélkül közlekedhet tovább.
+− A megengedett legnagyobb sebességgel bárhol közlekedhet, hogy mielőbb a javító műhelyhez érjen.
+
+Hol kell elhelyeznie a közúton elromlott személygépkocsiját?
+× Lehetőleg az úttesten kívül, vagy olyan helyen, ahol a várakozás nem tilos.
+− Mindig az úttesten, kellően kivilágítva.
+− Kizárólag várakozó helyen.
+− Az úttesten, a forgalommal szemben.
+
+Elromlott személygépkocsija lakott területen kívül az útpadkán áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg szabad jelölni.
+− meg kell jelölni.
+− tilos megjelölni.
+
+Elromlott, pótkocsit vontató személygépkocsija lakott területen kívül az útpadkán áll. Ezt a járműszerelvényt elakadást jelző háromszöggel...
+× meg szabad jelölni.
+− meg kell jelölni.
+− tilos megjelölni.
+
+Elromlott személygépkocsija lakott területen az úttesten áll. Ezt a járművet, elakadást jelző háromszöggel...
+× meg szabad jelölni.
+− meg kell jelölni.
+− tilos megjelölni.
+
+Hogyan kell a járművet megemelni (pl.kerékcsere alkalmával)?
+× A járművet csak a kijelölt emelési pontokon szabad megemelni.
+− Ha behúzzuk a kéziféket, akkor a cserélendő kerékhez minél közelebb kell elhelyezni az emelőt.
+− Kizárólag négypontos emelővel.
+
+Mit kell szem előtt tartani a szükségpótkerékkel történő közlekedéskor?
+× Legfeljebb a legközelebbi javítóműhelyig, maximum a keréken feltüntetett sebességgel közlekedhet.
+− Legfeljebb a legközelebbi javítóműhelyig minimum a keréken feltüntetett sebességgel közlekedhet.
+− A gépjárművel lehetőleg csak egyenesen haladhat és kerülnie kell a hátramenet alkalmazását.
+− Tetszőleges távolságra és sebességgel közlekedhet, a keréken feltüntetett sebességérték csak ajánlás.
+
+Mi a kerékcsere műveleteinek helyes sorrendje?
+× A jármű rögzítése; a hibás kerék kerékcsavarjainak/anyáinak meglazítása; a jármű megemelése; a hibás kerék le-, a pótkerék felszerelése; a jármű leengedése; a kerékcsavarok/anyák meghúzása.
+− A jármű rögzítése; a jármű megemelése; a hibás kerék le-, a pótkerék felszerelése; a kerékcsavarok/anyák meghúzása; a jármű leengedése.
+− A jármű megemelése; a hibás kerék kerékcsavarjainak/anyáinak meglazítása; a hibás kerék le-, a pótkerék felszerelése; a jármű leengedése; a kerékcsavarok/anyák meghúzása.
+− A jármű rögzítése; a hibás kerék kerékcsavarjainak/anyáinak meglazítása; a hibás kerék le-, a pótkerék felszerelése; a kerékcsavarok/anyák meghúzása.
+
+[4.2 1] Mire utal a képen látható pótkeréken a bekeretezett jelzés?
+× A pótkerékkel megengedett maximális sebesség 80 km/h.
+− A pótkerékkel maximum 80 km-t lehet megtenni.
+− A pótkerék 80 km/h sebesség felett zajossá válik.
+− A pótkerékkel megengedett maximális sebesség vizes úton 80 km/h.
+
+Segédmotoros kerékpárral szabad-e pótkocsit vontatni?
+× Nem.
+− Igen, de csak olyan pótkocsit, amelynek vontatását a segédmotoros kerékpár forgalmi engedélyében engedélyezték.
+− Igen, korlátozás nélkül.
+− Csak fékezett, egykerekű pótkocsit.
+
+Szabad-e vontatni a segédmotoros kerékpárt más járművel?
+× Nem.
+− Igen.
+
+Szabad-e segédmotoros kerékpárral vontatni más járművet?
+× Nem.
+− Igen.
+
+Kétkerekű segédmotoros kerékpárjával vontathat-e elromlott kétkerekű segédmotoros kerékpárt?
+× Nem.
+− Igen.
+
+Hol és hogyan szabad közlekedni, ha elromlott személygépkocsit vontat?
+× Fokozott óvatossággal, lehetőleg kis forgalmú úton és időszakban.
+− Lehetőleg főútvonalon, hogy a lehető legrövidebb ideig tartson a vontatás.
+− Korlátozás nélkül bárhol.
+− Kizárólag autópályán, autóúton és párhuzamos közlekedésre alkalmas úton, hogy kényelmesen meg tudják előzni.
+
+Milyen súlyúnak kell lennie a vonó járműnek, ha elromlott (nem üzemi fékhibás) személygépkocsit vontat?
+× El kell, hogy érje a vontatott jármű tényleges súlyának a felét.
+− Nem haladhatja meg a vontatott jármű tényleges súlyának egyharmadát.
+− El kell, hogy érje a vontatott jármű tényleges súlyát.
+− Nem haladhatja meg a vontatott jármű tényleges súlyának kétharmadát.
+
+Milyen súlyúnak kell lennie a vonó járműnek, ha elromlott, üzemi fékhibás személygépkocsit vontat?
+× El kell, hogy érje a vontatott jármű tényleges súlyát.
+− El kell, hogy érje a vontatott jármű tényleges súlyának kétszeresét.
+− Nem haladhatja meg a vontatott jármű tényleges súlyának kétharmadát.
+− Nem haladhatja meg a vontatott jármű tényleges súlyának egyharmadát.
+
+Hogyan végezhető a személygépkocsi vontatása, ha elromlott annak kormányszerkezete?
+× Csak emelve szabad vontatni.
+− Csak merev vontatórúddal szabad vontatni.
+− Bármilyen vontató eszközzel végezhető a vontatás.
+− Nem vontatható.
+
+Ki kell-e világítani éjszaka és korlátozott látási viszonyok között a vontatott személygépkocsit?
+× Igen.
+− Nem.
+
+Működtetni kell-e a vontatott személygépkocsi féklámpáját és irányjelző berendezését?
+× Igen, kivéve az emelve vontatást.
+− Nem.
+− Igen.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni elromlott járművet vontató gépjárművel lakott területen kívüli főútvonalon?
+× Legfeljebb 40 km/h sebességgel.
+− Legfeljebb 70 km/h sebességgel.
+− Legfeljebb 90 km/h sebességgel.
+
+Vontathatja-e vontatókötéllel a meghibásodott fékrendszerű személygépkocsit?
+× Nem, ez mindenkor tilos!
+− Nem ajánlott, csak gyakorlott járművezetőknek.
+− Igen, de csak a legközelebbi javítóműhelyig.
+− Maximum 15 km/h sebességgel.
+
+Milyennek kell lennie az alábbiak közül az elromlott üzemifék-berendezés miatt vontatott jármű vontatásához használt vontatórúdnak?
+× A húzó- és a nyomóerők felvételére egyaránt alkalmas, merev vontatórúd legyen.
+− Nincs feltétele, bármilyen fémrúd megfelel.
+− Legalább 3 méter hosszú fémrúd legyen.
+− Legalább 5 méter hosszú fémrúd legyen.
+
+Milyen előírást kell figyelembe vennie az alábbiak közül, ha autópályán, vagy autóúton elromlott járművet kell vontatnia?
+× A legközelebbi lehajtásra szolgáló úton le kell térnie az autópályáról, vagy az autóútról.
+− Legfeljebb a 3. kijáratig közlekedhet, utána le kell térnie az autópályáról, vagy az autóútról.
+− Az úticéljának megfelelően bármeddig közlekedhet.
+− A lehető legtovább kell autópályán, vagy az autóúton haladnia, mert itt könnyen meg tudják előzni.
+
+Elromlott rögzítőfék hibás gépjárművet vontatni csak olyan járművel szabad, ...
+× amelynek össztömege eléri a vontatott jármű össztömegének a felét.
+− amelynek össztömege eléri a vontatott jármű össztömegének kétszeresét.
+− amelynek össztömege eléri a vontatott jármű össztömegét.
+− amelynek össztömege eléri a vontatott jármű össztömegének kétharmadát..
+
+Mire kell ügyelni az emelve történő vontatásnál?
+× Arra, hogy a megemelt rész oldalirányban ki ne lenghessen.
+− Csak arra, hogy a meghibásodott kormányzott kerekek az úttesttel ne érintkezzenek.
+− Csak arra, hogy a vontatott jármű a rögzítőfékkel rögzített legyen.
+− Csak arra, hogy az emelő nehogy túlterhelődjön.
+
+Mennyinek kell lennie a vonó jármű tényleges súlyának, ha elromlott (nem üzemi fékhibás) gépkocsit vontat?
+× El kell, hogy érje a vontatott jármű tényleges súlyának a felét.
+− El kell, hogy érje a vontatott jármű tényleges súlyának kétszeresét.
+− El kell, hogy érje a vontatott jármű tényleges súlyát.
+− Nem haladhatja meg a vontatott jármű tényleges súlyának kétharmadát.
+
+Mely esetben kell feltűnő módon (pl. zászlóval) megjelölni a vontatókötelet, illetőleg a vontatórudat?
+× Ha az három méternél hosszabb.
+− Ha az hosszabb, mint a vontatott jármű hossza.
+− Minden vontatásnál.
+− Ha az hosszabb, mint a vontató jármű hossza.
+
+A vontatókötélnek, illetőleg a vontatórúdnak legalább olyan hosszúnak kell lennie, ...
+× hogy a két jármű kanyarodás közben össze ne érhessen.
+− mint a vontatott jármű hossza.
+− hogy a két jármű között legalább 6 méter hely legyen.
+− mint a vontató jármű hossza.
+
+Kell-e működtetni a vontatott jármű féklámpáját és irányjelző berendezését éjszaka és korlátozott látási viszonyok között?
+× Igen, kivéve, ha a járművet emelve vontatják.
+− Igen, minden esetben.
+− A vontatott jármű féklámpáját és irányjelző berendezését sosem szabad működtetni, mert az megtévesztő.
+
+Mikor szabad működtetni a gépjármű megkülönböztető jelzéseket adó berendezéseit az alábbiak közül?
+× Ha a feladat sürgős ellátása ezt indokolttá teszi.
+− Ha a jármű vezetője késésben van.
+− Csak útkereszteződésekben.
+− Bármikor szabad használni.
+− Gyér forgalomban.
+
+Hogyan kell elsőbbséget adni a megkülönböztető jelzéseit használó gépjármű részére?
+× Félrehúzódással, szükség esetén megállással.
+− Kizárólag megállással.
+− Enyhe lassítással.
+− A többi közlekedő zavarása nélkül.
+
+Hogyan kell elsőbbséget adni a megkülönböztető jelzéseit használó gépjárművekkel kísért, zárt csoportban haladó járművek részére?
+× Félrehúzódással, szükség esetén megállással.
+− Kizárólag megállással.
+− Enyhe lassítással.
+− A többi közlekedő zavarása nélkül.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére útkereszteződésben, ha az alárendelt úton érkezik?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjárművekkel kísért, zárt csoportban haladó járművek részére útkereszteződésben, ha azok alárendelt úton érkeznek?
+× Igen, minden helyzetben, a zárt csoportban haladó valamennyi jármű részére.
+− Igen, de csak akkor, ha ezt az elöl haladó jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére útszűkületben?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjárművekkel kísért, zárt csoportban haladó járművek részére útszűkületben?
+× Igen, minden helyzetben, a zárt csoportban haladó valamennyi jármű részére.
+− Igen, de csak akkor, ha ezt az elöl haladó jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére telephelyről való kihajtás esetén?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha jelzőőr vagy fényjelző készülék biztosítja a kihajtását.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére az autópályára történő felhajtása esetén?
+× Igen, minden helyzetben.
+− Nem.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+
+Megkülönböztető fényjelzést használó, álló járművet megközelíteni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
+
+Megkülönböztető fényjelzést használó, álló jármű mellett elhaladni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
+
+Szabad-e megelőzni a lakott területen 30 km/h sebességgel haladó, megkülönböztető jelzéseit használó mentő gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Köteles-e elsőbbséget adni egy földútról érkező megkülönböztető jelzéseit együttesen használó gépjármű részére?
+× Igen.
+− Nem.
+
+Amennyiben a megkülönböztető jelzésekkel felszerelt gépjármű vezetője kizárólag a megkülönböztető fényjelzését használja, jogosult...
+× a megengedett legnagyobb sebességre vonatkozó rendelkezéseket figyelmen kívül hagyni.
+− a vasúti átjárót biztosító berendezések jelzéseit figyelmen kívül hagyni.
+− a forgalmat irányító rendőr jelzéseit figyelmen kívül hagyni.
+− a forgalmat irányító fényjelző készülék jelzéseit figyelmen kívül hagyni.
+
+Mekkora követési távolságot kell tartani a megkülönböztető jelzéseket használó gépjármű mögött?
+× Akkorát, hogy az ne járjon a közlekedés többi résztvevőjének zavarásával.
+− Akkorát, hogy ennek a járműnek az előzését a lehető leggyorsabban végre lehessen hajtani.
+− Kétszer akkorát, amekkorát az adott sebesség igényel.
+− Akkorát, amekkora még nem zavarja a járművezetőt.
+
+Szabad-e megelőzni a lakott területen kívül 70 km/h sebességgel haladó, megkülönböztető jelzéseit használó mentő gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Szabad-e megelőzni az autópályán 110 km/h sebességgel haladó, megkülönböztető jelzéseit használó tűzoltó gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Mikor hagyhatja figyelmen kívül a közúti jelzéseket a megkülönböztető jelzésekkel felszerelt gépjármű vezetője az alábbiak közül?
+× Csak akkor, ha a megkülönböztető jelzéseket együttesen használja.
+− Sohasem, ezeket neki is figyelembe kell vennie.
+− Mindig, függetlenül attól, hogy használja-e a megkülönböztető jelzéseit vagy sem.
+− Ha a jármű vezetője erre utasítást kap felelős beosztásban lévő utasától.
+
+Mely esetben kell működtetni az alábbiak közül a jármű figyelmeztető jelzést adó berendezését?
+× Ha a jármű az út vagy közmű építését végzi.
+− Ha a jármű az út vagy közmű építésének helyszínére vonul.
+− Ha a jármű a megengedettnél lassabban tud csak haladni.
+− Minden esetben.
+
+Mely esetben kell működtetni az alábbiak közül a jármű figyelmeztető jelzést adó berendezését?
+× Elromlott jármű vontatását rendszeresen végző járművön, ha az járművet ténylegesen vontat.
+− Elromlott jármű vontatására rendszeresített járművön, minden esetben.
+− Ha a jármű a saját telephelyén közlekedik.
+− Minden esetben.
+
+Az út vagy közmű tisztítását végző jármű...
+× legfeljebb 10 km/h sebességgel a járdán is közlekedhet.
+− legfeljebb 20 km/h sebességgel a járdán is közlekedhet.
+− a járdán csak éjszaka közlekedhet.
+− a járdán nem közlekedhet.
+
+Az út tisztítását végző jármű...
+× olyan helyen is megállhat, ahol az egyébként tilos.
+− csak olyan helyen állhat meg, ahol az egyébként szabad.
+− a munka végzése közben soha nem állhat meg.
+− csak a forgalommal szemben állhat meg.
+
+A települési hulladék összegyűjtését végző jármű...
+× olyan útra is behajthat, ahová egyébként behajtani tilos.
+− a behajtási tilalmakat figyelembe kell, hogy vegye.
+− csak 06 és 22 óra között végezheti tevékenységét.
+− csak 22 és 06 óra között végezheti tevékenységét.
+
+Van-e az általános szabályoktól eltérő elsőbbségük a figyelmeztető jelzést használó járműveknek a többi járművel szemben?
+× Nincs elsőbbségük.
+− Igen, elsőbbségük van.
+− Igen, a jobbról érkező járművekkel szemben elsőbbsége van.
+
+Elsőbbséget kell-e adni a figyelmeztető fényjelzést használó gépjármű részére útkereszteződésben, ha az alárendelt úton érkezik?
+× Nem.
+− Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Igen, a többi közlekedő zavarása nélkül.
+
+Elsőbbséget kell-e adni a figyelmeztető fényjelzést használó gépjármű részére útszűkületben?
+× Nem.
+− Igen, de csak akkor, ha ez hirtelen fékezés nélkül megtehető.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Igen, a többi közlekedő zavarása nélkül.
+
+Elsőbbséget kell-e adni a figyelmeztető fényjelzést használó gépjármű részére autópályára történő felhajtás esetén?
+× Nem.
+− Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Igen, de csak akkor, ha ez hirtelen fékezés nélkül megtehető.
+
+Elsőbbséget kell-e adni a figyelmeztető fényjelzést használó gépjármű részére annak telephelyről való kihajtása esetén?
+× Nem.
+− Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Igen, de csak akkor, ha ez hirtelen fékezés nélkül megtehető.

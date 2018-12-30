@@ -1,0 +1,315 @@
+Szabad-e előzni, ha az előzés a szembejövő forgalmat zavarja?
+× Nem.
+− Igen.
+
+Szabad-e előzni, ha az előzni kívánó jármű előzését már egy másik jármű megkezdte?
+× Nem.
+− Igen.
+
+Szabad-e előzni, ha a megelőzni kívánt jármű előzési szándékot jelzett?
+× Nem.
+− Igen, ha még nem kezdte meg az előzést.
+
+Szabad-e előzni, ha az előzés befejezése után a megelőzött jármű elé csak annak zavarásával tud visszatérni?
+× Nem.
+− Igen, mert ebben az esetben csak az akadályozás tilos.
+− Igen, de csak motorkerékpárral.
+
+Kell-e az előzési szándékot irányjelzéssel jelezni?
+× Igen, ha az irányváltoztatással jár.
+− Igen, minden esetben.
+− Igen, de csak sűrű forgalom esetén.
+
+Szabad-e akadályozni az előzés végrehajtását?
+× Nem.
+− Igen, de csak a sebesség kismértékű fokozásával.
+− Igen, de csak balra húzódással.
+
+Az úttesten nem láthatóak útburkolati jelek. Egy kerékpárost csak úgy tud megelőzni, hogy pár centiméterre áthajt a menetirány szerinti bal oldalra. A manőver kapcsán szükséges-e az irányjelzőt használnia?
+× Igen, mert a képzeletbeli felezővonal átlépése is irányváltoztatás.
+− Nem, mert csak felfestett felezővonal esetén kell irányjelzőt használnia.
+− Nem, mert a kerékpárosok előzésekor nem szükséges irányjelzőt használni.
+
+Honnan ismerhető fel, hogy egy pótkocsis szerelvény halad Ön előtt, ha csak annak hátulját látja?
+× A pótkocsi hátsó részén mindkét oldalt piros, háromszög alakú fényvisszaverőt helyeznek el.
+− A pótkocsi hátsó részének egyik oldalán egy fehér háromszög helyezkedik el.
+− Hátulról nem lehet megállapítani, hogy pótkocsis szerelvény vagy szóló tehergépkocsi halad-e előttünk.
+
+Kell-e az előzési szándékot irányjelzéssel jelezni?
+× Igen, ha az irányváltoztatással jár.
+− Igen, minden esetben.
+− Igen, de csak sűrű forgalom esetén.
+
+Miként győződünk meg a sávváltás lehetőségéről és veszélytelenségéről?
+× A visszapillantó tükrökből és oldalra pillantással kell a holttér ellenőrzésével meggyőződni a sávváltás lehetőségéről és veszélytelenségéről.
+− Csak a visszapillantó tükrök használatával kell meggyőződni a sávváltás lehetőségéről és veszélytelenségéről.
+− A jármű holttereit nem kell figyelembe venni, mert a kormány mozdításával azok megszűnnek, így azok nem jelentenek veszélyforrást.
+
+Szabad-e előzni, ha az előzés során a megelőzendő jármű mellett nem lehet megfelelő oldaltávolságot tartani?
+× Nem.
+− Igen, de csak az egy nyomon haladó járművek előzése esetén.
+− Igen, de csak motorkerékpárral.
+
+Szabad-e előzni, ha az előzés befejezése után a megelőzött jármű elé csak annak zavarásával tud visszatérni?
+× Nem.
+− Igen, mert ebben az esetben csak az akadályozás tilos.
+− Igen, de csak motorkerékpárral.
+
+Kell-e az előzési szándékot irányjelzéssel jelezni?
+× Igen, ha az irányváltoztatással jár.
+− Igen, minden esetben.
+− Igen, de csak sűrű forgalom esetén.
+
+Szabad-e előzni, ha az előzés során a megelőzendő jármű mellett nem lehet megfelelő oldaltávolságot tartani?
+× Nem.
+− Igen, de csak az egy nyomon haladó járművek előzése esetén.
+− Igen, de csak motorkerékpárral.
+
+Milyen irányból szabad az előzést végrehajtani?
+× Általában balról.
+− Csak balról.
+− A járművezető szabad döntésétől függően balról és jobbról egyaránt.
+
+Milyen irányból szabad megelőzni a balra bekanyarodási szándékát irányjelzéssel jelző és ennek megfelelően elhelyezkedő járművet?
+× Csak jobbról.
+− Csak balról.
+− Jobbról és balról egyaránt.
+
+Szabad-e jobbról megelőzni a figyelmeztető jelzést használó járművet?
+× Igen, de csak a többi jármű és a gyalogosok veszélyeztetése nélkül.
+− Nem.
+− Igen, de csak a többi jármű és a gyalogosok zavarása nélkül.
+
+Szabad-e akadályozni az előzés végrehajtását?
+× Nem.
+− Igen, de csak a sebesség kismértékű fokozásával.
+− Igen, de csak balra húzódással.
+
+[2.7] Ön a ’B’ jelű járművet vezeti a képen látható helyen. A külső forgalmi sávban közlekedve elhaladhat-e a belső forgalmi sávban balra kanyarodásra felkészülő ’A’ jelű személygépkocsi mellett?
+× Igen.
+− Nem, csak akkor folytathatja az útját, ha a személygépkocsi már bekanyarodott.
+− Csak akkor, ha nincs mögöttes forgalom.
+
+Szabad-e előzni, ha az előzés során a megelőzendő jármű mellett nem lehet megfelelő oldaltávolságot tartani?
+× Nem.
+− Igen, de csak az egy nyomon haladó járművek előzése esetén.
+− Igen, de csak motorkerékpárral.
+
+Előzéskor általában a szemből érkező jármű...
+× sebességét alá, távolságát túlbecsüljük.
+− sebességét túl, távolságát alábecsüljük.
+− sebességét és távolságát pontosan meg tudjuk becsülni.
+
+Mire kell felkészülni pótkocsis szerelvény előzésekor?
+× Az előzés hosszabb ideig fog tartani, így hosszabb belátható útnak kell rendelkezésre állnia az előzés végrehajtásához.
+− Nagyobb sebességgel kell előzni.
+− Magasabb sebességi fokozatba kell kapcsolni a hosszú előzéshez.
+
+Szabad-e előzni, ha az előzés során a megelőzendő jármű mellett nem lehet megfelelő oldaltávolságot tartani?
+× Nem.
+− Igen, de csak az egy nyomon haladó járművek előzése esetén.
+− Igen, de csak motorkerékpárral.
+
+Kell-e az előzési szándékot irányjelzéssel jelezni?
+× Igen, ha az irányváltoztatással jár.
+− Igen, minden esetben.
+− Igen, de csak sűrű forgalom esetén.
+
+Szabad-e megelőzni a lakott területen 30 km/h sebességgel haladó, megkülönböztető jelzéseit használó mentő gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Szabad-e előzni közvetlenül a kijelölt gyalogos-átkelőhely előtt?
+× Nem.
+− Igen.
+− Előtte igen, csak utána nem.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival mezőgazdasági vontatót?
+× Nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival kétkerekű kerékpárost?
+× Igen.
+− Nem.
+
+Szabad-e előzni be nem látható útkanyarulatban?
+× Általában nem.
+− Igen.
+
+Szabad-e előzni bukkanóban?
+× Általában nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban és közvetlenül előtte?
+× Általában nem.
+− Igen, de csak a lassan haladó mezőgazdasági vontatót.
+− Igen, a kézikocsit mindig meg szabad előzni.
+
+Milyen feltétel teljesülése esetén szabad előzni be nem látható útkanyarulatban?
+× Ha az úttesten egyirányú a forgalom.
+− Ha az út főútvonal.
+− Ha szemből nem látható közeledő jármű.
+
+Milyen feltétel teljesülése esetén szabad előzni bukkanóban?
+× Ha az úttesten egyirányú a forgalom.
+− Ha szemből nem látható közeledő jármű.
+− Ha az út főútvonal.
+
+Milyen feltételek teljesülése esetén szabad előzni be nem látható útkanyarulatban?
+× Ha záróvonal van felfestve, és az előzés nem jár annak érintésével.
+− Ha szemből nem látható közeledő jármű.
+− Ha terelővonal van felfestve, és gyér a forgalom.
+
+Milyen feltételek teljesülése esetén szabad előzni bukkanóban?
+× Ha záróvonal van felfestve, és az előzés nem jár annak érintésével.
+− Ha nincsenek útburkolati jelek felfestve.
+− Ha a főútvonalon terelővonal van felfestve.
+
+Szabad-e megelőzni vasúti átjáróban és közvetlenül előtte a kétkerekű segédmotoros kerékpárt?
+× Igen, gépjárművel.
+− Igen, bármilyen járművel.
+− Nem, semmilyen járművel sem szabad.
+
+Szabad-e előzni körforgalmú úton?
+× Igen.
+− Nem.
+
+Szabad-e előzni kijelölt gyalogos-átkelőhelyen?
+× Nem.
+− Igen, ha nincs rajta gyalogosforgalom.
+− Igen, de csak motorkerékpárral.
+
+Szabad-e előzni villamost olyan megállóhely előtt, ahol az utasok le- és felszállása az úttestről, illetőleg az úttestre történik?
+× Nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival lassú járművet?
+× Nem.
+− Igen.
+
+Szabad-e előzni vasúti átjáróban személygépkocsival mopedautót?
+× Nem.
+− Igen.
+
+[2.7 1] Szabályos-e, ha az ábrázolt útkereszteződésben a ’B’ jelű gépkocsi megelőzi az előtte haladó ’A’ jelű gépkocsit?
+× Igen, mert olyan úton halad, amelyen elsőbbségét jelzőtábla jelzi.
+− Nem, útkereszteződésben mindig tilos előzni.
+− Nem, mert útkereszteződésben csak egy nyomon haladó járművet szabad megelőzni.
+
+Szabad-e megelőzni a lakott területen kívül 70 km/h sebességgel haladó, megkülönböztető jelzéseit használó mentő gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Szabad-e megelőzni az autópályán 110 km/h sebességgel haladó, megkülönböztető jelzéseit használó tűzoltó gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+[2.7 2] Mi a jelzőtábla neve?
+× ’Előzni tilos’.
+− ’Személygépkocsival előzni tilos’.
+− ’Gépjárművel előzni tilos’.
+
+[2.7 2] Gépjárművel közlekedve az alábbiak közül milyen járművet szabad megelőzni e jelzőtáblát követően?
+× Az állati erővel vont járművet.
+− A mezőgazdasági vontatót.
+− A lassú járművet.
+
+[2.7 3] A képen látható helyen szabad-e a ’B’ jelű személygépkocsival megelőzni az ’A’ jelű állati erővel vontatott járművet?
+× Igen.
+− Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+
+[2.7 4] A képen látható helyen szabad-e a ’B’ jelű személygépkocsival megelőzni az ’A’ jelű kerékpárost?
+× Igen.
+− Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+
+[2.7 5] A képen látható helyen az ’A’ jelű gépkocsi a ’B’ jelű kerékpárost szeretné megelőzni. Mikor szabályos ez?
+× Akkor is szabályos, ha az ’Előzni tilos’ jelzőtábla után fejezi be az előzést.
+− Csak akkor szabályos, ha az ’Előzni tilos’ jelzőtábláig befejezi az előzést.
+− Soha nem szabályos, mert ezen az úton a jelzőtábla előtt sem előzhet kerékpárost.
+
+[2.7 5] Az ’A’ jelű gépkocsi az előtte haladó járművek előzését már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni. Válassza ki a helyes állítást!
+× Az ’Előzni tilos’ jelzőtábla után csak a ’B’ jelű kerékpárost szabad megelőzni.
+− Az ’Előzni tilos’ jelzőtábla után csak a ’C’ jelű személygépkocsit szabad megelőzni.
+− Az ’Előzni tilos’ jelzőtábla után mindkét járművet szabad megelőzni.
+
+[2.7 6] Ön az ’A’ jelű gépkocsit vezeti. Megelőzheti a képen látható helyen a ’B’ jelű kerékpárost, ha az előzést már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni?
+× Igen.
+− Nem.
+− Csak akkor, ha előzés közben nem hajt át a menetirány szerinti bal oldalra.
+
+[2.7 7] Ön a kormánykerékkel jelzett járművet vezeti. Megelőzheti a képen látható helyen a ’B’ jelű kerékpárost, ha az előzést már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni?
+× Igen.
+− Nem.
+− Csak akkor, ha előzés közben nem hajt át a menetirány szerinti bal oldalra.
+
+[2.7 8] Ön a kormánykerékkel jelzett gépjárművet vezeti. Szabad-e megelőznie az ábrázolt helyen az ’A’ jelű, állati erővel vontatott járművet?
+× Igen.
+− Nem, mert a jelzőtábla tiltja ezt az előzést.
+
+[2.7 9] A képen látható helyen megelőzheti-e a ’B’ jelű mezőgazdasági vontató az ’A’ jelű állati erővel vontatott járművet?
+× Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+− Igen, mert a jelzőtábla után az állati erővel vontatott jármű mezőgazdasági vontatóval megelőzhető.
+− Igen, mert nincs záróvonal felfestve.
+
+Szabad-e megelőzni a lakott területen 30 km/h sebességgel haladó, megkülönböztető jelzéseit használó mentő gépkocsit?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha a szükséges előzési sebességkülönbség rendelkezésre áll.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Egyéb jelzés hiányában milyen távolságban szabad követni egy 8 méter hosszúságú járműszerelvénnyel egy személygépkocsit lakott területen kívül egy forgalmi sávos úton?
+× Olyan távolságban, hogy a két jármű közé legalább egy – előzést végrehajtó – személygépkocsi még biztonságban besorolhasson.
+− Olyan távolságban, hogy a két jármű közé legalább egy – előzést végrehajtó – tehergépkocsi még biztonságban besorolhasson.
+− Olyan távolságban, hogy az elöl haladó jármű mögött hirtelen fékezése esetén is meg lehessen állni.
+
+Szabad-e megelőzni a lakott területen 40 km/h sebességgel haladó, figyelmeztető jelzést használó gépkocsit?
+× Igen, de csak fokozott óvatossággal.
+− Nem.
+− Igen, de csak akkor, ha a figyelmeztető jelzést használó jármű jobbra húzódással egyértelműen jelzi, hogy az előzés végrehajtható.
+− Igen, de csak akkor, ha erre a jármű vezetője engedélyt ad.
+
+Szabad-e megelőzni a lakott területen kívül 70 km/h sebességgel haladó, figyelmeztető jelzést használó gépkocsit?
+× Igen, a vonatkozó sebességhatár betartásával, de akkor is csak fokozott óvatossággal.
+− Nem.
+− Igen, de csak akkor, ha a figyelmeztető jelzést használó jármű jobbra húzódással egyértelműen jelzi, hogy az előzés végrehajtható.
+− Igen, de csak akkor, ha erre a vezetője engedélyt ad.
+
+A veszélyes anyagot szállító járművet megközelíteni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− megnövelt sebességgel szabad.
+
+A veszélyes anyagot szállító jármű mellett elhaladni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− megnövelt sebességgel szabad.
+
+Segítenie kell-e járműve megelőzését a lassan haladó jármű vezetőjének?
+× Igen.
+− Nem.
+
+Szabad-e előzni körforgalmú úton?
+× Igen.
+− Nem.
+
+Szabad-e megelőzni az autópályán 110 km/h sebességgel haladó, figyelmeztető jelzést használó gépkocsit?
+× Igen, de csak fokozott óvatossággal.
+− Nem.
+− Igen, de csak akkor, ha a figyelmeztető jelzést használó jármű jobbra húzódással egyértelműen jelzi, hogy az előzés végrehajtható.
+− Igen, de csak akkor, ha erre a vezetője engedélyt ad.
+
+[2.7 10] Ön a ’B’ jelű személygépkocsit vezeti. Köteles-e olyan távolságban követni az Ön előtt haladó személygépkocsit, hogy a motorkerékpáros biztonságosan be tudjon sorolni Önök közé?
+× Nem, nincs ilyen kötelezettsége.
+− Igen.
+
+[2.7 11] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e olyan távolságban követni az Ön előtt haladó személygépkocsit, hogy a motorkerékpáros biztonságosan be tudjon sorolni Önök közé?
+× Nem, nincs ilyen kötelezettsége.
+− Igen.

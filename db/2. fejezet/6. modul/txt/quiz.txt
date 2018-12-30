@@ -1,0 +1,540 @@
+Az alábbiak közül mi minősül forgalmi sávnak?
+× Az úttestnek egy gépkocsisor biztonságos közlekedésére elegendő szélességű része.
+− Az úttestnek egy motorkerékpársor közlekedésére elegendő része.
+− Az úttestnek egy járműsor közlekedésére elegendő része.
+− Az úttestnek a két terelővonal közötti része.
+− Csak az úttestnek az útburkolati jelekkel megjelölt, egy gépkocsisor biztonságos közlekedésére elegendő szélességű része.
+
+Milyen úttest alkalmas párhuzamos közlekedésre?
+× Az olyan úttest, amelyen az azonos irányú forgalom számára két vagy több forgalmi sáv áll rendelkezésre.
+− Az olyan kétirányú út úttestje, amelyen két forgalmi sáv került kialakításra.
+− Csak az olyan úttest, ahol a forgalmi sávok látható útburkolati jelekkel vannak elválasztva egymástól.
+
+Hol kell közlekedni a párhuzamos közlekedésre alkalmas úttesten?
+× Általában a külső (jobb szélső) forgalmi sávban.
+− Mindig a belső forgalmi sávban.
+− Mindig a külső forgalmi sávban.
+
+Milyen úttest alkalmas párhuzamos közlekedésre?
+× Az olyan úttest, amelyen az azonos irányú forgalom számára két vagy több forgalmi sáv áll rendelkezésre.
+− Az olyan kétirányú út úttestje, amelyen két forgalmi sáv került kialakításra.
+− Csak az olyan úttest, ahol a forgalmi sávok látható útburkolati jelekkel vannak elválasztva egymástól.
+
+Szabad-e forgalmi sávot változtatni a párhuzamos közlekedésre alkalmas úttesten, ha a forgalmi sávokban összefüggő járműoszlopok alakultak ki?
+× Csak akkor, ha a járművezető bekanyarodásra vagy megállásra készül fel.
+− Igen, korlátozás nélkül.
+− Összefüggő járműoszlopok esetén sosem szabad forgalmi sávot változtatni.
+
+Hol kell közlekedni a párhuzamos közlekedésre alkalmas úttesten?
+× Általában a külső (jobb szélső) forgalmi sávban.
+− Mindig a belső forgalmi sávban.
+− Mindig a külső forgalmi sávban.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából az autóbusz-forgalmi sávot?
+× Nem.
+− Igen.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a kerékpársávot?
+× Nem.
+− Igen.
+
+[2.6] Ön a ’B’ jelű személygépkocsit vezeti. Van-e valamilyen kötelezettsége, ha azt látja, hogy a buszmegállóból az ’A’ jelű autóbusz el kíván indulni?
+× Nincs, mivel az autóbusz az elindulás után be tud sorolni a jobb szélső forgalmi sávba.
+− Igen, lassítással, szükség esetén megállással is lehetővé kell tennie az autóbusz behajtását a belső sávba.
+− Igen, intenzív fékezéssel lehetővé kell tennie az autóbusz sávváltását.
+
+[2.6] A ’B’ jelű személygépkocsi vezetője milyen módon köteles lehetővé tenni az ’A’ jelű autóbusz buszmegállóból történő elindulását lakott területen?
+× Itt az autóbusz segítség nélkül is be tud kapcsolódni a forgalomba.
+− Lassítással, szükség esetén megállással.
+− Akár hirtelen fékezéssel is.
+
+[2.6] Az ’A’ jelű autóbusz vezetője számíthat-e arra, hogy az érkező ’B’ jelű személygépkocsi vezetője lehetővé teszi a belső sávba történő besorolást?
+× Nem.
+− Igen.
+
+[2.6 1] Mit jelent a képen látható közúti jelzés?
+× ’Kapaszkodósáv’.
+− ’A besorolás rendje’ a következő útkereszteződésben.
+− ’Lassítósáv’.
+
+[2.6 2] Mi a jelzőtábla jelentése?
+× ’Kerékpárosok által is használható autóbusz-forgalmi sáv’.
+− ’Autóbusz-megállóhely, ahol a kerékpáros is megállhat’.
+− ’Autóbusszal és kerékpárral a jobb szélső forgalmi sávra ráhajtani tilos’.
+
+[2.6 3] Ön lakott területen az ’A’ jelű járművet vezeti. Válassza ki a helyes állítást!
+× Lehetővé kell tennie a megállóból elinduló ’B’ jelű autóbusz besorolását az Ön által használt forgalmi sávba.
+− Nem köteles lehetővé tennie a megállóból elinduló 'B' jelű autóbusz besorolását az Ön által használt forgalmi sávba.
+− Elsőbbséget kell adnia a megállóból elinduló ’B’ jelű autóbusz részére.
+
+[2.6 3] Ön lakott területen az ’A’ jelű személygépkocsit vezeti. Van-e valamilyen kötelezettsége, ha azt látja, hogy a ’B’ jelű autóbusz el kíván indulni a megállóhelyről?
+× Igen, lassítással, szükség esetén megállással is lehetővé kell tennie az autóbusz elindulását.
+− Nincs, mivel az autóbusz többsávos útra kíván ráhajtani.
+− Igen, be kell állni az autóbusz mögé a megállóhelyre, ezzel is elősegítvén az autóbusz elindulását.
+
+[2.6 3] Milyen módon köteles lehetővé tenni az ’A’ jelű személygépkocsi vezetője lakott területen a ’B’ jelű autóbusz elindulását az autóbusz-megállóból?
+× Lassítással, szükség esetén megállással is.
+− Az autóbusz-megállóba történő beállással.
+− Akár hirtelen fékezéssel is.
+
+[2.6 3] Mikor számíthat arra a ’B’ jelű autóbusz vezetője lakott területen, hogy az érkező ’A’ jelű személygépkocsi lehetővé teszi az elindulását?
+× Ha elindulási szándékát jelzi az irányjelzővel.
+− Ha az ajtaját becsukja.
+− Amikor beáll a megállóhelyre.
+
+[2.6 4] Mikor köteles az ’A’ jelű jármű a ’B’ jelű autóbusz elindulását lehetővé tenni?
+× Csak akkor, ha ezt hirtelen fékezés nélkül meg tudja tenni.
+− Minden esetben, még hirtelen fékezés árán is.
+− Soha nem köteles lehetővé tenni.
+
+[2.6 4] Ön az ’A’ jelű gépkocsit vezeti. Van-e valamilyen kötelezettsége, ha azt látja, hogy a ’B’ jelű autóbusz el kíván indulni a megállóhelyről?
+× Igen, lassítással, szükség esetén megállással is lehetővé kell tennie az autóbusz elindulását.
+− Nincs, mivel az autóbusz olyan útra kíván ráhajtani, amelyen van villamospálya.
+− Nincs. Lassítás nélkül folytathatja útját, mivel az elinduló járművek kötelesek elsőbbséget adni az érkezők részére.
+
+[2.6 4] Milyen módon köteles az ’A’ jelű személygépkocsi vezetője lehetővé tenni a ’B’ jelű autóbusz elindulását a megállóhelyről?
+× Lassítással, szükség esetén megállással.
+− Csak lassítással.
+− Akár hirtelen fékezéssel is.
+
+Hol kell lehetővé tenni az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak a megállóhelyről való elindulását?
+× Csak lakott területen.
+− Csak lakott területen kívül.
+− Lakott területen és lakott területen kívül egyaránt.
+
+Válassza ki, hogy az alábbiak közül mely jármű elindulását köteles lakott területen lehetővé tenni?
+× A megállóhelyről elinduló iskolabuszét.
+− A telephelyről kiinduló, figyelmeztető jelzést használó autóét.
+− A taximegállóból kiinduló taxiét.
+
+Lakott területen a megállóhelyről egy gyermekeket szállító autóbusz kíván elindulni. Ha ez hirtelen fékezés nélkül megtehető, köteles-e az elindulását lehetővé tenni?
+× Igen.
+− Nem, mert ez csak a menetrend szerinti autóbusz esetén kötelező.
+
+Milyen módon kell lehetővé tenni a lakott területen lévő megállóhelyen tartózkodó, elindulási szándékát jelző autóbusz elindulását?
+× Lassítással, szükség esetén megállással
+− Kizárólag csak lassítással.
+− Minden esetben megállással.
+
+Milyen módon kell lehetővé tenni az elindulási szándékot jelző, menetrend szerint közlekedő autóbusznak a lakott területen lévő megállóhelyről való elindulását?
+× Lassítással, szükség esetén megállással.
+− Sebességcsökkentés nélkül.
+− Akár hirtelen fékezéssel is.
+
+Mely járművek kötelesek a kapaszkodósávon közlekedni?
+× Egyéb jelzés hiányában csak azok a járművek, amelyek lakott területen kívül 70 km/h, lakott területen pedig 40 km/h sebességnél lassabban haladnak.
+− Egyéb jelzés hiányában csak azok a járművek, amelyek lakott területen kívül 90 km/h, lakott területen pedig 50 km/h sebességnél lassabban haladnak.
+− Egyéb jelzés hiányában csak azok a járművek, amelyek lakott területen kívül 60 km/h, lakott területen pedig 30 km/h sebességnél lassabban haladnak.
+
+Hol kell közlekedni a párhuzamos közlekedésre alkalmas úttesten?
+× Általában a külső (jobb szélső) forgalmi sávban.
+− Mindig a belső forgalmi sávban.
+− Mindig a külső forgalmi sávban.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten két járműnek ugyanabban a forgalmi sávban egymás mellett elhaladni?
+× Nem, kivéve az egy nyomon haladó jármű melletti elhaladást.
+− Igen.
+
+Szabad-e elhaladni személygépkocsival ugyanabban a forgalmi sávban egy kétkerekű motorkerékpár mellett?
+× Igen, amennyiben a manőver során a biztonságos oldaltávolság megtartható.
+− Nem, mert az előzés közben minden esetben igénybe kell venni a másik forgalmi sávot is.
+
+[2.6 5] Ön az ’A’ jelű személygépkocsival a lakott területen kívüli autópálya legbelső forgalmi sávjában közlekedik. Van-e valamilyen kötelezettsége?
+× Igen, a mögötte gyorsabban haladó járművek közlekedését nem akadályozhatja.
+− Igen, köteles az előzést folyamatosan irányjelzővel jelezni.
+− Igen, minden körülmények között legalább 130 km/h sebességgel kell haladnia.
+
+[2.6 5] Ön az ’A’ jelű személygépkocsit vezeti. Haladhat-e folyamatosan a lakott területen kívüli autópálya belső forgalmi sávjában?
+× Igen, mindaddig, amíg a középső forgalmi sávban haladó járműveket előzi.
+− Igen, megkötés nélkül, hiszen személygépkocsival az autópálya bármelyik forgalmi sávjában közlekedhet folyamatosan.
+− Nem, a belső forgalmi sávban csak motorkerékpár és megkülönböztető jelzéseit használó jármű közlekedhet.
+
+Szabad-e folyamatosan előzni motorkerékpárral és személygépkocsival a párhuzamos közlekedésre alkalmas úttesten?
+× Igen, feltéve, hogy ezzel a mögötte gyorsabban haladó járművek közlekedését nem akadályozza.
+− Igen, feltétel nélkül.
+− A folyamatos előzés mindig tilos.
+
+[2.6 6] A képen látható járművek az úttest jobb szélén 15-20 méter távolságra várakoznak egymástól. Szabályosan közlekedik-e az ’A’ jelű gépkocsi, ha haladása közben nem húzódik le közéjük?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően mindig köteles az úttest jobb széléhez húzódva közlekedni.
+
+[2.6 6] Köteles az ’A’ jelű gépkocsi a képen látható helyen az úttest jobb szélén várakozó járművek közé húzódni?
+× Nem.
+− Igen.
+
+[2.6 7] A képen látható járművek az úttest jobb szélén 15-20 méter távolságra várakoznak egymástól. Szabályosan közlekedik-e Ön a kormánykerékkel jelzett járművet vezetve, ha haladása közben nem húzódik le közéjük?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően mindig köteles az úttest jobb széléhez húzódva közlekedni.
+
+[2.6 7] Ön a kormánykerékkel jelzett járművet vezetve köteles a képen látható helyen az úttest jobb szélén várakozó járművek közé húzódni?
+× Nem.
+− Igen.
+
+[2.6 8] Ön a kormánykerékkel jelzett személygépkocsit vezetve köteles-e lakott területen a ’B’ jelű gépkocsi megelőzése után a jobb szélső forgalmi sávba visszatérni?
+× Nem.
+− Igen.
+
+[2.6 9] Ön az ’A’ jelű műszaki hibás járművével csak 20 km/h sebességgel tud közlekedni. Köteles-e az ’1’ jelű nyomvonalon haladni?
+× Igen.
+− Nem.
+
+[2.6 9] A képen látható járművek az úttest szélén 15-20 méter távolságra várakoznak egymástól. Az ’A’ jelű személygépkocsi a megengedett legnagyobb sebességgel haladva szabályosan közlekedik a ’2’ jelű nyomvonalon?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően ilyen kis távolságban is köteles az úttest szélére húzódva közlekedni.
+− Nem, mert minden esetben az ’1’ jelű nyomvonalon kell közlekednie.
+
+[2.6 9] Ön az ’A’ jelű személygépkocsival az útra engedélyezett 50 km/h sebességgel halad. Köteles-e a jobbratartás értelmében az ’1’ jelű nyomvonalon haladni?
+× Nem.
+− Igen.
+
+[2.6 9] Köteles az ’A’ jelű személygépkocsi a képen látható helyen az útra engedélyezett maximális sebességgel közlekedve az ’1’ jelű nyomvonalon haladni?
+× Nem.
+− Igen.
+
+[2.6 10] Ön a kormánykerékkel jelzett gépkocsit vezeti. A megengedett legnagyobb sebességgel haladva szabályosan közlekedik-e a '2' jelű nyomvonalon, ha a képen látható járművek az úttest szélén 15-20 méter távolságra várakoznak egymástól?
+× Igen.
+− Nem, mert a jobbra tartásnak megfelelően ilyen kis távolságban is köteles az úttest szélére húzódva közlekedni.
+− Nem, mert minden esetben az ’1’ jelű nyomvonalon kell közlekednie.
+
+[2.6 10] Ön a kormánykerékkel jelzett gépkocsit vezeti. A megengedett 50 km/h sebességgel haladva köteles-e a jobbratartás értelmében az ’1’ jelű nyomvonalon közlekedni?
+× Nem.
+− Igen.
+
+[2.6 10] Ön a kormánykerékkel jelzett gépkocsit vezeti. Köteles-e a képen látható helyen az útra engedélyezett maximális sebességgel haladva az ’1’ jelű nyomvonalon közlekedni?
+× Nem.
+− Igen.
+
+[2.6 11] Ön az ’A’ jelű gépkocsit lakott területen az ábrán látható helyen vezeti. Válassza ki az alábbiak közül a helyes állítást!
+× Ha akadályozza az Ön mögött gyorsabban haladó ’B’ jelű személygépkocsi közlekedését, köteles a jobb szélső forgalmi sávba sorolni.
+− Ezen a helyen csak akkor közlekedhet a belső forgalmi sávban, ha más járművet előz.
+− Ha az útvonalra engedélyezett maximális sebességgel halad, nem köteles a jobb szélső forgalmi sávba sorolni.
+
+[2.6 11] Ön a ’B’ jelű személygépkocsit lakott területen vezeti. Mikor jár el szabályosan?
+× Ha utolérve a lassabban haladó ’A’ jelű gépkocsit, megvárja, amíg az lehúzódik a jobb szélső forgalmi sávba.
+− Ha előzési szándékának jelzésére hangjelzést ad.
+− Ha követési távolságon belül közelíti meg a gépkocsit, és előzési szándékának jelzésére fényjelzést ad.
+
+[2.6 12] Elhaladhat-e az ’A’ jelű jármű egyszerre több jármű mellett az ábrázolt helyen?
+× Igen.
+− Nem.
+
+[2.6 13] Ön a kormánykerékkel jelzett járművet vezeti. A képen látható helyen megelőzhet-e egyszerre több járművet?
+× Igen.
+− Nem.
+
+[2.6 14] Ön az ’A’ jelű járművet vezeti. Tovább közlekedhet-e lakott területen a belső forgalmi sávban?
+× Igen, mindaddig, amíg a mögötte gyorsabban haladó járművek közlekedését nem akadályozza.
+− Igen, de csak akkor, ha a következő útkereszteződésben balra kíván kanyarodni.
+− Nem, a belső forgalmi sávban csak előzés céljából szabad közlekedni.
+
+[2.6 15] Ön a kormánykerékkel jelzett személygépkocsit vezeti. Tovább közlekedhet-e lakott területen a belső forgalmi sávban?
+× Igen, mindaddig, amíg a mögötte gyorsabban haladó járművek közlekedését nem akadályozza.
+− Igen, de csak akkor, ha a következő útkereszteződésben balra kíván kanyarodni.
+− Nem, a belső forgalmi sávban csak előzés céljából szabad közlekedni.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten kijelölt gyalogos-átkelőhelyen másik jármű mellett elhaladni?
+× Nem.
+− Igen.
+
+Kijelölt gyalogos-átkelőhelyen a járművel a gyalogos részére...
+× elsőbbséget kell adni.
+− nem kell elsőbbséget adni.
+− kettő, vagy több gyalogos esetén kell elsőbbséget adni.
+− csak akkor kell elsőbbséget adni, ha ezzel a forgalmat nem tartja fel.
+
+Hogyan kell elhaladni a kijelölt gyalogos-átkelőhely előtt forgalmi okból megálló másik jármű mellett?
+× Meg kell állni, és továbbhaladni csak akkor szabad, ha meggyőződött arról, hogy azt a gyalogosok elsőbbségének megsértése nélkül megteheti.
+− Megállás nélkül, fokozott figyelemmel, mérsékelt sebességgel.
+− Megállás nélkül, a biztonságos oldaltávolság megtartásával.
+− Egyes sebességfokozatba kapcsolva, a tengelykapcsoló csúsztatásával.
+
+[2.6 16] Köteles-e az ’A’ jelű személygépkocsi a képen látható helyzetben az irányjelzőjét folyamatosan működtetni?
+× Nem.
+− Igen.
+
+[2.6 17] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e a képen látható helyzetben az irányjelzőjét folyamatosan működtetni?
+× Nem.
+− Igen.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából az autóbusz-forgalmi sávot?
+× Nem.
+− Igen.
+
+Mikor szabad közlekedni a kommunális szemét szállítására szolgáló járművel az autóbusz-forgalmi sávban?
+× 20 és 06 óra között.
+− 06 és 22 óra között.
+− Sosem.
+
+Szabad-e az autóbusz-forgalmi sávban kétkerekű segédmotoros kerékpárral folyamatosan közlekedni?
+× Igen, az autóbusz- és trolibuszforgalom zavarása nélkül.
+− Nem.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e az autóbusz-forgalmi sávban a betegszállító gépjármű?
+× Igen, az autóbusz- és trolibuszforgalom zavarása nélkül.
+− Igen, feltétel nélkül.
+− Nem.
+
+Közlekedhet-e az autóbusz-forgalmi sávban sürgősségi betegellátásra rendszeresített gépjármű?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e az autóbusz-forgalmi sávban a hivatásos katasztrófavédelmi szervek gépjárműve?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e az autóbusz-forgalmi sávban a tűzoltó egyesületek közvetlen helyszíni beavatkozásra rendszeresített gépjárműve?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e a személytaxi az autóbusz-forgalmi sávban?
+× Igen, az autóbusz- és trolibuszforgalom zavarása nélkül.
+− Nem.
+− Igen, feltétel nélkül.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten a forgalmi sávokat a gyorsabb továbbhaladás érdekében kis távolságon belül ismételten változtatni?
+× Nem.
+− Igen.
+
+Útburkolati jelekkel jelölt háromsávos úton közlekedik személygépkocsival. Szabad-e ráhajtani a harmadik (belső) forgalmi sávra?
+× Igen.
+− Nem.
+− Csak bekanyarodási szándékkal.
+
+Haladhat-e személygépkocsival folyamatosan a harmadik (belső) forgalmi sávban a lakott területen lévő, útburkolati jelekkel jelölt háromsávos úton?
+× Igen, az Ön mögött gyorsabban haladók akadályozása nélkül.
+− Igen, de csak bekanyarodási szándékkal.
+− Nem.
+
+Szabad-e a lakott területen lévő háromsávos út középső forgalmi sávjában közlekedve elhaladni az Öntől balra lévő, legbelső forgalmi sávban lassabban haladó jármű mellett?
+× Igen, fokozott figyelemmel.
+− Nem.
+
+Szabad-e a forgalmi sávokat - a gyorsabb előrehaladás érdekében - kis távolságon belül ismételten változtatni?
+× Nem.
+− Igen, szabad.
+
+[2.6 18] Lakott területen szabályosan előz a képen látható ’A’ jelű személygépkocsi?
+× Igen.
+− Nem.
+
+[2.6 18] Lakott területen az ’A’ jelű személygépkocsi köteles-e a személygépkocsik megelőzése után a jobb oldali forgalmi sávba visszatérni?
+× Nem.
+− Igen.
+
+[2.6 19] Ön lakott területen a kormánykerékkel jelzett járművet vezetve szabályosan előz?
+× Igen.
+− Nem.
+
+[2.6 19] Ön a kormánykerékkel jelzett járművet lakott területen vezetve köteles-e a személygépkocsik megelőzése után a jobb oldali forgalmi sávba visszatérni?
+× Nem.
+− Igen.
+
+[2.6 20] Ön az ’A’ jelű személygépkocsit vezeti. Haladhat-e folyamatosan a lakott területen kívüli autópálya belső forgalmi sávjában?
+× Igen, mindaddig, amíg a középső forgalmi sávban haladó járműveket előzi.
+− Igen, megkötés nélkül, hiszen személygépkocsival az autópálya bármelyik forgalmi sávjában közlekedhet folyamatosan.
+− Nem, a belső forgalmi sávban csak motorkerékpár és megkülönböztető jelzéseit használó jármű közlekedhet.
+
+Kell-e sávváltáskor irányjelzést alkalmazni?
+× Igen, a többi közlekedő tájékoztatása céljából.
+− Ha nincs mögöttünk más jármű, akkor nem szükséges.
+− Nem, elég a fejünket hátrafordítva tájékozódni a sávváltás előtt.
+
+[2.6 21] Ön az ’A’ jelű gépkocsit vezeti. A jobb oldali forgalmi sávba kíván áthajtani. Eközben...
+× köteles elsőbbséget adni a ’B’ jelű személygépkocsi részére.
+− elsőbbsége van a ’B’ jelű személygépkocsival szemben.
+− bizton számíthat arra, hogy a ’B’ jelű személygépkocsi az átsorolását lassítással segíteni fogja.
+
+[2.6 21] Az ’A’ jelű gépkocsi vezetője a képen látható helyen változtathat-e forgalmi sávot?
+× Igen, de csak akkor, ha elsőbbséget adott a ’B’ jelű személygépkocsi részére.
+− Igen, és elsőbbsége van a ’B’ jelű személygépkocsival szemben.
+− Nem, autóbusz-megállónál soha nem szabad forgalmi sávot váltani.
+
+[2.6 22] Az ábrázolt forgalmi szituációban a ’B’ jelű jármű a terelővonalat átlépve a belső forgalmi sávba kíván hajtani. Eközben...
+× köteles elsőbbséget adni a belső forgalmi sávban érkező motorkerékpárnak.
+− a belső forgalmi sávban érkező motorkerékpár vezetőjét még enyhe lassításra sem kényszerítheti.
+− számíthat arra, hogy a belső forgalmi sávban érkező motorkerékpár vezetője előzékenyen maga elé fogja engedi.
+
+Szabad-e előzni, ha az előzés során a megelőzendő jármű mellett nem lehet megfelelő oldaltávolságot tartani?
+× Nem.
+− Igen, de csak az egy nyomon haladó járművek előzése esetén.
+− Igen, de csak motorkerékpárral.
+
+Szabad-e elhaladni személygépkocsival ugyanabban a forgalmi sávban egy kétkerekű motorkerékpár mellett?
+× Igen, amennyiben a manőver során a biztonságos oldaltávolság megtartható.
+− Nem, mert az előzés közben minden esetben igénybe kell venni a másik forgalmi sávot is.
+
+[2.6 23] Köteles-e a ’B’ jelű személygépkocsi vezetője az oldalkocsis motorkerékpáros előzése közben irányjelzőjét használni?
+× Igen, mert a tervezett manőver nem hajtható végre azonos forgalmi sávon belül.
+− Nem, mert a motorkerékpárosok előzésekor nem kell iráűnyjelzőt használni.
+
+[2.6 23] A képen látható helyen a ’B’ jelű személygépkocsi vezetője megelőzheti-e ugyanabban a forgalmi sávban az ’A’ jelű oldalkocsis motorkerékpárost?
+× Nem, mert ennek a két járműnek ugyanabban a forgalmi sávban tilos egymás mellett elhaladni.
+− Igen, mert minden motorkerékpár mellett szabad elhaladni ugyanabban a forgalmi sávban.
+
+[2.6 23] Ön a ’B’ jelű személygépkocsit vezeti. Megelőzheti-e a képen látható módon az ’A’ jelű oldalkocsis motorkerékpárost?
+× Nem.
+− Igen.
+
+[2.6 24] Ön a kormánykerékkel jelzett járművet vezetve köteles-e az oldalkocsis motorkerékpáros előzése közben irányjelzőjét használni?
+× Igen, mert a tervezett manőver nem hajtható végre azonos forgalmi sávon belül.
+− Nem, mert a motorkerékpárosok előzésekor nem kell irányjelzőt használni.
+
+[2.6 24] Ön a kormánykerékkel jelzett járművet vezetve megelőzheti-e ugyanabban a forgalmi sávban az ’A’ jelű oldalkocsis motorkerékpárost?
+× Nem, mert ennek a két járműnek ugyanabban a forgalmi sávban tilos egymás mellett elhaladni.
+− Igen, mert minden motorkerékpár mellett szabad elhaladni ugyanabban a forgalmi sávban.
+
+[2.6 24] Ön a kormánykerékkel jelzett járművet vezeti. Megelőzheti-e a képen látható módon az ’A’ jelű oldalkocsis motorkerékpárost?
+× Nem.
+− Igen.
+
+[2.6 25] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű személygépkocsi.
+− A ’B’ jelű járműszerelvény.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 26] Ön a ’B’ jelű járművet vezeti. A képen látható helyen...
+× elsőbbséget kell adnia az ’A’ jelű jármű részére.
+− elsőbbsége van az ’A’ jelű járművel szemben.
+− meg kell egyezniük a továbbhaladási sorrendben.
+
+[2.6 27] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű jármű.
+− A ’B’ jelű járműszerelvény.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 27] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű jármű.
+− A ’B’ jelű jármű.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 28] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű jármű.
+− A ’B’ jelű járműszerelvény.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 28] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű jármű.
+− A ’B’ jelű jármű.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 29] Melyik jármű haladhat tovább elsőként a képen látható helyen?
+× Az ’A’ jelű személygépkocsi.
+− A ’B’ jelű motorkerékpár.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 30] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű személygépkocsi.
+− Az ’A’ jelű motorkerékpár.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 31] A képen látható helyen mindkét jármű csak irányváltoztatással tudja az útját folytatni. Melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű jármű.
+− A ’B’ jelű személygépkocsi.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 32] A képen látható helyen melyik járműnek kell az irányjelzőjét használni?
+× A ’B’ jelű járműnek, és balra kell jeleznie.
+− A ’B’ jelű járműnek, és jobbra kell jeleznie.
+− Az ’A’ jelű személygépkocsinak, és jobbra kell jeleznie.
+
+[2.6 32] Melyik jármű haladhat tovább elsőként az ábrán látható helyen?
+× Az ’A’ jelű személygépkocsi.
+− A ’B’ jelű személygépkocsi.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 32] Ön az ’A’ jelű személygépkocsit vezeti. Az ábrán látható helyen...
+× elsőbbsége van a ’B’ jelű személygépkocsival szemben.
+− elsőbbséget kell adnia a ’B’ jelű személygépkocsi részére.
+− meg kell egyezniük a továbbhaladási sorrendben.
+
+[2.6 33] A képen látható helyen melyik járműnek kell az irányjelzőjét használni?
+× A ’B’ jelű járműszerelvénynek, és balra kell jeleznie.
+− A ’B’ jelű járműszerelvénynek, és jobbra kell jeleznie.
+− Az ’A’ jelű személygépkocsinak, és jobbra kell jeleznie.
+
+[2.6 33] A képen látható helyen melyik járműnek kell az irányjelzőjét használnia?
+× A ’B’ jelű autóbusznak, és balra kell jeleznie.
+− A ’B’ jelű autóbusznak, és jobbra kell jeleznie.
+− Az ’A’ jelű személygépkocsinak, és jobbra kell jeleznie.
+
+[2.6 34] Ön a kormánykerékkel jelzett járművet vezeti. Melyik járműnek kell az ábrán látható helyen az irányjelzőjét használni?
+× Az Ön által vezetett járműnek kell balra irányjelzést adnia.
+− Az Ön által vezetett járműnek kell jobbra irányjelzést adnia.
+− Az ’A’ jelű személygépkocsinak kell jobbra irányjelzést adnia.
+
+[2.6 34] Ön a kormánykerékkel jelzett járművet vezeti. Melyik jármű haladhat tovább elsőként az ábrán látható helyen?
+× Az ’A’ jelű személygépkocsi.
+− Az Ön által vezetett jármű.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 34] Ön a kormánykerékkel jelzett járművet vezeti. Az ábrán látható helyen...
+× elsőbbséget kell adnia az ’A’ jelű személygépkocsi részére.
+− elsőbbsége van az ’A’ jelű személygépkocsival szemben.
+− meg kell egyezniük a továbbhaladási sorrendben.
+
+[2.6 35] A képen látható helyen melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű személygépkocsi.
+− A ’B’ jelű személygépkocsi.
+− Kölcsönös megegyezés alapján haladhatnak tovább.
+
+[2.6 35] Ön a ’B’ jelű személygépkocsit vezeti. A képen látható helyen...
+× elsőbbséget kell adnia az ’A’ jelű személygépkocsi részére.
+− elsőbbsége van az 'A' jelű személygépkocsival szemben.
+− meg kell egyezniük a továbbhaladási sorrendben.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten a forgalmi sávokat a gyorsabb továbbhaladás érdekében kis távolságon belül ismételten változtatni?
+× Nem.
+− Igen.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttest felezővonalát átlépni?
+× A balra bekanyarodás és a megfordulás esetét kivéve nem.
+− Igen, kellő körültekintéssel bárhol.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten két járműnek ugyanabban a forgalmi sávban egymás mellett elhaladni?
+× Nem, kivéve az egy nyomon haladó jármű melletti elhaladást.
+− Igen.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten kijelölt gyalogos-átkelőhelyen másik jármű mellett elhaladni?
+× Nem.
+− Igen.
+
+Szabad-e forgalmi sávot változtatni a párhuzamos közlekedésre alkalmas úttesten, ha a forgalmi sávokban összefüggő járműoszlopok alakultak ki?
+× Csak akkor, ha a járművezető bekanyarodásra vagy megállásra készül fel.
+− Igen, korlátozás nélkül.
+− Összefüggő járműoszlopok esetén sosem szabad forgalmi sávot változtatni.
+
+Közlekedhetnek-e egymás mellett párhuzamosan haladva az úttesten a kétkerekű segédmotoros kerékpárral közlekedők?
+× Nem.
+− Igen.
+− Csak lakott területen.
+− Csak lakott területen kívül.
+
+Szabad-e elhaladni személygépkocsival ugyanabban a forgalmi sávban egy kétkerekű motorkerékpár mellett?
+× Igen, amennyiben a manőver során a biztonságos oldaltávolság megtartható.
+− Nem, mert az előzés közben minden esetben igénybe kell venni a másik forgalmi sávot is.
+
+Milyen irányú a forgalom olyan úton, amelyen három, egymástól elkülönített úttest van?
+× A középső úttesten kétirányú, a szélső úttesteken egyirányú forgalom van.
+− Mindegyik úttesten egyirányú forgalom van.
+− A középső úttesten egyirányú, a szélső úttesteken kétirányú forgalom van.
+
+Szabad-e a forgalmi sávokat - a gyorsabb előrehaladás érdekében - kis távolságon belül ismételten változtatni?
+× Nem.
+− Igen, szabad.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából az autóbusz-forgalmi sávot?
+× Nem.
+− Igen.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a kerékpársávot?
+× Nem.
+− Igen.
+
+Közúti jelzés hiányában az alábbiak közül hogyan kell a járművel másik útra bekanyarodni?
+× Jobbra kis ívben, balra nagy ívben.
+− Jobbra nagy ívben, balra kis ívben.
+− Jobbra és balra is kis ívben.

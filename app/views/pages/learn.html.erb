@@ -1,0 +1,10 @@
+<div class="something">
+  <div class="sidebar">
+    <% (1..5).each do |num| %>
+      <%= link_to "#{num}. Fejezet", learn_page_path(chapter: num), remote: true, id: "chapter-#{num}", class: "tab" %>
+    <% end %>
+  </div>
+  <div class="completion-grid">
+
+  </div>
+</div>

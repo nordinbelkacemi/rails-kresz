@@ -1,0 +1,15 @@
+tabSelections = document.querySelectorAll(".tab")
+
+tabSelections.forEach((tabSelection, index) => {
+  tabSelection.classList.remove("active");
+});
+
+document.querySelector('#chapter-' + <%= @chapter_number %>).classList.add('active');
+
+// var i;
+//
+// var activeTab = document.querySelector('active');
+//
+// for (i = <%= @number_of_modules %>; i > 0; i--) {
+//   activeTab.insertAdjacentHTML('afterend', '<div class="' + i ' two">two</div>');;
+// }

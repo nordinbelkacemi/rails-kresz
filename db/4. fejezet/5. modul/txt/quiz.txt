@@ -1,0 +1,137 @@
+Kell-e becsatolt motorkerékpár-bukósisakot viselnie a kétkerekű segédmotoros kerékpárral közlekedő személynek?
+× Igen, kivéve, ha a jármű zárt utastérrel (vezetőtérrel) rendelkezik.
+− Nem.
+− Igen, kivéve földúton.
+
+Becsatolt motorkerékpár-bukósisakot kell-e viselnie a háromkerekű segédmotoros kerékpárral közlekedő személynek?
+× Igen, kivéve, ha a jármű zárt utastérrel (vezetőtérrel) rendelkezik.
+− Nem.
+− Igen, kivéve földúton.
+
+Segédmotoros kerékpárral szabad-e pótkocsit vontatni?
+× Nem.
+− Igen, de csak olyan pótkocsit, amelynek vontatását a segédmotoros kerékpár forgalmi engedélyében engedélyezték.
+− Igen, korlátozás nélkül.
+− Csak fékezett, egykerekű pótkocsit.
+
+A segédmotoros kerékpárhoz utánfutót kapcsolni...
+× nem szabad.
+− az erre vonatkozó szabályok megtartásával szabad.
+− megkötés nélkül szabad.
+
+A segédmotoros kerékpárhoz oldalkocsit kapcsolni...
+× nem szabad.
+− az erre vonatkozó szabályok megtartásával szabad.
+− megkötés nélkül szabad.
+
+Milyen hosszan nyúlhat túl előre vagy hátra a segédmotoros kerékpáron elhelyezett rakomány?
+× Legfeljebb 1 méter.
+− Legfeljebb 40 cm.
+− Semmilyen túlnyúlás nem megengedett.
+− Legfeljebb 2 méter.
+
+A segédmotoros kerékpáron elhelyezett rakomány...
+× a vezetőt nem akadályozhatja a jármű vezetésében.
+− a vezetőt nem zavarhatja a jármű vezetésében.
+− a vezetőt nem veszélyeztetheti.
+
+Szabad-e utast szállítani a kétkerekű segédmotoros kerékpáron?
+× Nem.
+− Igen, ha a jármű vezetője betöltötte a 17. életévét.
+− Igen, ha az utas betöltötte a 17. életévét.
+− Igen, ha az utas is rendelkezik bukósisakkal.
+
+A segédmotoros kerékpárnak minősülő mopedautóban utazóknak becsatolt bukósisakot kell-e viselniük?
+× Nem, mert zárt utastérrel rendelkezik.
+− Igen, mert segédmotoros kerékpárnak minősül.
+− Csak akkor, ha nyitható tetejű.
+
+Becsatolt motorkerékpár-bukósisakot kell-e viselnie a négykerekű (quad) segédmotoros kerékpárral közlekedő személynek?
+× Igen, kivéve, ha a jármű zárt utastérrel (vezetőtérrel) rendelkezik.
+− Nem.
+− Igen, kivéve földúton.
+
+Négykerekű (quad) segédmotoros kerékpárjával vontathat-e elromlott kétkerekű segédmotoros kerékpárt?
+× Nem.
+− Igen.
+
+Négykerekű (quad) segédmotoros kerékpárjával vontathat-e elromlott négykerekű (quad) segédmotoros kerékpárt?
+× Nem.
+− Igen.
+
+[4.5] Milyen járműszerelvénnyel szabad behajtani ennél a jelzőtáblánál?
+× A vonójárműből és egytengelyes vagy félpótkocsiból álló járműszerelvénnyel.
+− Semmilyen járműszerelvénnyel.
+− A személygépkocsiból és kéttengelyes pótkocsiból álló járműszerelvénnyel.
+
+[4.5 1] Mi a jelzőtábla neve?
+× ’Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos’.
+− ’Személygépkocsival behajtani tilos’.
+− ’Személygépkocsival és mopedautóval behajtani tilos’.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni mezőgazdasági vontatóval?
+× Legfeljebb 40 km/h sebességgel.
+− Legfeljebb 50 km/h sebességgel.
+− Legfeljebb 30 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni lassú járműből és pótkocsiból álló járműszerelvénnyel?
+× Legfeljebb 25 km/h sebességgel.
+− Legfeljebb 20 km/h sebességgel.
+− Legfeljebb 30 km/h sebességgel.
+
+A földútról a szilárd burkolatú útra való ráhajtás előtt a járműről a rátapadt sarat...
+× el kell távolítani.
+− nem szükséges eltávolítani, mert az a járműről magától is leválik.
+− ajánlatos eltávolítani, mert annyival is könnyebb lesz a jármű, és nagyobb tömeget szállíthat.
+
+Köteles-e lassú járművével szorosan az úttest jobb szélén közlekedni?
+× Igen, ha az út- és forgalmi viszonyok ezt lehetővé teszik.
+− Nem.
+− Csak akkor, ha 20 km/h sebességnél lassabban halad.
+
+Ön lassú járművet vezet 10 km/h sebességgel. Ha az úttest mellett lassító sáv van, köteles-e itt közlekedni, ha egyébként egyenesen kíván továbbhaladni?
+× Nem.
+− Igen.
+
+Hol kell közlekedni az állati erővel vont járművel?
+× Szorosan az úttest jobb szélén.
+− A forgalmi sáv közepén.
+− A menetirány szerinti jobb oldalon bárhol.
+− Szorosan a felezővonalhoz húzódva.
+
+Ki kell-e világítani az állati erővel vont járművet éjszaka és korlátozott látási viszonyok között?
+× Igen, a külön jogszabályban meghatározott lámpákkal.
+− Nem.
+− Nem, de ajánlott.
+
+Közlekedhet-e főútvonalon az állati erővel vont járművel?
+× Nem, kivéve, ha más út nem áll rendelkezésre.
+− Igen.
+− Csak lakott területen.
+− Csak lakott területen kívül.
+
+[4.5 2] Lakott területen ezt a közúti jelzőtáblát látja. Legfeljebb mekkora sebességgel szabad közlekedni pótkocsit vontató személygépkocsival?
+× Legfeljebb 50 km/h sebességgel.
+− Legfeljebb 70 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni pótkocsit vontató személygépkocsival lakott területen kívüli főútvonalon?
+× Legfeljebb 70 km/h sebességgel.
+− Legfeljebb 90 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni pótkocsit vontató személygépkocsival autóúton?
+× Legfeljebb 70 km/h sebességgel.
+− Legfeljebb 90 km/h sebességgel.
+− Legfeljebb 80 km/h sebességgel.
+
+Személygépkocsival szabad-e pótkocsit vontatni?
+× Igen, de csak olyan pótkocsit, amelynek vontatását a személygépkocsi forgalmi engedélyében engedélyezték.
+− Igen, de csak egytengelyű pótkocsit.
+− Személygépkocsival sosem szabad pótkocsit vontatni.
+− Igen, de csak olyan pótkocsit, hogy a járműszerelvény megengedett legnagyobb össztömege a 3500 kg-ot ne haladja meg.
+− Igen, korlátozás nélkül.
+
+Személygépkocsival pótkocsit vontat. A pótkocsin elhelyezett rakomány mennyire nyúlhat túl hátrafelé?
+× Legfeljebb két méterre, de a rakfelület hosszának felénél nem nagyobb távolságra.
+− Legfeljebb három méterre, de a rakfelület hosszánál nem nagyobb távolságra.
+− Legfeljebb egy méterre.
+− Annyira, hogy a rakomány ki ne billenjen a rakfelületből.

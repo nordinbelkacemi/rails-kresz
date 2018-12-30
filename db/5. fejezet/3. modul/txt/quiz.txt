@@ -1,0 +1,215 @@
+Segédmotoros kerékpárral szabad-e pótkocsit vontatni?
+× Nem.
+− Igen, de csak olyan pótkocsit, amelynek vontatását a segédmotoros kerékpár forgalmi engedélyében engedélyezték.
+− Igen, korlátozás nélkül.
+− Csak fékezett, egykerekű pótkocsit.
+
+A segédmotoros kerékpárhoz utánfutót kapcsolni...
+× nem szabad.
+− az erre vonatkozó szabályok megtartásával szabad.
+− megkötés nélkül szabad.
+
+A segédmotoros kerékpárhoz oldalkocsit kapcsolni...
+× nem szabad.
+− az erre vonatkozó szabályok megtartásával szabad.
+− megkötés nélkül szabad.
+
+Szabad-e segédmotoros kerékpárral vontatni más járművet?
+× Nem.
+− Igen.
+
+Milyen hosszan nyúlhat túl előre vagy hátra a segédmotoros kerékpáron elhelyezett rakomány?
+× Legfeljebb 1 méter.
+− Legfeljebb 40 cm.
+− Semmilyen túlnyúlás nem megengedett.
+− Legfeljebb 2 méter.
+
+A segédmotoros kerékpáron elhelyezett rakomány...
+× a vezetőt nem akadályozhatja a jármű vezetésében.
+− a vezetőt nem zavarhatja a jármű vezetésében.
+− a vezetőt nem veszélyeztetheti.
+
+Szabad-e utast szállítani a kétkerekű segédmotoros kerékpáron?
+× Nem.
+− Igen, ha a jármű vezetője betöltötte a 17. életévét.
+− Igen, ha az utas betöltötte a 17. életévét.
+− Igen, ha az utas is rendelkezik bukósisakkal.
+
+Elhelyezheti-e a rakományt (pl. táskát) a segédmotoros kerékpáron úgy, hogy az a közlekedés biztonságát veszélyezteti?
+× Nem.
+− Igen.
+− Csak lakott területen belül.
+− Igen, de csak akkor, ha forgalommentes helyen, és ott is csak rövid ideig közlekedik.
+− Csak földúton.
+
+Szabad-e utast szállítani háromkerekű segédmotoros kerékpárral?
+× Igen, ha a jármű vezetője betöltötte a 17. életévét.
+− Igen, ha az utas betöltötte a 17. életévét.
+− Nem.
+− Igen, ha az utas is visel becsatolt bukósisakot.
+
+Szabad-e utast szállítani négykerekű segédmotoros kerékpárral?
+× Igen, ha a jármű vezetője betöltötte a 17. életévét.
+− Igen, ha az utas betöltötte a 17. életévét.
+− Nem.
+− Igen, ha az utas is visel becsatolt bukósisakot.
+
+[5.3 2] Az alábbiak közül milyen járművel szabad igénybe venni az ábrán látható táblával jelzett utat?
+× Gépjárművel.
+− Minden kifogástalan állapotú járművel.
+− Segédmotoros kerékpárral.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni segédmotoros kerékpárral lakott területen kívül?
+× Legfeljebb 40 km/h sebességgel.
+− Legfeljebb 50 km/h sebességgel.
+− Legfeljebb 60 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni segédmotoros kerékpárral lakott területen?
+× Legfeljebb 40 km/h sebességgel.
+− Legfeljebb 50 km/h sebességgel.
+− Legfeljebb 30 km/h sebességgel.
+
+Szabad-e segédmotoros kerékpárral autópályán vagy autóúton közlekedni?
+× Nem.
+− Igen.
+
+Hol kell közlekedni a párhuzamos közlekedésre alkalmas úttesten?
+× Általában a külső (jobb szélső) forgalmi sávban.
+− Mindig a belső forgalmi sávban.
+− Mindig a külső forgalmi sávban.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából az autóbusz-forgalmi sávot?
+× Nem.
+− Igen.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a kerékpársávot?
+× Nem.
+− Igen.
+
+Hol kell közlekednie segédmotoros kerékpárral a lakott területen kívüli, főútvonalként megjelölt úton az alábbiak közül?
+× Az úttest jobb széléhez húzódva.
+− A forgalmi sáv közepén.
+− A menetirány szerinti jobb oldal bármely részén.
+− Az útpadkán.
+
+[5.3] Melyik irányban haladhat el az ábrán látható járdasziget mellett, ha az az úttest menetirány szerinti jobb és bal oldalát választja el egymástól?
+× Csak jobbról, a ’B’ jelű nyomvonalon.
+− Csak balról, az ’A’ jelű nyomvonalon.
+− Útiránytól függően akár az ’A’, akár a ’B’ jelű nyomvonalon.
+
+Szabad-e az autóbusz-forgalmi sávban kétkerekű segédmotoros kerékpárral folyamatosan közlekedni?
+× Igen, az autóbusz- és trolibuszforgalom zavarása nélkül.
+− Nem.
+− Igen, feltétel nélkül.
+
+Az úttest szélén lassítósáv található. Köteles-e járművével a jobbra tartás értelmében itt közlekedni?
+× Nem.
+− Igen, ha a jármű vezetője túl lassan halad.
+− Igen, minden esetben.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából az autóbusz-forgalmi sávot és az autóbuszöblöt?
+× Nem.
+− Igen.
+− Csak motorkerékpárral közlekedve.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a kapaszkodósávot?
+× Nem.
+− Igen.
+− Csak motorkerékpárral közlekedve.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a lassító- és gyorsítósávot?
+× Nem.
+− Igen.
+− Csak motorkerékpárral közlekedve.
+
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a kerékpársávot?
+× Nem.
+− Igen.
+− Csak segédmotoros kerékpárral.
+
+Szabad-e a párhuzamos közlekedésre alkalmas úttesten két járműnek ugyanabban a forgalmi sávban egymás mellett elhaladni?
+× Nem, kivéve az egy nyomon haladó jármű melletti elhaladást.
+− Igen.
+
+Közlekedhetnek-e egymás mellett párhuzamosan haladva az úttesten a kétkerekű segédmotoros kerékpárral közlekedők?
+× Nem.
+− Igen.
+− Csak lakott területen.
+− Csak lakott területen kívül.
+
+Szabad-e a forgalmi sávokat - a gyorsabb előrehaladás érdekében - kis távolságon belül ismételten változtatni?
+× Nem.
+− Igen, szabad.
+
+Mikor szabad közlekedni a kommunális szemét szállítására szolgáló járművel az autóbusz-forgalmi sávban?
+× 20 és 06 óra között.
+− 06 és 22 óra között.
+− Sosem.
+
+[5.3 1] Segédmotoros kerékpárral továbbhaladhat-e ennél a fényjelzésnél?
+× Igen, ha az autóbusz-forgalmi sávban közlekedik.
+− Nem, ennél a jelzésnél csak az autóbuszoknak szabad továbbhaladni.
+− Igen, bármelyik sávban is közlekedik.
+
+Közlekedhet-e az autóbusz-forgalmi sávban sürgősségi betegellátásra rendszeresített gépjármű?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e az autóbusz-forgalmi sávban a hivatásos katasztrófavédelmi szervek gépjárműve?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Közlekedhet-e az autóbusz-forgalmi sávban a tűzoltó egyesületek közvetlen helyszíni beavatkozásra rendszeresített gépjárműve?
+× Igen, amennyiben megkülönböztető jelzést adó készülékkel van felszerelve.
+− Igen, amennyiben figyelmeztető jelzést adó készülékkel van felszerelve.
+− Igen, feltétel nélkül.
+
+Az alábbiak közül mely járművekkel szabad a járdán megállni, ha nincs megállást megengedő jelzőtábla vagy útburkolati jel?
+× Kétkerekű motorkerékpárral és kétkerekű segédmotoros kerékpárral, a vonatkozó egyéb feltételek fennállása esetén.
+− Oldalkocsis motorkerékpárral.
+− Bármilyen segédmotoros kerékpárral.
+
+[5.3 3] Kétkerekű segédmotoros kerékpárral szabad-e megállni a járdán e jelzőtáblát követően?
+× Igen, amennyiben fennállnak a segédmotoros kerékpárral járdán való megállással kapcsolatos egyéb feltételek.
+− Nem.
+− Csak akkor, ha közúti jelzés ezt lehetővé teszi.
+
+[5.3 4] Kétkerekű segédmotoros kerékpárral szabad-e várakozni a járdán e jelzőtáblát követően?
+× Igen, amennyiben fennállnak a segédmotoros kerékpárral járdán való várakozással kapcsolatos egyéb feltételek.
+− Nem.
+− Csak akkor, ha közúti jelzés ezt lehetővé teszi.
+
+Mi a helyes reakció vízenfutás esetén?
+× A járművet egyenesben tartva, a gázpedált felengedve motorfékezéssel kell lassítani a járművet a tapadás visszanyeréséig.
+− Határozott fékezésbe kell kezdeni, és kikormányozni a vízről a járművet.
+− A jármű rögzítőfékjét működtetve egyenesben kell tartani a kormányt.
+− Határozott gázadással túl kell lendülni a vízfelületen.
+
+Hogyan célszerű közlekednie frissen hullott hóban, vagy laza talajon?
+× Egyenletes sebességgel haladva, alacsonyabb sebességfokozatban, lassan.
+− Teljesen lelassítva, sűrűn fékezve kell közlekedni.
+− Változatlan sebességgel, de a lazább útfelületen lassítva kell közlekedni.
+
+Lehet-e hatása az oldalszélnek a járművezetésre?
+× Igen, és erre a járművezetőnek elméletben és gyakorlatban is fel kell készülnie.
+− Nem, mert a járművet az oldalszél nem tudja eltéríteni haladási irányától.
+− Csak a haladási iránnyal ellentétes irányú szélnek van hatása a járműre.
+
+Mikor veszélyes az oldalszél?
+× Ha hirtelen lép fel, vagy hirtelen szűnik meg.
+− Ha lakott területen belül, sűrű forgalomban hat a közlekedő járműre.
+− Az oldalszél csak akkor veszélyes, ha erdőben hat a közlekedő járműre.
+
+Hogyan változik a jármű menetellenállása a domborzati viszonyoktól függően?
+× Emelkedőn növekszik, lejtőn csökken.
+− A menetellenállás nem függ a domborzati viszonyoktól.
+− Emelkedőn csökken, lejtőn növekszik.
+− Emelkedőn és lejtőn egyaránt növekszik.
+
+Hatással van-e a menetellenállásra a domborzati viszonyok változása?
+× Igen, emelkedőn növekszik, lejtőn csökken.
+− Nem, a menetellenállás nem függ a domborzati viszonyoktól.
+− Igen, emelkedőn csökken, lejtőn növekszik.
+− Igen, de a lejtők és emelkedők által okozott változás elenyésző a többi menetellenálláshoz (légellenállás, gördülési ellenállás) képest.

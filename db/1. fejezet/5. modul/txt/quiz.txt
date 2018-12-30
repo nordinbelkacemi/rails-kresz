@@ -1,0 +1,170 @@
+Általában az út mely részén és hogyan kell a járművel megállni?
+× Az úttest menetirány szerinti jobb szélén, azzal párhuzamosan, egy sorban.
+− Az úttest bármelyik szélén, azzal párhuzamosan.
+− A menetirány szerinti jobb oldalon bárhol.
+
+Kell-e a megállást - ide nem értve a forgalmi okból történő megállást - irányjelzéssel jelezni?
+× Igen, kell.
+− Nem kell.
+− Csak akkor kell, ha az irányváltoztatással is jár.
+
+Az alábbiak közül mely járművekkel szabad a járdán megállni, ha nincs megállást megengedő jelzőtábla vagy útburkolati jel?
+× Kétkerekű motorkerékpárral és kétkerekű segédmotoros kerékpárral, a vonatkozó egyéb feltételek fennállása esetén.
+− Oldalkocsis motorkerékpárral.
+− Bármilyen segédmotoros kerékpárral.
+
+Kell-e a megállást - ide nem értve a forgalmi okból történő megállást - irányjelzéssel jelezni?
+× Igen, kell.
+− Nem kell.
+− Csak akkor kell, ha az irányváltoztatással is jár.
+
+[1.5 3] Milyen okból szabad megállni a jelzőtáblát követően?
+× Forgalmi vagy műszaki okból.
+− Csak műszaki okból.
+− Csak forgalmi okból.
+
+[1.5 1] Mit jelent ez a közúti jelzés?
+× Az úttesten kívül az útpadkán is tilos a megállás és a várakozás.
+− Az úttesten kívül a leállósávon is tilos a megállás és a várakozás.
+− Az útpadkán és a leállósávon tilos a megállás és a várakozás.
+
+[1.5 3] Az út mely részére vonatkozik a jelzőtáblával jelzett tilalom?
+× Az úttestre.
+− Az úttestre és az útpadkára.
+− Az úttestre és a járdára.
+
+[1.5 3] Az út mely részére vonatkozik a jelzőtáblával jelzett tilalom?
+× Az úttestre.
+− Az úttestre és az útpadkára egyaránt.
+− Az úttestre, az útpadkára és a leállósávra egyaránt.
+
+[1.5 3] Az ábrán látható jelzőtábla hatálya a következő útkereszteződésig tart, kivéve, ha...
+× a jelzőtábla alatt elhelyezett kiegészítő tábla ennél rövidebb távolságot jelöl meg.
+− útburkolati jelből más következik.
+− a megállás szabályaiból más következik.
+
+[1.5 3] Az ábrán látható jelzőtábla hatálya a következő útkereszteződésig tart, kivéve, ha...
+× ellentétes értelmű jelzőtábla a tilalmat előbb feloldja.
+− útburkolati jelből más következik.
+− a megállás szabályaiból más következik.
+
+[1.5 3] Mit tilt az ábrán látható jelzőtábla?
+× A megállást és a várakozást.
+− Csak a megállást.
+− Csak a várakozást.
+
+[1.5 3] Szabad-e segédmotoros kerékpárral az úttesten megállni e jelzőtáblát követően?
+× Nem.
+− Igen, az egy nyomon haladó segédmotoros kerékpárral.
+− Igen.
+
+Az úttest melyik oldalán tiltja a megállást az úttest menetirány szerinti bal oldalán elhelyezett ’Megállni tilos’ jelzőtábla?
+× Csak a bal oldalon.
+− Mindkét oldalon.
+− Csak a jobb oldalon.
+− Csak a középső két forgalmi sávban.
+− Csak a két szélső forgalmi sávban.
+
+[1.5 4] Ön az ’A’ jelű gépkocsival a képen látható helyen megállt. Mikor szabályos ez?
+× Ha a megállásra műszaki hiba miatt került sor.
+− Ha utasa itt szeretne kiszállni.
+− Ha az ábrán látható házban lakik, és az erről szóló igazolást elhelyezi a gépkocsi szélvédője mögé.
+
+Szabad-e megállni olyan helyen, ahol a jármű és az úttestre festett záróvonal között 2 m hely marad?
+× Nem.
+− Csak kétkerekű motorkerékpárral.
+− Igen.
+
+Szabad-e megállni be nem látható útkanyarulatban (ide nem értve a forgalmi okból történő megállást)?
+× Nem.
+− Igen, de csak nappal, jó látási viszonyok között.
+− Igen, de csak kétkerekű motorkerékpárral.
+
+Szabad-e megállni be nem látható bukkanóban (ide nem értve a forgalmi okból történő megállást)?
+× Nem.
+− Igen, de csak nappal, jó látási viszonyok között.
+− Igen, de csak kétkerekű motorkerékpárral.
+
+Szabad-e megállni útkereszteződésben?
+× Általában nem.
+− Igen.
+− Nem, soha.
+
+Szabad-e megállni útkereszteződésben az úttorkolattal szemben?
+× Igen, ha ez a többi jármű bekanyarodását nem akadályozza.
+− Igen, ha ez a többi jármű vezetőjét nem zavarja.
+− Nem.
+
+Szabad-e megállni az útkereszteződésnél az úttestek széleinek metszéspontjától számított 5 m-en belül?
+× Nem.
+− Igen, de csak személygépkocsival.
+− Igen, de csak motorkerékpárral.
+
+Szabad-e megállni kijelölt gyalogos-átkelőhelyen?
+× Nem.
+− Igen, ha ez nem akadályozza a gyalogosok közlekedését.
+− Igen, ha ott nem zajlik gyalogos forgalom.
+
+Szabad-e megállni kijelölt gyalogos-átkelőhely előtt 5 m távolságon belül?
+× Nem.
+− Igen, de csak egy nyomon haladó járművel és kézikocsival.
+− Igen, de csak motorkerékpárral és személygépkocsival.
+
+Milyen távolságot követően szabad megállni a vasúti átjáró után?
+× A vasúti átjárótól számított 30 m-en túl.
+− Közvetlenül a vasúti átjáró után is meg szabad állni.
+− A vasúti átjáró után nem szabad megállni.
+
+Szabad-e megállni villamos-megállóhelynél lévő járdasziget és a hozzá közelebb eső járda közötti úttestrészen?
+× Nem.
+− Igen, de csak a ki- és beszállás idejére.
+− Igen, de csak kétkerekű motorkerékpárral.
+
+[1.5 5] Az ábrán látható ’A’ és ’B’ jelű várakozó járművek az úttestek széleinek metszéspontjától számított 5 méter távolságra tartózkodnak. Ezek közül melyik szabályos?
+× Csak a ’B’ jelű személygépkocsi.
+− Csak az ’A’ jelű autóbusz.
+− Mindkét jármű.
+
+[1.5 6] Ön az ’A’ jelű gépkocsival a képen látható helyen megállt. Mikor szabályos ez?
+× Ha a megállásra műszaki hiba miatt került sor.
+− Ha utasa itt szeretne kiszállni.
+− Ha az ábrán látható házban lakik, és az erről szóló igazolást elhelyezi a gépkocsi szélvédője mögé.
+
+[1.5 6] Szabályosan tartózkodik-e egyhelyben az ábrán látható ’A’ jelű gépkocsi?
+× Nem.
+− Csak akkor, ha a megállás nem tart 5 percnél tovább.
+− Csak akkor, ha az utasa itt szeretne kiszállni.
+
+[1.5 6] Őrizetlenül hagyhatja-e járművét az ’A’ jelű gépkocsi vezetője az ábrán látható helyen?
+× Nem.
+− Igen, mert az úttesten nincs záróvonal felfestve.
+− Maximum 5 percig.
+
+[1.5 7] Mikor várakozik szabályosan az ábrán látható ’B’ jelű személygépkocsi?
+× Ha az úttestek széleinek metszéspontjától számított 5 méterre, vagy attól nagyobb távolságra tartózkodik.
+− Ha az úttestek széleinek metszéspontjától 4 méterre várakozik.
+− Ha az úttestek széleinek metszéspontjától 3 méterre várakozik.
+
+[1.5 7] Az ábrán látható ’A’ és ’B’ jelű személygépkocsik az úttestek széleinek metszéspontjától számított 5 méterre várakoznak. Melyikük várakozik szabályosan?
+× Mindkettő.
+− Csak az ’A’ jelű személygépkocsi.
+− Csak a ’B’ jelű személygépkocsi.
+
+[1.5 7] Szabályos helyen várakozik-e az ’A’ jelű személygépkocsi?
+× Igen, ha az úttestek széleinek metszéspontjától számított 5 méterre, vagy attól nagyobb távolságra tartózkodik.
+− Nem, mert a kijelölt gyalogos-átkelőhely után legalább 5 méter távolságot kellene szabadon hagynia.
+
+[1.5 8] Mikor várakozik szabályosan a ’B’ jelű személygépkocsi?
+× Ha az úttestek széleinek metszéspontjától számított 5 méter távolságon kívül tartózkodik.
+− Mivel közvetlenül a kijelölt gyalogos-átkelőhely után várakozik, ezért akkor is, ha az úttestek széleinek metszéspontjától csak 4 méterre van.
+− Csak akkor, ha a kijelölt gyalogos-átkelőhely után is szabadon hagy legalább 5 méter távolságot.
+
+[1.5 8] Az ’A’ és ’B’ jelű személygépkocsik az úttestek széleinek metszéspontjától számított 5 méterre várakoznak. Melyikük várakozik szabályosan?
+× Csak a ’B’ jelű személygépkocsi.
+− Csak az ’A’ jelű személygépkocsi.
+− Mindkét jármű.
+
+Szabad-e megállni vasúti átjáróban és attól számított 30 m távolságon belül?
+× Nem.
+− Az átjáróban nem, de közvetlenül előtte igen.
+− Az átjáróban nem, de közvetlenül utána igen.

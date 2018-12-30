@@ -1,0 +1,263 @@
+[4.4] Melyik a helyes és biztonságos kormányfogás az alábbiak közül?
+× Az 1-es jelű.
+− A 2-es jelű.
+− A 3-as jelű.
+
+[4.4] Biztonságos-e az ábrázolt 2-es jelű kormányfogással való közlekedés?
+× Nem.
+− Igen, ha már fáradt a járművezető.
+− Igen, mert így jobban eléri a kormányt a járművezető.
+
+Mi a teendője, ha féktávolságon belül gyalogos lép a járműve elé?
+× Intenzíven fékez, és kormányzással igyekszik elkerülni az ütközést.
+− Fékezés nélkül dudál a gyalogosnak, hogy Ő is észlelje a veszélyt.
+− A baleset nem kerülhető el, fékezéssel tompíthatja az ütközést.
+
+Kisebb, vagy a nagyobb sebességi fokozatban jobb a jármű gyorsítóképessége?
+× Kisebb sebességi fokozatban.
+− Nagyobb sebességi fokozatban.
+− Nem függ a sebességi fokozattól.
+
+Mi a kipörgésgátló (ASR) feladata?
+× A kerekek kipörgésének, ezáltal a tapadás elvesztésének és a jármű irányíthatatlanságának megakadályozása.
+− A motor túlpörgésének megakadályozása.
+− A jármű hirtelen megindulásának megakadályozása, ezáltal egy balesetveszélyes helyzet elkerülése.
+
+Hogyan változik a jármű menetellenállása a domborzati viszonyoktól függően?
+× Emelkedőn növekszik, lejtőn csökken.
+− A menetellenállás nem függ a domborzati viszonyoktól.
+− Emelkedőn csökken, lejtőn növekszik.
+− Emelkedőn és lejtőn egyaránt növekszik.
+
+Függ-e – és miért – a jármű menetellenállásának mértéke a sebességtől?
+× Igen, a sebesség növelésével a menetellenállás – a légellenállás növekedése miatt – nő.
+− Nem, a menetellenállás mértéke nem függ a sebességtől.
+− Igen, a sebesség növelésével a menetellenállás – a gördülési ellenállás csökkenése miatt – csökken.
+− Igen, a sebesség növelésével a menetellenállás – a légellenállás csökkenése miatt – csökken.
+
+Hatással van-e a menetellenállásra a domborzati viszonyok változása?
+× Igen, emelkedőn növekszik, lejtőn csökken.
+− Nem, a menetellenállás nem függ a domborzati viszonyoktól.
+− Igen, emelkedőn csökken, lejtőn növekszik.
+− Igen, de a lejtők és emelkedők által okozott változás elenyésző a többi menetellenálláshoz (légellenállás, gördülési ellenállás) képest.
+
+Mikor célszerű kikapcsolni a kipörgésgátló (ASR) rendszert?
+× Laza, mély talajon, sárban, vagy havon, ha az ASR használatával a jármű nem képes elindulni, illetve folyamatosan haladni.
+− Autópályán, nagy sebességgel haladva.
+− Vízenfutás észlelésekor.
+− Rossz minőségű, kátyús útfelületen haladva.
+
+Igényel-e karbantartást a jármű ablaktörlő berendezése?
+× Igen, az ablaktörlő lapátok minőségét ellenőrizni kell, a kopott ablaktörlő lapátokat cserélni kell.
+− Nem, mert az ablaktörlő berendezésben nincsenek kopó alkatrészek.
+− Igen, de csak akkor, ha a járművet műszaki vizsgára készíti fel.
+− Nem, mert az ablaktörlő berendezés kopását egy szerkezet automatikusan utánállítja.
+
+Szükséges-e az ablakmosó tartályt télen fagyálló ablakmosó folyadékkal feltölteni?
+× Igen, mert a folyadék fagyveszélynek van kitéve.
+− Nem, mert a motortérben mindig meleg van.
+− Nem, mert a szükséges ablakmosás olyan rövid ideig tart, hogy ez idő alatt nem fagy meg az ablakmosó folyadék.
+− Igen, de csak akkor, ha az ablakmosó tartályon fellazult a zárósapka.
+− Nem, mert a fagyálló ablakmosó folyadék rongálja az ablaktörlő gumilapátját.
+
+Milyen folyadékot kell tölteni az ablakmosó berendezés tartályába?
+× Téli vagy nyári ablakmosó folyadékot.
+− Csak desztillált vizet.
+− Csak magas ph értékű dielektrikumot.
+
+Miért fontos az ablaktörlő lapátok folyamatos ellenőrzése?
+× Mert a rossz ablaktörlő lapát nem töröl egyenletesen, így korlátozottá válik a járműből történő kilátás, ami balesetveszélyes.
+− Ellenőrzése nem fontos, a kopott ablaktörlő lapát a közlekedés biztonságát nem veszélyezteti.
+− Ellenőrzése nem szükséges, elkopását a műszerfalon sárga fényű lámpa jelzi.
+
+Ha az ablaktörlő lapátja kopott,...
+× akkor a lapátokat cserélni kell.
+− akkor a lapátokat egy nedves ruhával meg kell tisztítani.
+− akkor a lapátok dőlésszögén állítani kell.
+
+Miről ismerhetjük fel a vízenfutás jelenségét?
+× Járművünk gyakorlatilag irányíthatatlanná és fékezhetetlenné válik a megszűnő tapadás miatt.
+− Sokkal könnyebbé válik a jármű irányítása.
+− A járművet a vízréteg ellenállása erőteljesen gyorsítja.
+− Leáll a jármű motorja.
+
+Mely tényezők növelik a vízenfutás bekövetkezésének valószínűségét?
+× A jármű magas sebessége, a gumiabroncsok kis profilmélysége és a vízréteg nagy vastagsága.
+− A jármű alacsony sebessége, a gumiabroncsok kis profilmélysége és a vízréteg nagy vastagsága.
+− A jármű magas sebessége, a gumiabroncsok nagy profilmélysége és a vízréteg kis vastagsága.
+− A jármű alacsony sebessége, a gumiabroncsok kis profilmélysége és a vízréteg kis vastagsága.
+
+Mi a helyes reakció vízenfutás esetén?
+× A járművet egyenesben tartva, a gázpedált felengedve motorfékezéssel kell lassítani a járművet a tapadás visszanyeréséig.
+− Határozott fékezésbe kell kezdeni, és kikormányozni a vízről a járművet.
+− A jármű rögzítőfékjét működtetve egyenesben kell tartani a kormányt.
+− Határozott gázadással túl kell lendülni a vízfelületen.
+
+A jármű világító berendezéseit használni kell korlátozott látási viszonyok között, mert...
+× így a járművezető jobban lát, és a járművet is jobban látják.
+− a járművezető látása ezzel javítható.
+− ellenkező esetben növekszik az útvonal tévesztésének lehetősége.
+
+Folytathatja-e útját a személygépkocsival, ha annak elromlott a bal oldali első helyzetjelző lámpája, és azt csak a távolsági fényszóróval tudja helyettesíteni?
+× Csak akkor, ha a jármű kivilágítása nem szükséges.
+− Igen.
+− Csak jó látási viszonyok között mellék-, vagy földúton.
+
+Helyettesítheti-e az elromlott bal oldali első helyzetjelző lámpát a tompított fényszóró és a távolsági fényszóró?
+× Csak a tompított fényszóró helyettesítheti.
+− Mindkettő helyettesítheti.
+− Egyik sem helyettesítheti.
+
+Helyettesítheti-e az elromlott bal oldali hátsó helyzetjelző lámpát a hátsó helyzetjelző ködlámpa?
+× Nem.
+− Igen.
+− Csak lakott területen kívül.
+− Csak lakott területen belül.
+
+Helyettesítheti-e az elromlott bal oldali első helyzetjelző lámpát a tompított fényszóró vagy a nappali menetjelző lámpa?
+× Ezek közül mindkettő helyettesítheti.
+− Egyik sem helyettesítheti.
+− Csak a tompított fényszóró helyettesítheti.
+− Csak a nappali menetjelző lámpa helyettesítheti.
+
+Át kell-e kapcsolni tompított világításra, ha a másik jármű követése esetén a távolsági fényszóró – a visszapillantó tükrön át – az elöl haladó jármű vezetőjét elvakíthatja?
+× Igen.
+− Nem.
+− Nem, ha a tompított fényszórók valamelyike nem működik.
+
+Szerezhet-e a közlekedésbiztonság szempontjából lényeges információkat a jármű vezetője hallás útján?
+× Igen, az utastéren kívülről (pl. megkülönböztető jelzéseit használó járművek, más járművek hangjelzése, saját jármű motorzaja, gumiabroncs zaj) és belülről (autórádió, utasok) egyaránt.
+− Nem, a hallás semmilyen lényeges szerepet nem játszik a járművezetés során.
+− Nem, mert a belső zajok (rádió, beszélgetés, zörejek) a kívülről jövő hangokat minden esetben elnyomják.
+− Igen, de a hangszigetelés miatt csak az utastéren belülről (autórádión hallható közlekedési információk, utasok jelzései).
+
+Lehet-e hatása az oldalszélnek a járművezetésre?
+× Igen, és erre a járművezetőnek elméletben és gyakorlatban is fel kell készülnie.
+− Nem, mert a járművet az oldalszél nem tudja eltéríteni haladási irányától.
+− Csak a haladási iránnyal ellentétes irányú szélnek van hatása a járműre.
+
+Mikor veszélyes az oldalszél?
+× Ha hirtelen lép fel, vagy hirtelen szűnik meg.
+− Ha lakott területen belül, sűrű forgalomban hat a közlekedő járműre.
+− Az oldalszél csak akkor veszélyes, ha erdőben hat a közlekedő járműre.
+
+Mi növelheti meg jelentősen a jármű légellenállását?
+× A tetőcsomagtartó, illetve az azon szállított tárgyak, a lehúzott ablakok, illetve a nyitott tetőablak.
+− A túl alacsony gumiabroncsnyomás.
+− Az erőltetett hegymenet.
+− A túl magas gumiabroncsnyomás.
+
+Mi lehet az oka annak, ha valamelyik kerék megcsúszik?
+× A kerék terhelése nem elegendő, kis ívű kanyarodás történt nagy sebességgel, vagy csúszós az úttest.
+− Nem megfelelő a gumiabroncs mérete.
+− Kis sebességgel, magas sebességfokozattal közlekedünk.
+
+Milyen következményei lehetnek a helytelen rakományelhelyezésnek?
+× Csökken a jármű stabilitása és megnövekszik a fékút hossza.
+− Egyenetlenül kopnak a gumiabroncsok.
+− A kirakodás nehézkesebb, több időt vesz igénybe.
+
+Miért fontos a gumiabroncsok levegőnyomásának rendszeres ellenőrzése?
+× Mert így biztosítható a legjobb tapadás és a gumiabroncs egyenletes kopása.
+− Mert ellenkező esetben a gumiabroncs elveszíti a garanciáját.
+− Mert így a gumiabroncs kopása megakadályozható.
+
+Hogyan viselkedik az alulkormányzott gépkocsi a csúszáshatár elérésekor?
+× Először az első kerekei csúsznak meg, ezért a jármű elveszti a kormányozhatóságát és a kanyarból kitörve, egyenesen kezd haladni.
+− Először a hátsó kerekei csúsznak meg, ezért a jármű egyre szűkebb ívben kanyarodva pördülni kezd.
+− Az első és hátsó kerekei egyszerre csúsznak meg, a jármű viselkedése teljesen kiszámíthatatlanná válik.
+− Először a hátsó kerekei csúsznak meg, ezért a jármű elveszti a kormányozhatóságát és a kanyarból kitörve, egyenesen kezd haladni.
+
+Hogyan viselkedik a túlkormányzott gépkocsi a csúszáshatár elérésekor?
+× Először a hátsó kerekei csúsznak meg, ezért a jármű egyre szűkebb ívben kanyarodva pördülni kezd.
+− Először az első kerekei csúsznak meg, ezért a jármű elveszti a kormányozhatóságát és a kanyarból kitörve, egyenesen kezd haladni.
+− Az első és hátsó kerekei egyszerre csúsznak meg, a jármű viselkedése teljesen kiszámíthatatlanná válik.
+− Először az első kerekei csúsznak meg, ezért a jármű egyre szűkebb ívben kanyarodva pördülni kezd.
+
+Mit jelent, ha egy gépkocsi alulkormányzott?
+× Ívmenetben az első kerekeinek oldalirányú kúszása nagyobb, mint a hátsóké, így a jármű a vezető által a kormánykeréken beállítottnál nagyobb íven kanyarodik.
+− A jármű kormányművét a lehető legalacsonyabban helyezték el.
+− A jármű kormányrudazatát alacsonyan helyezték el.
+− Ívmenetben a hátsó kerekeinek oldalirányú kúszása nagyobb, mint az elsőké, így jármű a vezető által a kormánykeréken beállítottnál kisebb íven kanyarodik.
+
+Mit jelent, ha egy gépkocsi túlkormányzott?
+× Ívmenetben a hátsó kerekeinek oldalirányú kúszása nagyobb, mint az elsőké, így jármű a vezető által a kormánykeréken beállítottnál kisebb íven kanyarodik.
+− Ívmenetben az első kerekeinek oldalirányú kúszása nagyobb, mint a hátsóké, így a jármű a vezető által a kormánykeréken beállítottnál nagyobb íven kanyarodik.
+− Ívmenetben az első és hátsó kerekeinek oldalirányú kúszása megegyezik, így a jármű pontosan a vezető által a kormánykeréken beállítottnak megfelelő íven kanyarodik.
+− A jobb és baloldali kormányzott kerekeinek elfordítása egymástól különbözik.
+
+Szükséges-e az ablakmosó tartályt télen fagyálló ablakmosó folyadékkal feltölteni?
+× Igen, mert a folyadék fagyveszélynek van kitéve.
+− Nem, mert a motortérben mindig meleg van.
+− Nem, mert a szükséges ablakmosás olyan rövid ideig tart, hogy ez idő alatt nem fagy meg az ablakmosó folyadék.
+− Igen, de csak akkor, ha az ablakmosó tartályon fellazult a zárósapka.
+− Nem, mert a fagyálló ablakmosó folyadék rongálja az ablaktörlő gumilapátját.
+
+Ha a kormányzott kerekek megcsúsznak, ...
+× akkor a jármű nem irányítható.
+− akkor a jármű irányítható marad, de nagyobb erőkifejtést igényel.
+− akkor ellenkormányzással kell stabilizálni a jármű mozgását.
+
+Mikor célszerű használni a differenciálzárat?
+× Amikor az útviszonyok miatt feltételezhetjük, hogy valamelyik kerék megcsúszhat.
+− Amikor egyenetlen földútra hajtunk.
+− Akkor, ha nehéz pótkocsit vontatunk.
+
+Amennyiben csak egy tengelyen lévő kerekekre elégséges hólánc áll a járműben rendelkezésre, akkor...
+× azokat a hajtott kerekekre kell felszerelni.
+− azokat a kormányzott kerekekre kell felszerelni.
+− azokat nem kell felszerelni, mert hóláncot csak valamennyi kerékre együttesen szabad felszerelni.
+
+Miért ajánlatos télen a téli gumiabroncs használata?
+× Azért, mert egyrészt a téli gumiabroncs mintázatának kialakítása jobb kapaszkodóképességgel rendelkezik, mint a nyári gumiabroncsé, másrészt a téli gumiabroncs kevésbé lesz merev és rideg az alacsony hőmérséklet következtében.
+− Azért, mert a téli gumiabroncs olcsóbb.
+− Azért, mert a téli gumiabroncs minden esetben szélesebb felületen fekszik fel az út felületére, ezáltal kevésbé csúszik meg a csúszós úton.
+
+Miért veszélyes, ha a jármű kormányzott kerekei megcsúsznak?
+× Mert a jármű irányíthatatlanná válik.
+− Mert a jármű nehezebben kormányozható.
+− Mert a jármű az üzemi fékkel nem fékezhető.
+
+Hideg időben hol számíthatunk fokozottan az útfelület eljegesedésére?
+× Hidakon, felüljárókon, erdősávval védett útszakaszokon.
+− Mellékutakon, nem aszfaltozott úton.
+− Mindenhol.
+
+[4.4 1] Mire utasítja ez a jelzőtábla a gépkocsik vezetőit?
+× Arra, hogy a jármű legalább egy hajtott tengelyén lévő gumiabroncsokat hólánccal kell felszerelni.
+− Arra, hogy a jármű legalább egy hajtott kerekén lévő gumiabroncsot hólánccal kell felszerelni.
+− Arra, hogy a jármű minden tengelyén lévő gumiabroncsokat hólánccal kell felszerelni.
+
+Mikor szabad hóláncot használni személygépkocsin?
+× Csak havas, jeges úton való haladáskor.
+− Csak akkor, ha ezt külön tábla jelöli.
+− Csak november 1-től március 31-ig.
+− Amikor a járművezető indokoltnak tartja.
+
+Hogyan célszerű közlekednie frissen hullott hóban, vagy laza talajon?
+× Egyenletes sebességgel haladva, alacsonyabb sebességfokozatban, lassan.
+− Teljesen lelassítva, sűrűn fékezve kell közlekedni.
+− Változatlan sebességgel, de a lazább útfelületen lassítva kell közlekedni.
+
+[4.4 2] Segédmotoros kerékpárral közlekedve figyelembe kell-e venni a jelzőtábla jelentését?
+× Nem.
+− Igen.
+− Csak akkor, ha nem szállít utast.
+
+Személygépkocsival közlekedve használhat-e hóláncot a sáros és felázott földúton?
+× Nem.
+− Igen.
+− Igen, de csak akkor, ha az út kezelője engedélyezte.
+− Ha a vezető úgy ítéli meg, hogy ez a biztonságot segíti, akkor igen.
+
+Személygépkocsival közlekedve használhat-e hóláncot, ha az út jeges, de nem havas?
+× Igen.
+− Nem.
+− Ha a vezető úgy ítéli meg, hogy ez a biztonságot segíti, akkor igen.
+− Igen, de csak akkor, ha az út kezelője engedélyezte.
+
+Gépkocsija nincs elektronikus menetdinamikai szabályozórendszerrel (ESP) felszerelve. Milyen kormányzást végez akkor, ha a jármű hátsó kerekei megcsúsznak, és a jármű pördülni kezd?
+× Ellenkormányoz (a hátsó kerekek csúszásának irányába).
+− A hátsó kerekek csúszásával ellentétes irányba kormányoz.
+− Az eredeti haladási szándékának megfelelő helyzetben tartja a kormánykereket.
+− Elengedi a kormánykereket.

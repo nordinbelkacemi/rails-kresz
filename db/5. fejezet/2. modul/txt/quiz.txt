@@ -1,0 +1,164 @@
+Vezethet-e a jogszabályban meghatározott vezetési jogosultsággal vezethető járművet az, akit a jármű vezetésétől eltiltottak?
+× Nem.
+− Igen, ha a vezetői engedélyt még nem vették el.
+− Igen, amíg a vezetői engedélyt nem kell leadnia.
+− Igen, de csak a saját járművét.
+− Igen, de csak a lakóhelye szerinti településen.
+
+Vezethet-e a jogszabályban meghatározott vezetési jogosultsággal vezethető járművet az, aki nincs vezetésre képes állapotban?
+× Nem.
+− Igen, ha nem megy messzire.
+− Igen, az első várakozóhelyig.
+− Igen, de csak az otthonáig.
+− Igen, de csak legfeljebb 40 km/h sebességgel.
+
+Vezethet-e segédmotoros kerékpárt közvetlenül szeszes ital fogyasztása után?
+× Nem.
+− Igen, ha az út nem főútvonal.
+− Igen, földúton.
+− Igen, de csak az otthonáig.
+− Igen, de csak fokozott óvatossággal.
+
+Kell-e izzókészletet tartanunk a járműben?
+× Nem kötelező, de ajánlott.
+− Igen, kötelező.
+− Csak akkor kötelező, ha hosszabb útra indulunk.
+
+Szabad-e a kétkerekű jármű vezetőjének menet közben kézben tartott mobiltelefont használni?
+× Nem.
+− Igen, de csak a forgalmi okból történő megállás időtartama alatt.
+− Igen, bármikor.
+− Igen, ha a telefonhívás nem tűr halasztást.
+− Igen, ha a kormányt egy kézzel fogva még biztonságosan tud közlekedni.
+
+Kell-e becsatolt motorkerékpár-bukósisakot viselnie a kétkerekű segédmotoros kerékpárral közlekedő személynek?
+× Igen, kivéve, ha a jármű zárt utastérrel (vezetőtérrel) rendelkezik.
+− Nem.
+− Igen, kivéve földúton.
+
+Köteles-e a lakott területen kívüli út úttestén tartózkodó személy éjszaka fényvisszaverő mellényt viselni?
+× Igen.
+− Nem.
+
+Köteles-e a lakott területen lévő út úttestjén tartózkodó személy éjszaka fényvisszaverő mellényt viselni?
+× Nem.
+− Igen.
+
+Kell-e ellenőrizni az üzemi fék működőképességét?
+× Igen, legalább a napi első elindulás előtt.
+− Igen, minden elindulás előtt.
+− Nem szükséges ellenőrizni, hiszen az időszakos műszaki vizsgán ezt már ellenőrizték.
+
+Kell-e ellenőrizni a jármű világító- és jelzőberendezéseit?
+× Igen, legalább a napi első elindulás előtt.
+− Igen, minden elindulás előtt.
+− Igen, havonta egyszer ajánlatos ellenőrizni.
+
+Kell-e ellenőrizni a jármű gumiabroncsait elindulás előtt?
+× Igen, legalább a napi első elindulás előtt.
+− Igen, minden elindulás előtt.
+− Nem szükséges, mert -a gumiabroncs cseréjekor- ellenőrzötten kerülnek felszerelésre.
+
+Kell-e ellenőrizni elindulás előtt a kormányberendezés működőképességét?
+× Igen, legalább a napi első elindulás előtt.
+− Nem szükséges ellenőrizni.
+− Csak idősebb járművek esetében szükséges ellenőrizni.
+
+Köteles-e a járművezető a napi első elindulás előtt a kormányberendezést ellenőrizni?
+× Igen, az adott körülmények között indokolt módon.
+− Nem, ez az üzemben tartó feladata.
+− Nem, amennyiben rendelkezik érvényes hatósági engedéllyel.
+− Nem, ha az előző napi megálláskor a kormányberendezés még működőképes volt.
+− Csak akkor, ha a járművezető autószerelői végzettséggel rendelkezik.
+
+Köteles-e a járművezető a telephelyről történő napi első elindulás előtt a kormányberendezést ellenőrizni?
+× Igen, az adott körülmények között indokolt módon.
+− Nem, ez az üzemben tartó feladata.
+− Nem, amennyiben rendelkezik érvényes hatósági engedéllyel.
+
+Köteles-e a járművezető a telephelyről történő napi első elindulás előtt a fékberendezést ellenőrizni?
+× Igen, az adott körülmények között indokolt módon.
+− Nem, ez az üzemben tartó feladata.
+− Nem, amennyiben rendelkezik érvényes hatósági engedéllyel.
+
+Köteles-e a járművezető a telephelyről történő napi első elindulás előtt a gumiabroncsok állapotát ellenőrizni?
+× Igen, az adott körülmények között indokolt módon.
+− Nem, ez az üzemben tartó feladata.
+− Nem, amennyiben rendelkezik érvényes hatósági engedéllyel.
+
+Köteles-e a járművezető a telephelyről történő napi első elindulás előtt a világító- és fényjelző berendezések működését ellenőrizni?
+× Igen, az adott körülmények között indokolt módon.
+− Nem.
+− Nem, amennyiben rendelkezik érvényes hatósági engedéllyel.
+
+Szabad-e a jármű motorját zárt helyiségben hosszabb ideig működtetni?
+× Nem, mert a kipufogógázban lévő szén-monoxid belélegezve rosszullétet, súlyos esetben halált okozhat.
+− Igen, mert a kipufogógázban nincsenek mérgező, káros anyagok.
+− Igen, de csak akkor, ha a hanghatás mások számára nem zavaró.
+− Igen, ha a motor ez idő alatt csak alapjáraton működik.
+− Igen, de csak akkor, ha a járművezető előzetesen üresbe kapcsolta a jármű sebességváltóját.
+
+Mi a teendője a járműbe szerelt akkumulátorral, ha az tönkremegy?
+× A tönkrement akkumulátort az erre kijelölt átvevőhelyen leadom.
+− A tönkrement akkumulátort a kommunális hulladékgyüjtőbe dobom.
+− A tönkrement akkumulátorban lévő folyadékot kiöntöm, és sósavat öntök a helyébe, így az akkumulátor tovább használható.
+
+Mikor kell kivilágítani a forgalomban részt vevő, tompított fényszóróval felszerelt segédmotoros kerékpárt?
+× Minden esetben.
+− Csak éjszaka.
+− Csak akkor, ha a vezető nem lát jól.
+− Ha az a többi közlekedőt nem vakítja el.
+
+Miért fontos a jármű napszaktól független kivilágítása?
+× Mert a többi közlekedő számára észrevehetőbbé válik a járművünk.
+− Mert jobban láthatóak az útburkolati jelek.
+− Csak éjszaka vagy korlátozott látási viszonyok között fontos a jármű kivilágítása.
+
+Kell-e sávváltáskor irányjelzést alkalmazni?
+× Igen, a többi közlekedő tájékoztatása céljából.
+− Ha nincs mögöttünk más jármű, akkor nem szükséges.
+− Nem, elég a fejünket hátrafordítva tájékozódni a sávváltás előtt.
+
+Kell-e a megállást - ide nem értve a forgalmi okból történő megállást - irányjelzéssel jelezni?
+× Igen, kell.
+− Nem kell.
+− Csak akkor kell, ha az irányváltoztatással is jár.
+
+Ha elromlott a segédmotoros kerékpár irányjelző berendezése, akkor a jármű...
+× csak akkor közlekedhet tovább, ha kézzel megfelelő irányjelzés adható.
+− tovább közlekedhet.
+− semmilyen körülmények között sem közlekedhet tovább.
+− legfeljebb földúton közlekedhet tovább.
+
+[5.2] Az ’A’ jelű jármű vezetője köteles irányjelzőjével jelezni bekanyarodási szándékát?
+× Igen.
+− Nem.
+
+Köteles-e irányjelzéssel jelezni az úttest széléről történő, irányváltoztatással nem járó elindulást?
+× Igen, minden esetben.
+− Nem
+
+Mi a szerepe az alábbiak közül a jármű irányjelző berendezésének?
+× A járművezető irányváltoztatási szándékának jelzése a többi közlekedő számára.
+− A jármű kanyarodását segíti elő.
+− A jármű láttatása.
+
+Az alábbiak közül mikor kell irányjelzőt használnia?
+× Amikor lehajt az útpadkára.
+− Amikor behajt a körforgalomba.
+− Amikor a kanyarodó főútvonalon követi a főútvonal vonalvezetését.
+
+Hogyan bővítheti a járművezető a látóterét?
+× A visszapillantó tükrök használatával, a fej elfordításával.
+− Speciális szemüveg használatával.
+− Sehogyan, a látótér nem bővíthető.
+
+Mi csökkentheti a látóteret az alábbiak közül?
+× A szemüveg kerete, a gépkocsi szerkezeti elemei, a helytelenül elhelyezett nagyméretű csomagok.
+− A visszapillantó tükör megfelelő beállítása.
+− A sötétség, mert sötétben jelentősen csökken a látótér.
+
+Hogyan észlelhető a jármű holtterében tartózkodó ember, másik jármű?
+× A járművezető általában a fejének elmozdításával tudja ellenőrizni a holttereket.
+− A visszapillantó tükör mozgatásával.
+− A holtterekben közlekedők egyáltalán nem észlelhetők.

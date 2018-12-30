@@ -1,0 +1,281 @@
+Mi a teendő, ha csökken a látótávolság (pl. éjszaka, korlátozott látási viszonyok között)?
+× A jármű sebességét csökkenteni kell, kerülni kell a vakon vezetés kialakulását.
+− Fokozott figyelemmel, de változatlan sebességgel lehet továbbhaladni.
+− Felkapcsolt ködlámpával és változatlan sebességgel lehet továbbhaladni.
+
+A jármű világító berendezéseit használni kell korlátozott látási viszonyok között, mert...
+× így a járművezető jobban lát, és a járművet is jobban látják.
+− a járművezető látása ezzel javítható.
+− ellenkező esetben növekszik az útvonal tévesztésének lehetősége.
+
+Az alábbiak közül válassza ki az éjszaka fogalmát!
+× Az esti szürkület kezdetétől a reggeli szürkület megszűnéséig terjedő időszak.
+− A 22:00 h-tól 06:00-ig terjedő időszak.
+− Az esti szürkület végétől a reggeli szürkület kezdetéig terjedő időszak.
+
+Szabad-e lakott területen kívül tompított fényszóró helyett folyamatosan távolsági fényszórót használni?
+× Igen, ha ez a közlekedés többi résztvevőjét nem vakítja el.
+− Nem.
+− Csak akkor, ha a tompított fényszórók valamelyike meghibásodott.
+
+Lakott területen az úttest mellett futkározó gyerekeket lát. Adhat-e figyelmeztetésképpen hangjelzést?
+× Amennyiben úgy látja, hogy a gyerekek balesetveszélyesen a jármű elé léphetnek, akkor igen.
+− Nem, mert csak lakott területen kívül használhat hangjelzést.
+− Nem, mert kizárólag csak egy másik jármű vonatkozásában használhat hangjelzést.
+
+Lakott területen egy kerékpáros előzésébe kezd. Adhat-e hangjelzést előzési szándékának jelzésére?
+× Nem
+− Igen
+− Csak akkor, ha a hangjelzésével az előzés tényére szeretné figyelmeztetni.
+
+[4.3] A képen látható ’B’ jelű jármű a lakott területen lévő belső forgalmi sávban utolér egy lassabban haladó járművet. Adhat-e hangjelzést a gyorsabb haladási szándéka jelzésére?
+× Nem, mert lakott területen nem szabad hangjelzést adni az előzési szándék jelzésére.
+− Igen, mert a szabálytalanul lassan haladó járművek figyelmeztetésére bármikor szabad hangjelzést használni.
+− Igen, mert az előzési szándék jelzésére bárhol szabad hangjelzést adni.
+
+[4.3 1] Ön a kormánykerékkel jelzett járművet vezetve a lakott területen lévő belső forgalmi sávban utolér egy lassabban haladó járművet. Adhat-e hangjelzést a gyorsabb haladási szándéka jelzésére?
+× Nem, mert lakott területen nem szabad hangjelzést adni az előzési szándék jelzésére.
+− Igen, mert a szabálytalanul lassan haladó járművek figyelmeztetésére bármikor szabad hangjelzést használni.
+− Igen, mert az előzési szándék jelzésére bárhol szabad hangjelzést adni.
+
+[4.3 2] Kitérés közben megköszönheti-e a ’B’ jelű jármű vezetője hangjelzéssel a szemből érkező udvarias viselkedését?
+× Nem.
+− Igen, de csak lakott területen kívül.
+
+[4.3 3] Melyik ábra szemlélteti a helyesen beállított tompított fényszóró átvilágítási képét?
+× Az 1-es jelű.
+− A 2-es jelű.
+− A 3-as jelű.
+
+Miért fontos a jármű napszaktól független kivilágítása?
+× Mert a többi közlekedő számára észrevehetőbbé válik a járművünk.
+− Mert jobban láthatóak az útburkolati jelek.
+− Csak éjszaka vagy korlátozott látási viszonyok között fontos a jármű kivilágítása.
+
+Mi a szerepe a jármű helyzetjelző lámpáinak?
+× A jármű helyzetének jelzése, láttatása.
+− Az, hogy szürkületkor is látható legyen az út.
+− A járművezető jobb látását biztosítja.
+
+Hogyan kell kivilágítani a forgalomban részt vevő gépkocsit éjszaka és korlátozott látási viszonyok között?
+× Helyzetjelző lámpákkal és tompított fényszóróval.
+− Csak helyzetjelző lámpákkal.
+− Csak távolsági fényszóróval.
+− Tompított fényszóróval és nappali menetjelző lámpával együttesen, valamint hátsó ködlámpával.
+
+Szabad-e használni forgalomban részt vevő járművön keresőlámpát és munkahely megvilágító lámpát?
+× Nem.
+− Igen.
+− Igen, ha az a többi közlekedőt nem vakítja el.
+− Igen, ha a tompított fényszórók, vagy a helyzetjelző lámpák valamelyike meghibásodott.
+
+Használhat-e lakott területen kívüli úton a forgalomban részt vevő gépkocsin a tompított fényszóró helyett nappali menetjelző lámpát nappal és jó látási viszonyok között?
+× Igen.
+− Nem.
+
+Az alábbi járművek közül melyik használhat lakott területen kívül közlekedve nappal és jó látási viszonyok között nappali menetjelző lámpát a tompított fényszóró helyett?
+× A személygépkocsi.
+− A mezőgazdasági vontató.
+− A segédmotoros kerékpár.
+− A lassú jármű.
+
+Ki kell-e világítani az úttesten álló járművet éjszaka és korlátozott látási viszonyok között, ha az úton van közvilágítás?
+× Nem.
+− Igen.
+
+Ki kell-e világítani az úttesten nem forgalmi okból álló járművet éjszaka és korlátozott látási viszonyok között, ha az úton van közvilágítás, de az nem működik?
+× Nem.
+− Igen.
+
+Szabad-e az álló járművön – a forgalmi okból megálló járművet kivéve – tompított fényszórót használni?
+× Csak erős ködben vagy sűrű hóesésben.
+− Igen, korlátozás nélkül.
+− Nem.
+− Igen, ha a többi közlekedőt nem vakítja el.
+
+Szabad-e erős ködben vagy sűrű hóesésben álló járművön – a forgalmi okból megálló járművet kivéve – ködfényszórót használni?
+× Nem.
+− Igen.
+− Igen, ha a többi közlekedőt nem vakítja el.
+
+Szabad-e használni álló járművön keresőlámpát és munkahely megvilágító lámpát?
+× Igen.
+− Nem.
+
+Ha az álló jármű kivilágítása szükséges, akkor a gépjárművet...
+× a helyzetjelző lámpákkal kell kivilágítani.
+− a tompított fényszórókkal kell kivilágítani.
+− a távolsági fényszórókkal kell kivilágítani.
+− a vészvillogó működtetésével kell kivilágítani.
+
+Ki kell-e világítani az úttesten álló járművet éjszaka és korlátozott látási viszonyok között, ha a járművet egyéb külső fényforrás kellően megvilágítja?
+× Nem.
+− Igen.
+
+Kötelező-e erős ködben vagy sűrű hóesésben álló járművön tompított fényszórót használni?
+× Nem.
+− Igen.
+− Csak akkor, ha a járművezető a járművénél tartózkodik.
+
+Szabad-e erős ködben vagy sűrű hóesésben álló járművön – a forgalmi okból megálló járművet kivéve – távolsági fényszórót használni?
+× Nem.
+− Igen.
+− Igen, ha a többi közlekedőt nem vakítja el.
+
+Hol szabad tompított fényszóró helyett távolsági fényszórót használni?
+× A fényjelzés kivételével csak lakott területen kívül.
+− A fényjelzés kivételével csak lakott területen.
+− Közúton bárhol.
+− Kizárólag autópályán.
+
+Szabad-e lakott területen tompított fényszóró helyett folyamatosan távolsági fényszórót használni?
+× A fényjelzés kivételével nem.
+− Igen.
+− Csak akkor, ha nem közlekedik belátható távolságon belül senki.
+− Csak akkor, ha a tompított fényszórók valamelyike meghibásodott.
+
+Szabad-e lakott területen kívül tompított fényszóró helyett folyamatosan távolsági fényszórót használni?
+× Igen, ha ez a közlekedés többi résztvevőjét nem vakítja el.
+− Nem.
+− Csak akkor, ha a tompított fényszórók valamelyike meghibásodott.
+
+Szabad-e lakott területen a távolsági fényszórót fényjelzés céljából használni?
+× Igen, ha ez a közlekedés többi résztvevőjét nem vakítja el.
+− Nem.
+− Igen, ha elsőbbségünkről akarunk lemondani.
+
+Szabad-e lakott területen kívül a távolsági fényszórót fényjelzés céljából használni?
+× Igen, ha ez a közlekedés többi résztvevőjét nem vakítja el.
+− Nem.
+− Igen, ha elsőbbségünkről akarunk lemondani.
+
+Át kell-e kapcsolni tompított világításra, ha a másik jármű követése esetén a távolsági fényszóró – a visszapillantó tükrön át – az elöl haladó jármű vezetőjét elvakíthatja?
+× Igen.
+− Nem.
+− Nem, ha a tompított fényszórók valamelyike nem működik.
+
+Figyelembe kell-e vennie a távolsági fényszóró használatakor az úttal párhuzamos vasúti pályán haladó járművet?
+× Igen.
+− Nem.
+− Nem, ha a tompított fényszórók valamelyike nem működik.
+
+Figyelembe kell-e vennie a távolsági fényszóró használatakor az úttal párhuzamos vízi úton haladó járművet?
+× Igen.
+− Nem.
+− Nem, ha a tompított fényszórók valamelyike nem működik.
+
+Ködfényszórót, továbbá hátsó helyzetjelző ködlámpát abban az esetben szabad használni, ...
+× ha a látási viszonyok ezt indokolják.
+− ha nélkülük legfeljebb 20 km/h sebességgel tudna haladni.
+− ha lakott területen kívül közlekedik.
+− ha a tompított fényszórók, vagy a helyzetjelző lámpák valamelyike meghibásodott.
+
+Át kell-e kapcsolni tompított világításra, ha a másik jármű követése esetén a távolsági fényszóró – a visszapillantó tükrön át – az elöl haladó jármű vezetőjét elvakíthatja?
+× Igen.
+− Nem.
+− Nem, ha a tompított fényszórók valamelyike nem működik.
+
+Ki kell-e világítani az állati erővel vont járművet éjszaka és korlátozott látási viszonyok között?
+× Igen, a külön jogszabályban meghatározott lámpákkal.
+− Nem.
+− Nem, de ajánlott.
+
+[4.3 4] Mikor lehet szükség a képen látható 2-es jelű fényszóró magasságállító beállításának megváltoztatására?
+× Ha változik a jármű terhelési jellege és ezzel a tompított fényszóró vetítési magassága.
+− Ha csökken a jármű elektromos rendszerének feszültsége, és ezzel a fényszórók fényereje.
+− Ha a fényszóróizzók öregedése miatt csökken a fényszórók fényereje.
+− A fényszóróizzók cseréjét követően.
+
+Mikor világít a bekanyarodási lámpa?
+× Irányjelzés, vagy kormányelfordítás hatására, 40 km/h sebesség alatt, ha a tompított, vagy a távolsági fényszóró be van kapcsolva.
+− A kormánykerék elfordításakor minden esetben.
+− Az irányjelző bekapcsolásával egyidejűleg minden esetben.
+− Irányjelzés, vagy kormányelfordítás hatására, 40 km/h sebesség felett, ha a tompított, vagy a távolsági fényszóró nincs bekapcsolva.
+
+Hogyan változik a jármű menetellenállása a domborzati viszonyoktól függően?
+× Emelkedőn növekszik, lejtőn csökken.
+− A menetellenállás nem függ a domborzati viszonyoktól.
+− Emelkedőn csökken, lejtőn növekszik.
+− Emelkedőn és lejtőn egyaránt növekszik.
+
+Mitől függ a helyes követési távolság mértéke?
+× A jármű sebességétől, valamint az út- és látási viszonyoktól.
+− Csak a jármű sebességétől.
+− Csak az útviszonyoktól.
+− Az út- és látási viszonyoktól.
+
+Melyik fékrendszer szolgál annak megakadályozására, hogy a magára hagyott jármű lejtőn vagy emelkedőn elguruljon?
+× A rögzítőfék.
+− Az üzemi fék.
+− A biztonsági fék.
+− Nincs ilyen fékrendszer a személygépkocsikban, a rögzítés a sebességváltó egyes fokozatának bekapcsolásával oldható meg.
+
+Hogyan célszerű lejtőn, vagy emelkedőn a rögzítőfék működtetését kiegészítve megelőzni a jármű elgurulását?
+× Az első, vagy a hátrameneti sebességfokozat (automata váltónál a 'P' állás) kapcsolásával, illetve a kormányzott kerekek járdaszegély felé fordításával.
+− A fékpedál kitámasztásával.
+− A legmagasabb sebességfokozat (automata váltó esetén a 'D' állás) bekapcsolásával.
+
+Hogyan befolyásolja a domborzati viszonyok változása a pillanatnyi üzemanyag fogyasztást?
+× Az üzemanyag fogyasztás emelkedőn haladva a sík úton mérhetőhöz képest megnövekszik, lejtőn csökken, motorfék üzemben akár nulla is lehet.
+− A domborzati viszonyok nem befolyásolják a pillanatnyi üzemanyag fogyasztást.
+− Az üzemanyag fogyasztás emelkedőn haladva a sík úton mérhetőhöz képest csökken, lejtőn megnövekszik.
+
+Milyen hűtőfolyadék hőmérsékletnél a legkedvezőbb a motor üzeme?
+× Kb. 80-95 Celsius-foknál.
+− Kb. 65-75 Celsius-foknál.
+− Kb. 50-75 Celsius-foknál.
+− 90 Celsius-fok felett.
+− 50 Celsius-fok alatt.
+
+A kerék és a talaj közti tapadóerő...
+× arányos a kereket talajra szorító erővel.
+− nem függ a jármű terhelésétől.
+− a jármű sebességével négyzetes arányban változik.
+
+Mi a teendő, ha a műszerfalon kigyullad a hűtőfolyadék túlmelegedésére figyelmeztető ellenőrző lámpa?
+× A járművel célszerű megállni, és néhány percig alapjáraton járatva lehetséges a hűtőfolyadékot az üzemi hőmérsékletre visszahűteni.
+− Nagyobb sebességgel kell haladni, így a menetszél a hűtőn átáramolva visszahűti az üzemi hőmérsékletre a hűtőfolyadékot.
+− A járművel azonnal meg kell állni, és haladéktalanul hideg hűtőfolyadékot kell a kiegyenlítő tartályba önteni.
+
+[4.3 5] A zárt rendszerű hűtőrendszer kiegyenlítő tartályában a folyadék szintjének...
+× a minimum és a maximum jelzések között kell lennie.
+− a tartály közepénél kell lennie.
+− a tartály tetejénél kell lennie.
+
+Kisebb, vagy a nagyobb sebességi fokozatban jobb a jármű gyorsítóképessége?
+× Kisebb sebességi fokozatban.
+− Nagyobb sebességi fokozatban.
+− Nem függ a sebességi fokozattól.
+
+Járművezetőként felnyithatja-e gépkocsija motorháztetejét?
+× Igen, a jármű kezelési utasításában leírtak figyelembevételével.
+− Igen, de csak a márkaszerviz írásos engedélyével.
+− Nem, ezt csak a szakszerviz munkatársai tehetik meg.
+− Igen, de a motortérben semmilyen műveletet nem végezhet.
+
+Hogyan nyitható a motorháztető zárszerkezete?
+× A zár kettős reteszelésű, az utastérben elhelyezett nyitókar működtetése után a motorháztetőnél oldani kell még a másodlagos reteszelést is.
+− A belső nyitókar meghúzását követően azonnal nyithatóvá válik a motorháztető.
+− A belső nyitókar működtetése után egy erős rugó rögtön felnyitja a motorháztetőt, így kitámasztásra sincs szükség.
+− A motorháztető minden esetben a központi zár távirányítójával nyitható fel, a megfelelő gomb megnyomásával.
+
+Miért van szükség a motorházfedelek kettős reteszelésére?
+× Azért, hogy a motorházfedél menet közben ne csapódhasson fel, akadályozva ezzel a vezetőt a kilátásban.
+− Azért, hogy illetéktelen személyek ne nyithassák fel a motorházfedelet.
+− Azért, hogy gyermekek ne legyenek képesek a motorházfedél felnyitására.
+− Azért, hogy a motorházfedelet csak szakszervizben nyithassák fel.
+
+Hogyan célszerű lejtőn, vagy emelkedőn a rögzítőfék működtetését kiegészítve megelőzni a jármű elgurulását?
+× Az első, vagy a hátrameneti sebességfokozat (automata váltónál a 'P' állás) kapcsolásával, illetve a kormányzott kerekek járdaszegély felé fordításával.
+− A fékpedál kitámasztásával.
+− A legmagasabb sebességfokozat (automata váltó esetén a 'D' állás) bekapcsolásával.
+
+[4.3 6] Mit jelez ez a jelzőtábla?
+× Azt, hogy az úton a domborzati viszonyok miatt korlátozott a kilátás.
+− Egyenetlen úttestet.
+− Jelentős emelkedőt vagy lejtőt.
+
+[4.3 6] Mi a jelzőtábla neve?
+× ’Bukkanó’.
+− ’Egyenetlen úttest’.
+− ’Domb’.

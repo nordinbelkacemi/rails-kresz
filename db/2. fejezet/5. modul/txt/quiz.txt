@@ -1,0 +1,335 @@
+[2.5] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a járműnek elsőbbsége van a keresztező úton érkező járművel szemben.
+− Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Főútvonalat.
+
+Az alábbiak közül mi minősül földútnak?
+× A járműközlekedésre szabadon tartott, eredeti termett talajú vagy ahhoz hasonló anyagú út.
+− Kizárólag a mezőgazdasági járművek részére készült út.
+− Kizárólag kedvtelési célú járművek részére készült út.
+
+Az alábbiak közül mi minősül szilárd burkolatú útnak?
+× Az olyan út, amelynek úttestje szabályosan lerakott kő, műkő, beton vagy aszfaltburkolattal rendelkezik.
+− Az olyan út, amelynek talaja az erős terhelésnek is ellenáll.
+− Az olyan út, amelynek talaja a nehéz gépjárművek közlekedésére szolgál.
+− Az olyan út, amelynek talaja legalább 5 cm vastagságú zúzottkővel van leszórva.
+
+[2.5 1] Mikor nem szabad zöld fényjelzésnél behajtani az útkereszteződésbe?
+× Ha a zöld fényjelzés időtartama alatt az útkereszteződést előreláthatólag nem lehet elhagyni.
+− A zöld fényjelzés ideje alatt mindig be szabad hajtani az útkereszteződésbe.
+− Ha a zöld fényjelzés villogni kezd.
+
+Mikor nem irányadó a ’Főútvonal’ jelzőtábla jelzése?
+× Ha a forgalmat fényjelző készülék irányítja.
+− Csak akkor, ha a fényjelző készülék piros jelzése világít.
+− Akkor, ha a fényjelző készülék villogó sárga jelzést ad.
+− Ha az út párhuzamos közlekedésre alkalmas.
+− Ha az út párhuzamos közlekedésre nem alkalmas.
+
+Mikor nem kell figyelembe venni az elsőbbséget szabályozó jelzőtáblák jelzéseit?
+× Ha a forgalmat fényjelző készülék irányítja.
+− Ha a fényjelző készülék villogó sárga jelzést ad.
+− Ha a fényjelző készülék semmilyen jelzést nem ad.
+− Ha a forgalom jelentős sűrűségű.
+− Ha az útkereszteződésbe való behajtás előtt hangjelzést használtunk.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére útkereszteződésben, ha az alárendelt úton érkezik?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a jobbról érkező villamos részére?
+× Igen.
+− Nem, csak a balról érkező villamos részére kell elsőbbséget adni.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben egy jobbról érkező kerékpáros részére?
+× Igen.
+− Nem, csak gépjárművek részére kell elsőbbséget adni.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a balról érkező trolibusz részére?
+× Nem.
+− Igen.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a balról érkező figyelmeztető jelzést használó gépjármű részére.
+× Nem.
+− Igen.
+
+[2.5 2] Hányadikként haladhat át az útkereszteződésben az ’A’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.5 3] Hányadikként haladhat át az útkereszteződésben a kormánykerékkel jelzett járművel?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.5 4] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’C’ jelű.
+− Az ’A’ jelű.
+− A ’B’ jelű.
+
+[2.5 5] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’C’ jelű.
+− Az Ön által vezetett jármű.
+− A ’B’ jelű.
+
+[2.5 6] Ön az ’A’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak a ’C’ jelű jármű részére.
+− Igen, a ’B’ és a ’C’ jelű járművek részére egyaránt.
+− Nem.
+
+[2.5 7] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak a ’C’ jelű jármű részére.
+− Igen, a ’B’ és a ’C’ jelű járművek részére egyaránt.
+− Nem.
+
+[2.5 8] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’C’ - ’A’ - ’B’.
+− ’A’ - ’C’ - ’B’.
+− ’C’ - ’B’ - ’A’.
+
+[2.5 9] Ön járművezetőként az alábbi forgalmi helyzetet látja. Határozza meg a helyes áthaladási sorrendet!
+× ’C’ - ’Ön’ - ’B’.
+− ’Ön’ - ’C’ - ’B’.
+− ’C’ - ’B’ - ’Ön’.
+
+[2.5 10] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.5 11] Hányadikként haladhat át az útkereszteződésben a kormánykerékkel jelzett járművel?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.5 12] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+− A ’C’ jelű.
+
+[2.5 13] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+− Az Ön által vezetett jármű.
+
+[2.5 14] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’B’ - ’C’ - ’A’.
+− ’B’ - ’A’ - ’C’.
+− ’C’ - ’B’ - ’A’.
+− ’C’ - ’A’ - ’B’.
+
+[2.5 15] Ön járművezetőként az alábbi forgalmi helyzetet látja. Határozza meg a helyes áthaladási sorrendet!
+× ’B’ - ’Ön’ - ’A’.
+− ’B’ - ’A’ - ’Ön’.
+− ’Ön’ - ’B’ - ’A’.
+− ’Ön’ - ’A’ - ’B’.
+
+[2.5 16] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+
+[2.5 17] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Azt, hogy az útkereszteződésben a balról érkező járműnek van elsőbbsége.
+− Vasúti átjáró kezdetét.
+
+[2.5 18] Mi a jelzőtábla jelentése?
+× ’Kötelező haladási irány’.
+− ’Egyirányú forgalmú út’.
+− ’Terelőút’.
+
+[2.5 19] Mi a jelzőtábla jelentése?
+× ’Kötelező haladási irány’.
+− ’Kikerülési irány’.
+− ’Egyirányú forgalmú út’.
+
+Köteles-e eleget tenni jobbratartási kötelezettségének, ha járművével egyirányú forgalmú úton közlekedik?
+× Igen.
+− Nem.
+
+[2.5 20] A jelzőtábla alatt nincs kiegészítő tábla. Közlekedhet-e a kerékpáros a jelölt iránnyal szemben?
+× Nem.
+− Igen, de csak az úttest bal szélén.
+− Igen, bárhol.
+
+A jelzőtábla alatt nincs kiegészítő tábla. Közlekedhet-e a kerékpáros a jelölt iránnyal szemben?
+× Nem.
+− Igen, de csak az úttest bal szélén.
+− Igen, bárhol.
+
+Általában az út mely részén és hogyan kell a járművel megállni?
+× Az úttest menetirány szerinti jobb szélén, azzal párhuzamosan, egy sorban.
+− Az úttest bármelyik szélén, azzal párhuzamosan.
+− A menetirány szerinti jobb oldalon bárhol.
+
+Szabad-e olyan helyen várakozni, ahol a megállás tilos?
+× Nem.
+− Igen, a várakozás szabályainak betartásával.
+− Igen, ha a többi közlekedőt nem akadályozza.
+
+Az alábbiak közül mely járművekkel szabad a járdán megállni, ha nincs megállást megengedő jelzőtábla vagy útburkolati jel?
+× Kétkerekű motorkerékpárral és kétkerekű segédmotoros kerékpárral, a vonatkozó egyéb feltételek fennállása esetén.
+− Oldalkocsis motorkerékpárral.
+− Bármilyen segédmotoros kerékpárral.
+
+[2.5 21] Várakozhat-e ennél az útburkolati jelnél két vonal között két egy nyomon haladó jármű egyszerre?
+× Igen.
+− Nem.
+
+[2.5 22] Mit jelent ez a közúti jelzés?
+× A várakozás ellenőrző óra vagy jegykiadó automata működtetésével engedélyezett.
+− A várakozás csak ellenőrző óra működtetésével engedélyezett.
+− A várakozás csak jegykiadó automata működtetésével engedélyezett.
+
+[2.5 23] Mire utal ez a kiegészítő tábla?
+× Arra, hogy a várakozási szabályokat megszegő járművet kerékbilincs alkalmazásával rögzíthetik.
+− Arra, hogy a járművet elszállíthatják.
+− Arra, hogy a járművet bármikor rögzíthetik kerékbilinccsel.
+
+[2.5 22] Szabad-e személygépkocsival várakozni e közúti jelzést követően?
+× Igen, a kiegészítő tábla szerinti feltételekkel.
+− Igen, korlátozás nélkül.
+− Nem.
+
+[2.5 22] Mit jelent ez a közúti jelzés?
+× A várakozás ellenőrző óra vagy jegykiadó automata működtetésével engedélyezett.
+− A várakozás csak ellenőrző óra működtetésével engedélyezett.
+− A várakozás csak jegykiadó automata működtetésével engedélyezett.
+
+Mely esetben jogosult a járdán megállni járművével a mozgásában korlátozott személy az alábbiak közül, ha a megállást jelzőtábla vagy útburkolati jel nem engedi meg?
+× Ha az érvényes parkolási igazolványt a járműben jól láthatóan elhelyezte.
+− Ha az érvényes parkolási igazolványt magánál tartja.
+− Bármikor, ha úticélja ezt indokolja.
+− Ha az illetékes rendőrhatóság erre engedélyt ad.
+
+Mely esetben jogosult a járdán megállni a mozgásában korlátozott személyt szállító jármű az alábbiak közül, ha a megállást jelzőtábla vagy útburkolati jel nem engedi meg?
+× Ha a mozgásában korlátozott személy az érvényes parkolási igazolványát a járműben jól láthatóan elhelyezte.
+− Ha a jármű vezetője a mozgásában korlátozott személy érvényes parkolási igazolványát magánál tartja.
+− Bármikor, ha úticélja ezt indokolja.
+− Ha az illetékes rendőrhatóság erre engedélyt ad.
+
+[2.5 24] Az út mely részére vonatkozik a jelzőtáblával jelzett tilalom?
+× Az úttestre.
+− Az úttestre és az útpadkára.
+− Az úttestre és a járdára.
+
+[2.5 24] Mit tilt az ábrán látható jelzőtábla?
+× A várakozást.
+− A megállást és a várakozást.
+− A megállást.
+
+[2.5 24] Szabad-e segédmotoros kerékpárral az úttesten várakozni e jelzőtáblát követően?
+× Nem.
+− Igen, az egy nyomon haladó segédmotoros kerékpárral.
+− Igen.
+
+[2.5 25] Szabad-e gépjárművel várakozni 12:00 órakor a jelzőtáblát követő 20 m-en belül?
+× Igen, ha a járművezető a járműnél marad, és áruszállító jármű érkezésekor a rakodóhelyet haladéktalanul szabaddá teszi.
+− Nem.
+− Igen, feltétel nélkül.
+
+[2.5 25] Szabad-e személygépkocsival várakozni e közúti jelzést követően?
+× Igen, ha a járművezető a járműnél marad, és áruszállító jármű érkezésekor a rakodóhelyet haladéktalanul szabaddá teszi.
+− Igen, ha legalább egy utas a járműnél marad, és áruszállító jármű érkezésekor értesíti a vezetőt.
+− Nem.
+
+[2.5 24] Mit tilt az ábrán látható jelzőtábla?
+× A várakozást.
+− A megállást és a várakozást.
+− A megállást.
+
+[2.5 26] Gépjárművel közlekedve szabad-e behajtani a jelzőtáblával jelzett területre?
+× Igen, a kiegészítő táblán jelzett időszakon kívül, az ott lakók járműveivel, továbbá engedéllyel.
+− Nem.
+− Igen, a kiegészítő táblán jelzett időszakban.
+
+[2.5 27] Szabad-e behajtani gépkocsival a jelzőtáblával jelzett területre?
+× Igen, mozgáskorlátozott személy szállításakor.
+− Nem.
+− Igen, feltétel nélkül.
+
+[2.5 28] Ezen az ’X’ jelű útburkolati jelen...
+× járművéből az utasa kiszállhat.
+− 3 percre elhagyhatja járművét.
+− az ott lakók engedélyével várakozhat is.
+
+Szabad-e várakozni a három külön úttesttel rendelkező út középső úttestjén?
+× Nem.
+− Igen, ha a járművezető a járművénél marad.
+− Igen, amennyiben nincs az úttesten jelentősebb forgalom.
+
+Szabad-e várakozni lakott területen kívüli út úttestjén?
+× Igen, ha az nem főútvonal.
+− Igen, akár főútvonalon is.
+− Nem.
+
+A járda szegélyére folytonos sárga vonalat festettek fel. Mire figyelmezteti Önt ez az útburkolati jel?
+× Megállási tilalomra.
+− Arra, hogy a kerékpárosok a járdán közlekednek.
+− Mozgássérült várakozóhelyre.
+− Várakozási tilalomra.
+
+[2.5 29] Mit jelent ez a közúti jelzés?
+× A szabálytalanul várakozó járművet elszállíthatják.
+− Műszaki hibás járművek várakozóhelyét jelzi.
+− A szabálytalanul megálló járművet elszállíthatják.
+
+Elszállíthatják-e azt a járművet, amely az autópálya úttestjén szabálytalanul várakozik?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha előzetesen értesítették a szabálytalanul várakozó jármű üzembentartóját a szabálytalan várakozásról.
+
+[2.5 30] Elszállíthatják-e azt a személygépkocsit, amely a képen látható táblával jelölt helyen, jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a járművet, amely autóút úttestén szabálytalanul várakozik?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha előzetesen értesítették a szabálytalanul várakozó jármű üzembentartóját a szabálytalan várakozásról.
+
+Elszállíthatják-e azt a járművet, amely az úttest menetirány szerinti bal oldalán szabálytalanul várakozik?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha előzetesen értesítették a szabálytalanul várakozó jármű üzembentartóját a szabálytalan várakozásról.
+
+Elszállíthatják-e azt a járművet, amely a menetirány szerinti jobb oldalon álló járműsor mellett, második sort képezve szabálytalanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a járművet, amely közvetlenül a kijelölt gyalogos-átkelőhely előtt szabálytalanul várakozik?
+× Igen.
+− Nem.
+− Igen, de csak akkor, ha az elszállítás költségét a szabálytalanul várakozó jármű üzembentartója előzetesen kifizette.
+
+Elszállíthatják-e azt a személygépkocsit, amely az autóbusz forgalmi sávban szabálytalanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a személygépkocsit, amely a villamospálya közelében a villamos továbbhaladását akadályozva, szabálytalanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a személygépkocsit, amely a járdán történő várakozás kapcsán 1 m területet hagy a gyalogosok részére?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a személygépkocsit, amely a mozgáskorlátozottak részére fenntartott helyen jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+Elszállíthatják-e azt a személygépkocsit, amely a mozgáskorlátozottakat szállító járművek részére kijelölt, útburkolati jellel jelölt helyen jogosulatlanul várakozik?
+× Igen.
+− Nem.
+
+Az alábbiak közül milyen feltétellel szabad a járművet várakozás tekintetében őrizetlenül hagyni?
+× Ha a járművezető gondoskodott arról, hogy a jármű önmagától ne indulhasson el.
+− A járművezetőnek minden esetben kerékéket kell alkalmaznia.
+− A járművezetőnek gondoskodnia kell arról, hogy a jármű áramtalanítva legyen.
+
+Az alábbiak közül mi a feltétele annak, hogy a járművezető a járművet várakozás tekintetében őrizetlenül hagyhassa?
+× A járművezetőnek gondoskodnia kell arról, hogy a járművet illetéktelen személy ne indíthassa el.
+− A vészvillogót be kell kapcsolnia.
+− Mindig kerékéket kell alkalmazni.

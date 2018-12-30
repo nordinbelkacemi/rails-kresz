@@ -1,0 +1,253 @@
+Szabad-e ráhajtani más járművel a villamospályára, ha a látási viszonyok akadályozzák a közeledő villamos kellő távolságból való észlelését?
+× Nem.
+− Igen, ha a villamost nem zavarja.
+− Igen, ha a villamost nem akadályozza.
+
+Szabad-e folyamatosan haladni más járművel a villamospályán, ha a látási viszonyok akadályozzák a közeledő villamos kellő távolságból való észlelésében?
+× Nem.
+− Igen, ha a villamost nem zavarja.
+− Igen, ha a villamost nem akadályozza.
+
+Szabad-e előzni a villamospályán, ha a látási viszonyok akadályozzák a közeledő villamos kellő távolságból való észlelésében?
+× Nem.
+− Igen, ha a villamost nem zavarja.
+− Igen, ha a villamost nem akadályozza.
+
+Elsőbbsége van-e a zárt pályáról az úttestre ráhajtó villamosnak az úttesten közlekedő járművekkel szemben?
+× Igen.
+− Nincs elsőbbsége.
+
+Szabad-e előzni a villamospályán, ha a látási viszonyok akadályozzák a közeledő villamos kellő távolságból való észlelésében?
+× Nem.
+− Igen, ha a villamost nem zavarja.
+− Igen, ha a villamost nem akadályozza.
+
+Szabad-e ráhajtani az ellentétes irányú villamosforgalom részére szolgáló villamosvágányra?
+× A bekanyarodás és a megfordulás esetét kivéve nem.
+− Igen, előzési szándékkal.
+− Igen, kikerülési szándékkal.
+
+Forgalmi sávnak minősül-e az úttest villamospálya által elfoglalt része a párhuzamos közlekedésre vonatkozó szabályok alkalmazása szempontjából?
+× Általában nem.
+− Igen, minden esetben.
+− Sosem.
+
+Forgalmi sávnak minősül-e az úttest villamospálya által elfoglalt része a párhuzamos közlekedésre vonatkozó szabályok alkalmazása szempontjából?
+× Igen, ha útburkolati jel a villamospályára vezeti az egyéb járművek forgalmát.
+− Igen, minden esetben.
+− Sosem.
+
+Párhuzamos közlekedésre alkalmas úttesten, középen elhelyezett villamosvágányok esetén szabad-e más járművel előzés céljából a villamosvágányra hajtani?
+× Igen, ha a forgalmi sávokat útburkolati jelekkel nem jelölték (ide nem értve az ellentétes irányú villamosforgalom részére szolgáló villamosvágányt).
+− A villamosforgalom részére szolgáló villamosvágányokra sosem szabad ráhajtani.
+− Igen, ha a forgalmi sávokat útburkolati jelekkel jelölték.
+
+[3.2] Ön az ’A’ jelű személygépkocsit vezeti. Szabályos-e a villamospályára hajtani ezen a helyen?
+× Igen, ha balra kíván kanyarodni.
+− Nem, ez a forgalmi sáv csak a balra kanyarodó autóbuszoknak van fenntartva.
+− Nem, mert, ha a szemből érkezők miatt nem tud elindulni, akadályozni fogja az érkező villamost.
+
+[3.2 1] Szabályosan előz-e az ábrán látható ’B’ jelű jármű
+× Nem.
+− Igen.
+
+[3.2 2] Ön az ’A’ jelű személygépkocsit vezeti. Mit kell tennie, ha a szemből érkezők miatt nem tud balra bekanyarodni, és a háta mögött a villamospályán megérkezik egy villamos?
+× Addig ott áll, amíg biztonságosan el tud indulni.
+− Továbbhajt egyenesen, hogy az érkező villamost ne tartsa fel.
+− Ha az érkező villamos továbbhaladását csak így tudja biztosítani, áthajt az ellentétes irányú villamospályára.
+
+[3.2 3] Az ’A’ jelű személygépkocsi a villamossínen tartózkodva...
+× az érkező villamost megállásra is kényszerítheti.
+− az érkező villamost semmiképpen nem akadályozhatja.
+− az érkező villamost nem zavarhatja és nem akadályozhatja.
+
+[3.2 4] Ön az ’A’ jelű járművet vezeti. Megelőzheti-e az Ön előtt haladókat a villamospálya igénybevételével?
+× Nem.
+− Igen, de csak akkor, ha nem érkezik villamos.
+− Igen, de csak az azonos irányú villamosvágányok igénybevételével.
+
+[3.2 5] Az ’A’ jelű személygépkocsi a villamospályán haladva...
+× az érkező villamost akár lassításra is kényszerítheti.
+− az érkező villamost semmiképpen sem akadályozhatja.
+− az érkező villamost nem akadályozhatja, és nem is zavarhatja.
+
+[3.2 6] Köteles-e irányjelzést adni az ’A’ jelű jármű vezetője az ábrán látható helyen?
+× Nem, mert nem változtat irányt.
+− Igen, mert a villamospályára történő ráhajtás közben mindig irányjelzőt kell használni.
+
+[3.2 7] Ön az ’A’ jelű személygépkocsival halad. Köteles-e átsorolni a villamospályáról az attól jobbra eső forgalmi sávba, ha a háta mögül villamos érkezik?
+× Nem.
+− Igen, ha a villamos forgalmát akadályozná.
+− Igen, sőt ebben az esetben rá sem hajthat a villamospályára.
+
+[3.2 8] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e irányjelzést adni az ábrán látható helyen?
+× Nem, mert nem változtat irányt.
+− Igen, mert a villamospályára történő ráhajtás közben mindig irányjelzőt kell használni.
+
+[3.2 9] Ön a kormánykerékkel jelzett járművet vezeti. Szabályos helyről kezdi meg a balra kanyarodást?
+× Igen.
+− Nem.
+− Csak akkor, ha éppen villamos érkezik.
+
+[3.2 10] Ön a ’B’ jelű személygépkocsit vezeti. Megelőzheti-e az ’A’ jelű gépkocsit a villamospályán, ha azon villamos érkezik?
+× Csak akkor, ha ezzel a villamosforgalmat nem zavarja.
+− Igen, még akkor is, ha a villamos vezetője emiatt lassításra kényszerül.
+
+[3.2 11] Szabályosan előz-e az ábrán látható ’B’ jelű személygépkocsi?
+× Igen.
+− Nem.
+
+[3.2 12] A ’B’ jelű személygépkocsi a villamospályán történő előzés közben...
+× nem zavarhatja, és nem is akadályozhatja az érkező villamost.
+− akár lassításra is kényszerítheti az érkező villamost.
+− elsőbbséget fog kapni az érkező villamostól.
+
+[3.2 13] Ön a kormánykerékkel jelzett járművet vezeti. Szabályos-e a tervezett előzése?
+× Igen.
+− Nem.
+
+[3.2 14] Ön a kormánykerékkel jelzett járművet vezeti. Megelőzheti-e a ’B’ jelű személygépkocsit a villamospályán, ha azon nem érkezik villamos?
+× Igen, de csak a jobb oldali villamospálya igénybevételével.
+− Igen, de a szükséges oldaltávolság miatt csak a bal oldali villamospálya igénybevételével.
+− Igen, akár a jobb, akár a bal oldali villamospálya igénybevételével.
+
+[3.2 15] Ön az ’A’ jelű gépkocsit vezeti. Számíthat-e arra, hogy figyelmetlen gyalogosok a villamos megállóhelyről az úttestre lépnek?
+× Igen, ezért fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Mivel a gyalogosoknak itt elsőbbségük van, köteles megállni, és átengedni őket.
+− Nem, mert a gyalogosok csak a kijelölt gyalogos-átkelőhelyen mehetnek át az úttesten.
+
+[3.2 16] Ön a kormánykerékkel jelzett járművet vezeti. Számíthat-e arra, hogy figyelmetlen gyalogosok a villamos megállóhelyről az úttestre lépnek?
+× Igen, ezért fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Mivel a gyalogosoknak itt elsőbbségük van, köteles megállni, és átengedni őket.
+− Nem, mert a gyalogosok csak a kijelölt gyalogos-átkelőhelyen mehetnek át az úttesten.
+
+[3.2 17] Ön az ’A’ jelű gépkocsit vezeti. Köteles-e a ’B’ jelű gyalogosok részére elsőbbséget adni?
+× Nem, de fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Igen, az elsőbbség megilleti a gyalogosokat a megállóhely teljes hosszában.
+− Igen, de csak akkor, amikor villamos áll a megállóhelyen.
+
+[3.2 18] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e a ’B’ jelű gyalogosok részére elsőbbséget adni?
+× Nem, de fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Igen, az elsőbbség megilleti a gyalogosokat a megállóhely teljes hosszában.
+− Igen, de csak akkor, amikor villamos áll a megállóhelyen.
+
+Szabad-e a villamos mellett elhaladni olyan megállóhelynél, ahol az utasok fel- és leszállása az úttestről, illetve az úttestre történik?
+× Nem.
+− Igen.
+
+Szabad-e előzni villamost olyan megállóhely előtt, ahol az utasok le- és felszállása az úttestről, illetőleg az úttestre történik?
+× Nem.
+− Igen.
+
+[3.2 19] Ön az ’A’ jelű személygépkocsit vezeti. Mi a teendője az ábrázolt forgalmi helyzetben?
+× Köteles megállni, és továbbhaladnia csak a villamos elindulása után szabad.
+− A megállóhelyen álló villamost kikerülheti bal oldalról.
+− Megfelelő óvatossággal elhalad jobbról a villamos mellett, s közben ügyel a fel- és leszálló utasokra.
+
+[3.2 20] Az ’A’ jelű személygépkocsi a megállóhelyen megálló villamost...
+× nem kerülheti ki.
+− csak balról kerülheti ki.
+− mérsékelt sebességgel jobbról is kikerülheti.
+
+[3.2 21] Amennyiben a megálló villamosról utasok nem szállnak fel, vagy arról le, akkor...
+× sem haladhat el a villamos mellett, csak miután a villamos már elindult.
+− megfelelő óvatossággal elhaladhat a villamos mellett.
+− is csak bal oldalról haladhat el a villamos mellett.
+
+[3.2 22] Ön a kormánykerékkel jelzett járművet vezeti. Mi a teendője az ábrázolt forgalmi helyzetben?
+× Köteles megállni, és továbbhaladnia csak a villamos elindulása után szabad.
+− A megállóhelyen álló villamost kikerülheti bal oldalról.
+− Megfelelő óvatossággal elhalad jobbról a villamos mellett, és közben ügyel a fel- és leszálló utasokra.
+
+[3.2 23] Ön a kormánykerékkel jelzett járművel közlekedve a megállóhelyen megálló villamost...
+× nem kerülheti ki.
+− csak balról kerülheti ki.
+− mérsékelt sebességgel jobbról is kikerülheti.
+
+[3.2 24] Ön a kormánykerékkel jelzett járművet vezeti. Amennyiben a megálló villamosról utasok nem szállnak le, vagy arra fel, akkor...
+× sem haladhat el a villamos mellett, csak miután a villamos már elindult.
+− megfelelő óvatossággal elhaladhat a villamos mellett.
+− is csak bal oldalról haladhat el a villamos mellett.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a jobbról érkező villamos részére?
+× Igen.
+− Nem, csak a balról érkező villamos részére kell elsőbbséget adni.
+
+Köteles-e elsőbbséget adni egyenrangú útkereszteződésben a balról érkező trolibusz részére?
+× Nem.
+− Igen.
+
+[3.2 25] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[3.2 26] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+− A ’C’ jelű.
+
+[3.2 27] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’B’ - ’C’ - ’A’.
+− ’B’ - ’A’ - ’C’.
+− ’C’ - ’B’ - ’A’.
+− ’C’ - ’A’ - ’B’.
+
+[3.2 28] Mit jelez ez a jelzőtábla?
+× Azt, hogy az utat villamospálya keresztezi.
+− A villamosjárat megállóját.
+− Vasúti átjárót.
+
+[3.2 29] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’B’ - ’C’ - ’A’.
+− ’B’ - ’A’ - ’C’.
+− ’C’ - ’B’ - ’A’.
+− ’A’ - ’C’ - ’B’.
+− ’C’ - ’A’ - ’B’.
+
+[3.2 30] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[3.2 31] Az ’A’ jelű járművet vezetve áthaladhat-e az útkereszteződésben a ’B’ jelű villamossal egyszerre?
+× Nem.
+− Igen.
+
+[3.2 32] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[3.2 33] Az ’A’ jelű járművet vezetve áthaladhat-e az útkereszteződésben a ’B’ jelű villamossal egyszerre?
+× Nem.
+− Igen.
+
+[3.2 34] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’A’ - ’B’ - ’C’.
+− ’B’ - ’A’ - ’C’.
+− ’C’ - ’B’ - ’A’.
+
+[3.2 35] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű.
+− A ’C’ jelű.
+− A ’B’ jelű.
+
+[3.2 36] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Utolsóként.
+− Elsőként.
+− Másodikként.
+
+[3.2 37] Milyen fényjelzés következik a kétlencsés forgalomirányító fényjelző készüléken a villogó sárga fényjelzés után?
+× Folyamatos sárga fényjelzés.
+− Piros fényjelzés.
+− Zöld fényjelzés.
+
+[3.2 37] Találkozhat-e ezzel a fényjelző berendezéssel vasúti átjáróban?
+× Nem.
+− Igen.
+
+A körforgalomban egy olyan villamospályát keresztez, amelyen egy villamos hajt be a körforgalomba. Mikor jár el szabályosan?
+× Ha elsőbbséget ad a körforgalmat keresztező villamos részére.
+− Ha elhalad a villamos előtt, mivel a körforgalomba behajtó villamos köteles elsőbbséget adni.
+− Ha a kölcsönös udvariasság alapján megegyeznek az áthaladási sorrendben.

@@ -1,0 +1,408 @@
+Mely járművek közlekedhetnek autópályán?
+× Csak a gépjárműveknek, illetőleg gépjárműből és pótkocsiból álló járműszerelvényeknek egy meghatározott köre.
+− Minden motorkerékpár és minden gépkocsi.
+− Minden gépjármű.
+
+Mely gépjárművek közlekedhetnek autópályán?
+× Csak olyanok, amelyek sík úton legalább 60 km/h sebességgel képesek haladni.
+− Csak olyanok, amelyek 130 km/h sebességgel képesek haladni.
+− Csak olyanok, amelyek tachográffal vannak felszerelve.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni személygépkocsival autópályán?
+× Legfeljebb 130 km/h sebességgel.
+− Legfeljebb 110 km/h sebességgel.
+− Legfeljebb 150 km/h sebességgel.
+
+Az alábbiak közül mi minősül autópályának?
+× A jelzőtáblával autópályaként megjelölt, osztott pályás út.
+− Minden lakott területen kívüli, szilárd burkolatú út.
+− Az útburkolati jelekkel autópályaként megjelölt út.
+− Minden olyan lakott területen kívüli út, ahol megengedett a 130 km/h sebességgel való haladás.
+− Minden lakott területen kívüli osztott pályás út.
+
+Kell-e alkalmazni a párhuzamos közlekedés szabályait autópályán?
+× Igen.
+− Nem.
+
+[3.4] Ön az ’A’ jelű személygépkocsival a lakott területen kívüli autópálya legbelső forgalmi sávjában közlekedik. Van-e valamilyen kötelezettsége?
+× Igen, a mögötte gyorsabban haladó járművek közlekedését nem akadályozhatja.
+− Igen, köteles az előzést folyamatosan irányjelzővel jelezni.
+− Igen, minden körülmények között legalább 130 km/h sebességgel kell haladnia.
+
+[3.4] Ön az ’A’ jelű személygépkocsit vezeti. Haladhat-e folyamatosan a lakott területen kívüli autópálya belső forgalmi sávjában?
+× Igen, mindaddig, amíg a középső forgalmi sávban haladó járműveket előzi.
+− Igen, megkötés nélkül, hiszen személygépkocsival az autópálya bármelyik forgalmi sávjában közlekedhet folyamatosan.
+− Nem, a belső forgalmi sávban csak motorkerékpár és megkülönböztető jelzéseit használó jármű közlekedhet.
+
+Kell-e alkalmazni a párhuzamos közlekedés szabályait autóúton?
+× Az azonos irányú forgalom számára legalább két forgalmi sávval rendelkező autóúton igen.
+− Igen, minden autóúton.
+− A két forgalmi sávval rendelkező autóúton igen.
+
+[3.4 1] Mi a jelzőtábla megnevezése?
+× ’Autóút’.
+− ’Főútvonal’.
+− ’Autópálya’.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni személygépkocsival autóúton?
+× Legfeljebb 110 km/h sebességgel.
+− Legfeljebb 130 km/h sebességgel.
+− Legfeljebb 100 km/h sebességgel.
+
+Az alábbiak közül mi minősül autóútnak?
+× A jelzőtáblával autóútként megjelölt út.
+− Minden lakott területen kívüli, szilárd burkolatú út.
+− Az útburkolati jelekkel autóútként megjelölt út.
+− Minden olyan lakott területen kívüli út, ahol megengedett a 110 km/h sebességgel való haladás.
+− Minden lakott területen kívüli párhuzamos közlekedésre alkalmas út.
+
+[3.4 1] Az alábbiak közül milyen járművel szabad igénybe venni az ábrán látható táblával jelzett utat?
+× Gépjárművel.
+− Minden kifogástalan állapotú járművel.
+− Segédmotoros kerékpárral.
+
+[3.4 1] Az alábbiak közül milyen járműszerelvénnyel szabad igénybe venni az e táblával jelzett utat?
+× Motorkerékpárból és utánfutóból álló járműszerelvénnyel.
+− Lassú járműből és pótkocsiból álló járműszerelvénnyel.
+− Mezőgazdasági vontatóból és pótkocsiból álló járműszerelvénnyel.
+
+[3.4 1] Az alábbiak közül milyen járművek vehetik igénybe a jelzőtáblával jelzett utat?
+× Csak gépjárművek.
+− Csak gépkocsik.
+− Csak személygépkocsik, autóbuszok és tehergépkocsik.
+
+Szabad-e autópályán járművel hátramenetet végezni?
+× Nem.
+− Igen.
+
+Mely járművek közlekedhetnek autópályán?
+× Csak a gépjárműveknek, illetőleg gépjárműből és pótkocsiból álló járműszerelvényeknek egy meghatározott köre.
+− Minden motorkerékpár és minden gépkocsi.
+− Minden gépjármű.
+
+Mely gépjárművek közlekedhetnek autópályán?
+× Csak olyanok, amelyek sík úton legalább 60 km/h sebességgel képesek haladni.
+− Csak olyanok, amelyek 130 km/h sebességgel képesek haladni.
+− Csak olyanok, amelyek tachográffal vannak felszerelve.
+
+Szabad-e autóútról út menti ingatlanra behajtani?
+× Nem.
+− Igen, de csak segédmotoros kerékpárral.
+− Csak motorkerékpárral.
+
+Szabad-e autópályára út menti ingatlanról ráhajtani?
+× Nem.
+− Igen, de csak segédmotoros kerékpárral.
+− Csak motorkerékpárral.
+
+Szabad-e autópályán járművel megfordulni?
+× Nem.
+− Igen, lassú forgalom esetén.
+− Csak akkor, ha az biztonságos.
+
+Szabad-e autópályán járművel hátramenetet végezni?
+× Nem.
+− Igen.
+− Igen, de csak azzal a céllal, hogy visszajusson az első kijárathoz.
+
+Szabad-e az autópálya úttestén megállnia (ide nem értve a forgalmi okból szükséges megállást)?
+× Nem.
+− Igen, fáradtság esetén.
+− Csak akkor, ha a leállósáv foglalt.
+
+Szabad-e az autóút úttestén megállnia (ide nem értve a forgalmi okból szükséges megállást)?
+× Nem.
+− Csak akkor, ha a járművezető elfáradt.
+− Csak a ki- és beszállás idejére.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére útkereszteződésben, ha az alárendelt úton érkezik?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére az autópályára történő felhajtása esetén?
+× Igen, minden helyzetben.
+− Nem.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+
+Szabad-e segédmotoros kerékpárral autópályán vagy autóúton közlekedni?
+× Nem.
+− Igen.
+
+Hogyan kell elsőbbséget adni a megkülönböztető jelzéseit használó gépjármű részére?
+× Félrehúzódással, szükség esetén megállással.
+− Kizárólag megállással.
+− Enyhe lassítással.
+− A többi közlekedő zavarása nélkül.
+
+Miként győződünk meg a sávváltás lehetőségéről és veszélytelenségéről?
+× A visszapillantó tükrökből és oldalra pillantással kell a holttér ellenőrzésével meggyőződni a sávváltás lehetőségéről és veszélytelenségéről.
+− Csak a visszapillantó tükrök használatával kell meggyőződni a sávváltás lehetőségéről és veszélytelenségéről.
+− A jármű holttereit nem kell figyelembe venni, mert a kormány mozdításával azok megszűnnek, így azok nem jelentenek veszélyforrást.
+
+Kell-e sávváltáskor irányjelzést alkalmazni?
+× Igen, a többi közlekedő tájékoztatása céljából.
+− Ha nincs mögöttünk más jármű, akkor nem szükséges.
+− Nem, elég a fejünket hátrafordítva tájékozódni a sávváltás előtt.
+
+Szabad-e folyamatosan haladni az autópálya vagy autóút leállósávján?
+× Nem, ide nem értve a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, de csak a lassan haladó járműszerelvénnyel.
+− Igen, de csak az előzést segítő nagyméretű járművel.
+
+Szabad-e járművel az autópályán vagy autóúton a leállósávon megállni?
+× Nem, ide nem értve a műszaki meghibásodás miatt álló járművet, továbbá a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, bármilyen esetben, ha a megállás időtartama nem haladja meg az 5 percet, és a járművezető ez idő alatt a járművénél marad.
+− Igen, időtartami kötöttség nélkül ez bármely jármű számára megengedett.
+
+Szabad-e járművel az autópályán vagy autóúton a leállósávon várakozni?
+× Nem, ide nem értve a műszaki meghibásodás miatt várakozó járművet, továbbá a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, bármilyen esetben, ha a várakozás időtartama nem haladja meg a 15 percet, és a járművezető ez idő alatt a járművénél marad.
+− Igen, időtartami kötöttség nélkül ez bármely jármű számára megengedett.
+
+Haladhat-e folyamatosan az autópálya leállósávján a korábbi, kényszerű megállást okozó műszaki hiba elhárítását követően?
+× A feltétlenül szükséges legrövidebb ideig és távolságon belül, annak érdekében, hogy a forgalmi sávokban folyamatosan haladó járművek közé besoroljon.
+− Nem, leállósávon folyamatosan közlekedni kivétel nélkül tilos.
+− Igen, de a legközelebbi lehajtásra szolgáló helyen le kell térni az autópályáról.
+
+Szabad-e folyamatosan haladni az autópálya vagy autóút leállósávján?
+× Nem, ide nem értve a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, de csak a lassan haladó járműszerelvénnyel.
+− Igen, de csak az előzést segítő nagyméretű járművel.
+
+Szabad-e járművel az autópályán vagy autóúton a leállósávon megállni?
+× Nem, ide nem értve a műszaki meghibásodás miatt álló járművet, továbbá a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, bármilyen esetben, ha a megállás időtartama nem haladja meg az 5 percet, és a járművezető ez idő alatt a járművénél marad.
+− Igen, időtartami kötöttség nélkül ez bármely jármű számára megengedett.
+
+Szabad-e járművel az autópályán vagy autóúton a leállósávon várakozni?
+× Nem, ide nem értve a műszaki meghibásodás miatt várakozó járművet, továbbá a jogszabályban külön meghatározott feladatot ellátó járműveket.
+− Igen, bármilyen esetben, ha a várakozás időtartama nem haladja meg a 15 percet, és a járművezető ez idő alatt a járművénél marad.
+− Igen, időtartami kötöttség nélkül ez bármely jármű számára megengedett.
+
+Haladhat-e folyamatosan az autópálya leállósávján a korábbi, kényszerű megállást okozó műszaki hiba elhárítását követően?
+× A feltétlenül szükséges legrövidebb ideig és távolságon belül, annak érdekében, hogy a forgalmi sávokban folyamatosan haladó járművek közé besoroljon.
+− Nem, leállósávon folyamatosan közlekedni kivétel nélkül tilos.
+− Igen, de a legközelebbi lehajtásra szolgáló helyen le kell térni az autópályáról.
+
+[3.4 2] Mit jelez ez a jelzőtábla?
+× Az úton a korábbi forgalmi rendtől eltérően kétirányú forgalom van.
+− A szembejövő forgalom elsőbbségét.
+− Azt, hogy osztott pályás út következik.
+
+Elromlott személygépkocsija lakott területen kívül a leállósávon áll. Ezt a járművet elakadást jelző háromszöggel...
+× meg kell jelölni.
+− meg szabad jelölni.
+− tilos megjelölni.
+− ajánlott megjelölni.
+
+Elromlott, pótkocsit vontató személygépkocsija lakott területen kívül a leállósávon áll. Ezt a járműszerelvényt elakadást jelző háromszöggel...
+× meg kell jelölni.
+− meg szabad jelölni.
+− tilos megjelölni.
+− ajánlott megjelölni.
+
+Elegendő-e, ha a lakott területen kívüli leállósávon álló elromlott személygépkocsiját csak a mindkét oldali első és hátsó irányjelzőjének egyidejű működtetésével jelöli meg?
+× Nem.
+− Igen.
+
+Mire kell ügyelni a hagyományos (nem adaptív) sebességtartó berendezés (tempomat) használatakor?
+× A rendszer a beállított sebességet az út- és látási viszonyoktól, valamint a forgalmi helyzettől függetlenül tartja, ezért azok figyelembevétele a járművezető feladata.
+− A rendszert a motor és a sebességváltó kímélése érdekében időnként ki kell kapcsolni.
+− A rendszer a sebességet egy idő után automatikusan csökkenteni fogja.
+− A rendszer a sebességet egy idő után automatikusan növelni fogja.
+
+Mi rontja a járművezető reakcióidejét az alábbiak közül?
+× Fáradtság, alkoholfogyasztás, zavaró ingerek (pl.: zaj).
+− Vitamindús étrend.
+− Ha jól ismert útszakaszon közlekedik.
+
+Mi a teendője, ha vezetés közben észleli, hogy fáradtsága révén csökken a koncentráló képessége?
+× Megáll, testmozgással felfrissíti magát, esetleg alszik néhány órát.
+− Megáll, iszik egy kávét, és indulhat tovább.
+− Minden esetben segít, ha menet közben lehúzza az ablakot, hogy a beáramló levegő felfrissítse.
+
+Milyen hatással van a dohányzás a járművezetésre?
+× Figyelemelterelő hatása van, ami balesetveszélyes.
+− A dohányzás nincs semmilyen káros hatással a járművezetésre.
+− A dohányzás csak az utasokat zavarhatja út közben.
+
+Milyen hatással van a közlekedés biztonságára a vezetés közbeni mobiltelefonálás?
+× Figyelemelterelő hatása van, sokszor még kihangosító vagy headset használatával is.
+− A mobiltelefonálás nem akadályozza a járművezetőt a vezetésben.
+
+Szabad-e vezetés közben mobiltelefont kézben tartva telefonálni, internetezni?
+× Nem, ez jogszabályban tiltott.
+− Csak érintőképernyős okos telefonnal.
+− Kizárólag lakott területen kívül közlekedve.
+− Kizárólag akkor, ha ez a vezetésben nem zavarja.
+
+[3.4 3] Az alábbiak közül milyen gépjárművel szabad igénybe venni az ábrán látható táblával jelzett utat?
+× Olyannal, amelyre az úthasználati díjat megfizették.
+− Bármilyen gépjárművel.
+− Olyannal, amelyre az úthasználati díjat be kívánják fizetni.
+
+[3.4 3] Mit jelent ez a közúti jelzés?
+× Azt, hogy az autópálya úthasználati díj megfizetésével vehető igénybe.
+− Azt, hogy az autóút úthasználati díj megfizetésével vehető igénybe.
+− Azt, hogy a főútvonal úthasználati díj megfizetésével vehető igénybe.
+
+[3.4 4] Mi a jelzőtábla jelentése?
+× ’Főútvonal’.
+− ’Autóút’.
+− ’Mellékút vége’.
+
+[3.4 5] Mi a jelzőtábla jelentése?
+× Az útkereszteződésben a főútvonal balra kanyarodik.
+− Az útkereszteződésben kötelező balra kanyarodni.
+− A főútvonal forgalmát elterelték a vastag vonal szerinti irányba.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni személygépkocsival lakott területen kívüli főútvonalon?
+× Legfeljebb 90 km/h sebességgel.
+− Legfeljebb 100 km/h sebességgel.
+− Legfeljebb 110 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni személygépkocsival autópályán?
+× Legfeljebb 130 km/h sebességgel.
+− Legfeljebb 110 km/h sebességgel.
+− Legfeljebb 150 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni személygépkocsival autóúton?
+× Legfeljebb 110 km/h sebességgel.
+− Legfeljebb 130 km/h sebességgel.
+− Legfeljebb 100 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsival lakott területen kívül (ide nem értve az autópályát és az autóutat)?
+× Legfeljebb 90 km/h sebességgel.
+− Legfeljebb 100 km/h sebességgel.
+− Legfeljebb 70 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni pótkocsit vontató személygépkocsival lakott területen kívüli főútvonalon?
+× Legfeljebb 70 km/h sebességgel.
+− Legfeljebb 90 km/h sebességgel.
+
+Használhat-e lakott területen kívüli úton a forgalomban részt vevő gépkocsin a tompított fényszóró helyett nappali menetjelző lámpát nappal és jó látási viszonyok között?
+× Igen.
+− Nem.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni pótkocsit vontató személygépkocsival autóúton?
+× Legfeljebb 70 km/h sebességgel.
+− Legfeljebb 90 km/h sebességgel.
+− Legfeljebb 80 km/h sebességgel.
+
+Egyéb jelzés hiányában mekkora sebességgel szabad közlekedni lakókocsit vontató személygépkocsival autópályán?
+× Legfeljebb 80 km/h sebességgel.
+− Legfeljebb 110 km/h sebességgel.
+− Legfeljebb 130 km/h sebességgel.
+
+[3.4 6] Mi a jelzőtábla jelentése?
+× ’Kapaszkodósáv vége’.
+− ’Gyorsítósáv vége’.
+− ’Párhuzamos közlekedésre alkalmas út vége’.
+
+[3.4 7] Az ’A’ jelű személygépkocsi lakott területen kívül 80 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+
+[3.4 7] Lakott területen kívül a ködös idő miatt az ’A’ jelű személygépkocsi csak 60 km/h sebességgel halad. Szabályos helyen közlekedik-e?
+× Nem, mert ezzel a sebességgel a kapaszkodósávon kell haladnia.
+− Igen, mert rossz látási viszonyok esetén ez a legbiztonságosabb forgalmi sáv.
+− Igen, mindaddig, amíg az úton nem érkezik másik jármű.
+
+[3.4 9] Ön a kormánykerékkel jelzett személygépkocsival lakott területen kívül 80 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+
+[3.4 9] Ön lakott területen kívül a ködös idő miatt a kormánykerékkel jelzett személygépkocsival csak 60 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Nem, mert ezzel a sebességgel a kapaszkodósávon kell haladnia.
+− Igen, mert rossz látási viszonyok esetén ez a legbiztonságosabb forgalmi sáv.
+− Igen, mindaddig, amíg az úton nem érkezik másik jármű.
+
+[3.4 10] Mit jelent a képen látható közúti jelzőtábla?
+× ’Kapaszkodósáv’.
+− ’A besorolás rendje a következő útkereszteződésben’.
+− ’Lassítósáv’.
+
+[3.4 11] Az ’A’ jelű jármű lakott területen kívül 75 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+− Nem, mert a megengedettnél lassabban történő haladása miatt ezen a sávon veszélyhelyzetet teremt.
+
+[3.4 11] Az ’A’ jelű jármű lakott területen kívül a ködös idő miatt csak 60 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Nem, mert ezzel a sebességgel csak a kapaszkodósávon szabad haladnia.
+− Igen, mert rossz látási viszonyok esetén nem köteles senki a kapaszkodósávon haladni.
+− Igen, mindaddig, amíg az úton nem érkezik másik jármű.
+
+[3.4 12] Ön a kormánykerékkel jelzett személygépkocsival lakott területen kívül 75 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+− Nem, mert a megengedettnél lassabban történő haladása miatt ezen a sávon veszélyhelyzetet teremt.
+
+[3.4 12] Ön a kormánykerékkel jelzett személygépkocsival lakott területen kívül a ködös idő miatt csak 60 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Nem, mert ezzel a sebességgel csak a kapaszkodósávon szabad haladnia.
+− Igen, mert rossz látási viszonyok esetén nem köteles senki a kapaszkodósávon haladni.
+− Igen, mindaddig, amíg az úton nem érkezik másik jármű.
+
+[3.4 13] Mit jelent a képen látható közúti jelzőtábla?
+× ’Kapaszkodósáv’.
+− ’A besorolás rendje a következő útkereszteződésben’.
+− ’Lassítósáv’.
+
+[3.4 14] Mit jelent a képen látható közúti jelzőtábla?
+× ’Kapaszkodósáv’.
+− ’A besorolás rendje a következő útkereszteződésben’.
+− ’Lassítósáv’.
+
+[3.4 15] Mikor köteles az ’A’ jelű jármű lakott területen kívül a kapaszkodósávon közlekedni?
+× Ha 60 km/h sebességnél lassabban halad.
+− Ha 80 km/h sebességgel halad.
+− Ha 90 km/h sebességgel halad.
+
+[3.4 15] Az ’A’ jelű jármű lakott területen kívül 60 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+− Nem, mert a megengedettnél lassabban történő haladása miatt ezen a forgalmi sávon veszélyhelyzetet teremt.
+
+[3.4 16] Ön a kormánykerékkel jelzett személygépkocsit vezeti. Mikor köteles lakott területen kívül a kapaszkodósávon közlekedni?
+× Ha 60 km/h sebességnél lassabban halad.
+− Ha 80 km/h sebességgel halad.
+− Ha 90 km/h sebességgel halad.
+
+[3.4 16] Ön a kormánykerékkel jelzett személygépkocsival lakott területen kívül 60 km/h sebességgel halad. Szabályos helyen közlekedik?
+× Igen.
+− Nem, mert a kapaszkodósávon köteles haladni.
+− Nem, mert a megengedettnél lassabban történő haladása miatt ezen a forgalmi sávon veszélyhelyzetet teremt.
+
+A veszélyt jelző táblákat követően milyen távolságban kell számítani a veszélyes helyre?
+× Lakott területen 50-100 m, autópályán 250-500 m, lakott területen kívül egyéb úton 150-250 m távolságban.
+− Lakott területen 30 m, lakott területen kívül 50 m távolságban.
+− Lakott területen 25 m, lakott területen kívül 50 m távolságban.
+− Közvetlenül a jelzőtáblát követően, lakott területen 50-100 m, autópályán 250-500 m, lakott területen kívül egyéb úton 150-250 m hosszon.
+− Minden esetben a veszélyt jelző tábla alatt elhelyezett kiegészítő táblán megjelölt távolságban.
+
+Hol kell közlekedni a párhuzamos közlekedésre alkalmas úttesten?
+× Általában a külső (jobb szélső) forgalmi sávban.
+− Mindig a belső forgalmi sávban.
+− Mindig a külső forgalmi sávban.
+
+Köteles-e a lakott területen kívüli út úttestén tartózkodó személy éjszaka fényvisszaverő mellényt viselni?
+× Igen.
+− Nem.
+
+Lakott területen kívül egy lassabban haladó járművet utolér. Használhat-e hangjelzést?
+× Csak akkor, ha ezzel előzési szándékát kívánja jelezni.
+− Nem, mert csak baleset megelőzése érdekében szabad hangjelzést használni.
+− Nem, lakott területen kívül tilos hangjelzést adni.
+
+Köteles-e a lakott területen kívüli út útpadkáján műszaki hibából megálló járműből kiszálló személy éjszaka fényvisszaverő mellényt viselni?
+× Igen.
+− Nem.
+
+Köteles-e a lakott területen kívüli út melletti várakozóhelyen tartózkodó személy éjszaka fényvisszaverő mellényt viselni?
+× Nem.
+− Igen.
+
+A külföldre távozó magyar rendszámú gépjárművet...
+× a ’H’ betűt feltüntető államjelzéssel kell ellátni.
+− az ’M’ betűt feltüntető államjelzéssel kell ellátni.
+− nem kell államjelzéssel ellátni.

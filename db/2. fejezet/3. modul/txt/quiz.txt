@@ -1,0 +1,336 @@
+[2.3] Mi a jelzőtábla neve?
+× ’Előzni tilos’.
+− ’Személygépkocsival előzni tilos’.
+− ’Gépjárművel előzni tilos’.
+
+[2.3] Gépjárművel közlekedve az alábbiak közül milyen járművet szabad megelőzni e jelzőtáblát követően?
+× Az állati erővel vont járművet.
+− A mezőgazdasági vontatót.
+− A lassú járművet.
+
+[2.3 1] Az alábbiak közül mely jelzőtáblák tilalmát szünteti meg ez a jelzőtábla?
+× Az ’Előzni tilos’, a ’Megfordulni tilos’ és a ’Sebességkorlátozás’ jelzőtáblákét.
+− Az ’Előzni tilos’, a ’Megfordulni tilos’ és a ’Kötelező haladási irány’ jelzőtáblákét.
+− Az ’Előzni tilos’, a ’Megfordulni tilos’ és a ’Kötelező legkisebb sebesség’ jelzőtáblákét.
+
+[2.3 2] A képen látható helyen szabad-e a ’B’ jelű személygépkocsival megelőzni az ’A’ jelű állati erővel vontatott járművet?
+× Igen.
+− Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+
+[2.3 3] A képen látható helyen szabad-e a ’B’ jelű személygépkocsival megelőzni az ’A’ jelű kerékpárost?
+× Igen.
+− Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+
+[2.3 4] A képen látható helyen az ’A’ jelű gépkocsi a ’B’ jelű kerékpárost szeretné megelőzni. Mikor szabályos ez?
+× Akkor is szabályos, ha az ’Előzni tilos’ jelzőtábla után fejezi be az előzést.
+− Csak akkor szabályos, ha az ’Előzni tilos’ jelzőtábláig befejezi az előzést.
+− Soha nem szabályos, mert ezen az úton a jelzőtábla előtt sem előzhet kerékpárost.
+
+[2.3 4] Az ’A’ jelű gépkocsi az előtte haladó járművek előzését már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni. Válassza ki a helyes állítást!
+× Az ’Előzni tilos’ jelzőtábla után csak a ’B’ jelű kerékpárost szabad megelőzni.
+− Az ’Előzni tilos’ jelzőtábla után csak a ’C’ jelű személygépkocsit szabad megelőzni.
+− Az ’Előzni tilos’ jelzőtábla után mindkét járművet szabad megelőzni.
+
+[2.3 5] Ön az ’A’ jelű gépkocsit vezeti. Megelőzheti a képen látható helyen a ’B’ jelű kerékpárost, ha az előzést már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni?
+× Igen.
+− Nem.
+− Csak akkor, ha előzés közben nem hajt át a menetirány szerinti bal oldalra.
+
+[2.3 6] Ön a kormánykerékkel jelzett járművet vezeti. Megelőzheti a képen látható helyen a ’B’ jelű kerékpárost, ha az előzést már csak az ’Előzni tilos’ jelzőtábla után tudná befejezni?
+× Igen.
+− Nem.
+− Csak akkor, ha előzés közben nem hajt át a menetirány szerinti bal oldalra.
+
+[2.3 7] Ön a kormánykerékkel jelzett gépjárművet vezeti. Szabad-e megelőznie az ábrázolt helyen az ’A’ jelű, állati erővel vontatott járművet?
+× Igen.
+− Nem, mert a jelzőtábla tiltja ezt az előzést.
+
+[2.3 8] A képen látható helyen megelőzheti-e a ’B’ jelű mezőgazdasági vontató az ’A’ jelű állati erővel vontatott járművet?
+× Nem, mert a jelzőtáblával jelzett előzési tilalmat be kell tartania.
+− Igen, mert a jelzőtábla után az állati erővel vontatott jármű mezőgazdasági vontatóval megelőzhető.
+− Igen, mert nincs záróvonal felfestve.
+
+[2.3 9] Milyen járműszerelvénnyel szabad behajtani ennél a jelzőtáblánál?
+× A vonójárműből és egytengelyes vagy félpótkocsiból álló járműszerelvénnyel.
+− Semmilyen járműszerelvénnyel.
+− A személygépkocsiból és kéttengelyes pótkocsiból álló járműszerelvénnyel.
+
+[2.3 10] Mi a jelzőtábla neve?
+× ’Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos’.
+− ’Személygépkocsival behajtani tilos’.
+− ’Személygépkocsival és mopedautóval behajtani tilos’.
+
+[2.3 11] Mit jelez ez a jelzőtábla?
+× Az úton tilos a járműveknek a jelzőtáblán megjelöltnél kisebb távolságban követniük egymást.
+− Az úton tilos a gépjárműveknek a jelzőtáblán megjelöltnél kisebb távolságban követniük egymást.
+− Az úton tilos a személygépkocsiknak a jelzőtáblán megjelöltnél kisebb távolságban követniük egymást.
+
+Legalább milyen távolságban szabad követni járművel egy másik járművet?
+× Olyan távolságban, hogy az elöl haladó jármű mögött hirtelen fékezése esetén is meg lehessen állni.
+− Mindig 10 méternél nem kisebb távolságra.
+− Olyan távolságban, hogy a tompított fényszórónk ne vakítsa el az elöl haladó jármű vezetőjét.
+
+Milyen távolságban szabad követni járművel egy kerékpárost?
+× Olyan távolságban, hogy a kerékpáros mögött, annak hirtelen fékezése esetén is meg lehessen állni.
+− Tetszőleges távolságra lehet követni, erre nincs előírás.
+− Olyan távolságban, hogy egy előzést végző jármű még beférjen járművünk és a kerékpáros közé.
+
+[2.3 12] Ön a ’B’ jelű személygépkocsit vezeti. Köteles-e olyan távolságban követni az Ön előtt haladó személygépkocsit, hogy a motorkerékpáros biztonságosan be tudjon sorolni Önök közé?
+× Nem, nincs ilyen kötelezettsége.
+− Igen.
+
+[2.3 13] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e olyan távolságban követni az Ön előtt haladó személygépkocsit, hogy a motorkerékpáros biztonságosan be tudjon sorolni Önök közé?
+× Nem, nincs ilyen kötelezettsége.
+− Igen.
+
+[2.3 14] Szabad-e megfordulni a jelzőtáblát követő útkereszteződésben?
+× Igen.
+− Nem.
+
+[2.3 15] Mit jelent az ábrán látható sárga útburkolati jel?
+× ’Veszélyes hely előjelzése’.
+− ’Merőleges várakozóhelyek’.
+− ’Kerékpározni tilos’.
+
+[2.3 16] Szabad-e ennél a jelzésnél megállás nélkül továbbhaladni?
+× Nem.
+− Igen, kivéve határátkelőhelyen.
+− Igen, ha a vám- és pénzügyőr jelzéséből más nem következik.
+
+[2.3 17] Ön az ’A’ jelű személygépkocsit vezeti. Mire kell számítania az úton, ha ezt az útburkolati jelet látja?
+× Sebességkorlátozásra vagy megállási kötelezettségre.
+− Az utat keresztező vasúti átjáróra vagy villamospályára.
+− Sebességmérő rendszerre.
+
+[2.3 17] Az ábrán látható sárga útburkolati jelet látva kötelesek-e az érkező járművek csökkenteni a sebességüket?
+× Nem, de érdemes felkészülni arra, hogy az úton hamarosan sebességkorlátozás lesz, vagy megállási kötelezettsége keletkezik.
+− Igen, lakott területen max. 30, lakott területen kívül max. 60 km/h sebességgel közlekedhet az útburkolati jel kezdetétől.
+
+[2.3 17] Van-e valamilyen kötelezettsége a ’B’ jelű autóbusz vezetőjének, ha ehhez a sárga útburkolati jelhez ér?
+× Nem, de érdemes felkészülni arra, hogy az úton hamarosan sebességkorlátozás lesz, vagy megállási kötelezettsége keletkezik.
+− Igen, a sebességét 30 km/h-ra kell csökkentenie.
+− Igen, ez a jel kötelező megállásra utasít, meg kell állnia.
+
+[2.3 18] Mit jelez ez a jelzőtábla?
+× Azt, hogy a ’Korlátozott sebességű övezet vége’ tábláig tilos a megjelöltnél nagyobb sebességgel haladni.
+− Azt, hogy a következő útkereszteződésig tilos a megjelöltnél nagyobb sebességgel haladni.
+− Azt, hogy a ’Lakott terület vége’ tábláig tilos a megjelöltnél nagyobb sebességgel haladni.
+
+[2.3 19] Mit jelez ez a táblakombináció?
+× Azt, hogy az útra a kiegészítő táblán jelzett időszakban mindkét irányból tilos behajtani.
+− Azt, hogy az útra a kiegészítő táblán jelzett időszakon kívül mindkét irányból tilos behajtani.
+− Azt, hogy az útra a kiegészítő táblán jelzett időszakban ebből az irányból tilos behajtani, de parkolni szabad.
+
+[2.3 20] Megszünteti-e ez a jelzőtábla a ’Megfordulni tilos’ jelzőtábla hatályát?
+× Igen.
+− Nem.
+
+[2.3 21] Milyen járműszerelvénnyel szabad behajtani ennél a jelzőtáblánál?
+× A vonójárműből és egytengelyes vagy félpótkocsiból álló járműszerelvénnyel.
+− Semmilyen járműszerelvénnyel.
+− A személygépkocsiból és kéttengelyes pótkocsiból álló járműszerelvénnyel.
+
+[2.3 22] Mi a jelzőtábla neve?
+× ’Gépjárművel, mezőgazdasági vontatóval és lassú járművel behajtani tilos’.
+− ’Személygépkocsival behajtani tilos’.
+− ’Személygépkocsival és mopedautóval behajtani tilos’.
+
+[2.3 23] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Azt, hogy az útkereszteződésben a balról érkező járműnek van elsőbbsége.
+− Vasúti átjáró kezdetét.
+
+[2.3 24] Mit jelez ez a jelzőtábla?
+× Azt, hogy az útkereszteződésben a járműnek elsőbbsége van a keresztező úton érkező járművel szemben.
+− Azt, hogy az útkereszteződésben a jobbról érkező járműnek van elsőbbsége.
+− Főútvonalat.
+
+[2.3 25] Mire kell számítani e jelzőtáblát követően?
+× Arra, hogy gyermekek lépnek az úttestre.
+− Játszótérre.
+− Gyalogosokra.
+
+[2.3 26] Mire kell számítani e jelzőtáblát követően?
+× Arra, hogy az úttest erősen csúszóssá válhat.
+− Egymást követő útkanyarulatokra.
+− Nyomvályús útszakaszra.
+
+[2.3 27] Mit jelez ez a jelzőtábla?
+× Sorompó nélküli vasúti átjárót.
+− Vasútállomást.
+− A vasúti átjáró kezdetét.
+
+[2.3 28] Mit jelez ez a jelzőtábla?
+× Fénysorompóval és sorompóval biztosított vasúti átjárót.
+− Fénysorompóval biztosított, sorompó nélküli vasúti átjárót.
+− Forgalomirányító fényjelző készüléket.
+
+[2.3 29] Milyen veszélyre figyelmeztet ez a jelzőtábla?
+× Kavicsfelverődésre.
+− Sáros útra.
+− Poros földútra.
+
+[2.3 30] Mire kell számítani e jelzőtáblát követően?
+× Arra, hogy az úttest erősen csúszóssá válhat.
+− Egymást követő útkanyarulatokra.
+− Nyomvályús útszakaszra.
+
+[2.3 31] Mit jelez ez a jelzőtábla?
+× Az úton a korábbi forgalmi rendtől eltérően kétirányú forgalom van.
+− A szembejövő forgalom elsőbbségét.
+− Azt, hogy osztott pályás út következik.
+
+[2.3 32] Mit jelez ez a jelzőtábla?
+× Az úttest szélessége a megelőző útszakaszhoz képest számottevően csökken.
+− A forgalmi sáv szélessége a megelőzőhöz képest számottevően csökken.
+− Az út szélessége a megelőző útszakaszhoz képest számottevően csökken.
+
+[2.3 33] Mit jelez ez a jelzőtábla?
+× Azt, hogy az utat villamospálya keresztezi.
+− A villamosjárat megállóját.
+− Vasúti átjárót.
+
+[2.3 34] Milyen vasúti átjárót biztosító jelzőberendezés következik e jelzőtábla után?
+× Teljes vagy félsorompóval együtt felszerelt fénysorompó.
+− Csak fénysorompó.
+− Csak teljes sorompó.
+
+[2.3 35] Mikor nem szabad zöld fényjelzésnél behajtani az útkereszteződésbe?
+× Ha a zöld fényjelzés időtartama alatt az útkereszteződést előreláthatólag nem lehet elhagyni.
+− A zöld fényjelzés ideje alatt mindig be szabad hajtani az útkereszteződésbe.
+− Ha a zöld fényjelzés villogni kezd.
+
+[2.3 36] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 37] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 38] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 39] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 40] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 41] Ön az ’A’ jelű személygépkocsit vezeti. Milyen irányban folytathatja az útját?
+× Csak balra.
+− Csak egyenesen.
+− Egyenesen és balra is.
+
+[2.3 42] Ön a kormánykerékkel jelzett járművet vezeti. Milyen irányban folytathatja az útját?
+× Csak balra.
+− Csak egyenesen.
+− Egyenesen és balra is.
+
+[2.3 43] Ön az ’A’ jelű személygépkocsit vezeti. Köteles-e az adott helyen az irányjelzőjét használni?
+× Igen, balra, mivel bekanyarodik egy másik útra.
+− Nem, mert a bal oldali forgalmi sávból másfelé nem mehet.
+
+[2.3 44] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e az adott helyen az irányjelzőjét használni?
+× Igen, balra, mivel bekanyarodik egy másik útra.
+− Nem, mert a bal oldali forgalmi sávból másfelé nem mehet.
+
+[2.3 45] Melyik jármű kanyarodhat jobbra az ábrán látható útkereszteződésben?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 46] Megkezdheti-e az irányjelzést a ’B’ jelű személygépkocsi az ábrán látható helyen, ha az útkereszteződés után kíván az úttest jobb szélén megállni?
+× Nem, mert az irányjelzés nem lehet megtévesztő.
+− Igen, mert a megállási szándékot legalább 5 másodperccel korábban kell a tervezett megállás előtt jelezni.
+
+[2.3 47] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+Mely járművekre vonatkozik a fényjelző készülékkel együtt elhelyezett, kötelező haladási irányt jelző tábla utasítása?
+× Azokra, amelyekre a fényjelző készülék jelzése irányadó.
+− Minden járműre, amely a menetirány szerinti jobb oldalon közlekedik.
+− Csak a szélső sávban közlekedő járművekre.
+− Csak azokra a járművekre, amelyek a tilos jelzés ellenére is továbbhaladhatnak.
+− Csak azokra a járművekre, amelyek használják a megkülönböztető jelzéseiket.
+
+[2.3 48] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 49] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 50] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 51] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 52] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 53] Ön az ’A’ jelű személygépkocsit vezeti. Milyen irányban folytathatja az útját?
+× Csak balra.
+− Csak egyenesen.
+− Egyenesen és balra is.
+
+[2.3 54] Ön a kormánykerékkel jelzett járművet vezeti. Milyen irányban folytathatja az útját?
+× Csak balra.
+− Csak egyenesen.
+− Egyenesen és balra is.
+
+[2.3 55] Ön az ’A’ jelű személygépkocsit vezeti. Köteles-e az adott helyen az irányjelzőjét használni?
+× Igen, balra, mivel bekanyarodik egy másik útra.
+− Nem, mert a bal oldali forgalmi sávból másfelé nem mehet.
+
+[2.3 56] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e az adott helyen az irányjelzőjét használni?
+× Igen, balra, mivel bekanyarodik egy másik útra.
+− Nem, mert a bal oldali forgalmi sávból másfelé nem mehet.
+
+[2.3 57] Melyik jármű kanyarodhat jobbra az ábrán látható útkereszteződésben?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 58] Megkezdheti-e az irányjelzést a ’B’ jelű személygépkocsi az ábrán látható helyen, ha az útkereszteződés után kíván az úttest jobb szélén megállni?
+× Nem, mert az irányjelzés nem lehet megtévesztő.
+− Igen, mert a megállási szándékot legalább 5 másodperccel korábban kell a tervezett megállás előtt jelezni.
+
+[2.3 59] A képen látható útkereszteződésben melyik jármű kanyarodhat jobbra?
+× Egyik sem.
+− Csak a ’B’ jelű.
+− Mindkettő.
+
+[2.3 60] Mit jelent a fényjelző készülék villogó sárga fényjelzése?
+× Veszélyes helyre hívja fel a figyelmet, ahol csak fokozott óvatossággal szabad továbbhaladni.
+− Elromlott a készülék.
+− Piros fényjelzés következik.
+
+[2.3 61] Milyen fényjelzés következik a kétlencsés forgalomirányító fényjelző készüléken a villogó sárga fényjelzés után?
+× Folyamatos sárga fényjelzés.
+− Piros fényjelzés.
+− Zöld fényjelzés.
+
+[2.3 61] Találkozhat-e ezzel a fényjelző berendezéssel vasúti átjáróban?
+× Nem.
+− Igen.

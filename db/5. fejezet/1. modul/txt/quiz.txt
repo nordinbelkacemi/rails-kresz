@@ -1,0 +1,120 @@
+Mire kell figyelni a kormányberendezés ellenőrzésekor?
+× A kormány könnyen elfordítható legyen, ne akadjon és ne lógjon.
+− A kormány mindkét irányba legalább 45 fokban elforgatható legyen.
+− A kormánycsapágyak kenésére.
+
+Szabad-e vontatni a segédmotoros kerékpárt más járművel?
+× Nem.
+− Igen.
+
+Lehet-e a megfelelő állapotú tengelykapcsoló működtetésének holtjátéka?
+× Igen, ez a tengelykapcsoló működtetés konstrukciójának természetes velejárója.
+− Nem, ez minden esetben a tengelykapcsoló tárcsa túlzott kopására utal.
+− Nem, mert a működtető rendszer minden holtjátékot automatikusan utánállít, így a pedál érintésekor a tengelykapcsoló azonnal kiemel.
+− Nem, mert ez a tengelykapcsoló pedál fellazulására utal, ami nagyon veszélyes.
+
+Mi a tengelykapcsoló feladata?
+× Oldható kapcsolatot biztosít a motor és a sebességváltó között.
+− Nem oldható kapcsolatot biztosít a motor és a sebességváltó között.
+− Segítségével a motor egyes hengerei leválaszthatóvá válnak a többiről.
+− Csúsztatásával a jármű haladási sebessége széles tartományban változtatható.
+
+Kisebb, vagy a nagyobb sebességi fokozatban jobb a jármű gyorsítóképessége?
+× Kisebb sebességi fokozatban.
+− Nagyobb sebességi fokozatban.
+− Nem függ a sebességi fokozattól.
+
+Mi a sebességváltó feladata?
+× A motor és a hajtott kerekek fordulatszám tartományainak összehangolása, a menetellenállásoknak megfelelő hajtónyomaték beállítása, illetve hátramenet biztosítása.
+− A hajtónyomaték elosztása a jármű hajtott kerekei között, valamint a kétoldali hajtott kerekek fordulatszám különbségének lehetővé tétele kanyarban haladva.
+− Nehéz terepen a jármű összkerékhajtásának biztosítása.
+− A hajtott kerekek kipörgésének megakadályozása csúszós úton.
+
+Milyen színnel világít a műszerfalon a tompított világítás bekapcsolását jelző lámpa?
+× Zöld színnel.
+− Kék színnel.
+− Sárga színnel.
+− Piros színnel.
+− Fehér, vagy kadmiumsárga színnel.
+
+Milyen színnel világít a műszerfalon a távolsági világítás bekapcsolását jelző lámpa?
+× Kék színnel.
+− Zöld színnel.
+− Sárga színnel.
+− Piros színnel.
+− Fehér, vagy kadmiumsárga színnel.
+
+Mennyi a jól működő irányjelző lámpa percenkénti villogásainak száma?
+× 60-120 villogás/perc.
+− 30-40 villogás/perc.
+− 20-50 villogás/perc.
+
+[5.1] Mit jelent a képen látható visszajelző lámpa felgyulladása?
+× A gépjármű üzemanyagtartályában már csak a tartalék üzemanyag mennyiség áll rendelkezésre, ezért rövid időn belül tankolni kell.
+− Azonnal segítséget kell kérni, mert néhány percen belül kifogy az üzemanyag.
+− Meghibásodott a gépkocsi üzemanyagrendszere.
+− Meghibásodott a jármű kipufogógáz-tisztító berendezése (katalizátora).
+
+Milyen színnel világít a jármű féklámpája?
+× Piros színnel.
+− Sárga színnel.
+− Zöld színnel.
+− Kék színnel.
+− Fehér, vagy kadmiumsárga színnel.
+
+Miről ismerhetjük fel vezetés közben, ha valamelyik irányjelző lámpa izzója kiégett?
+× A műszerfalon lévő zöld visszajelző lámpa nem világít, vagy nagyobb sebességgel villog.
+− A műszerfalon lévő zöld visszajelző lámpa folyamatosan világít.
+− A műszerfalon lévő visszajelző lámpa pirosan világít.
+
+Hogyan kell kivilágítani a forgalomban részt vevő gépkocsit éjszaka és korlátozott látási viszonyok között?
+× Helyzetjelző lámpákkal és tompított fényszóróval.
+− Csak helyzetjelző lámpákkal.
+− Csak távolsági fényszóróval.
+− Tompított fényszóróval és nappali menetjelző lámpával együttesen, valamint hátsó ködlámpával.
+
+Mikor kell kivilágítani a forgalomban részt vevő, tompított fényszóróval felszerelt segédmotoros kerékpárt?
+× Minden esetben.
+− Csak éjszaka.
+− Csak akkor, ha a vezető nem lát jól.
+− Ha az a többi közlekedőt nem vakítja el.
+
+Melyik fényforrások és milyen jelzést adnak a vészvillogó (elakadásjelző) bekapcsolásakor?
+× A jármű valamennyi irányjelzője villog a megszokott ütemben.
+− Az irányjelzők működnek futófényszerűen körbe haladva a járművön.
+− Csak a hátsó irányjelzők villognak, a megszokottnál gyorsabban.
+− Csak az első irányjelzők villognak, a megszokottnál gyorsabban.
+
+Milyen minimális mélységűnek kell lennie a személygépkocsira felszerelt gumiabroncs mintázatának?
+× Legalább 1,6 mm mélységűnek.
+− Legalább 2 mm mélységűnek.
+− Legalább 2,6 mm mélységűnek.
+− A személygépkocsi esetében nincs erre vonatkozó előírás.
+− Ezt a mértéket a jármű üzembentartójának kell eldöntenie.
+
+Milyen gyakran kell a gumiabroncs levegőnyomását ellenőrizni?
+× Legalább hetente.
+− Legalább havonta.
+− Minden nap.
+− Nem szükséges ellenőrizni, mert a gumiabroncs levegőnyomása nem változik.
+− Csak akkor, ha ezt feltétlenül szükségesnek érzi.
+
+Befolyásolja-e a vezetési stílus a gumiabroncsok kopásának mértékét?
+× Igen, a hirtelen elindulás, a megpördülő kerekek, az intenzív fékezések csökkentik a gumiabroncsok élettartamát.
+− Nem, a gumiabroncsok kopása csak a jármű terheltségétől függ.
+− Igen, a sportos vezetési stílus jobb állapotban tartja a gumiabroncsokat, így élettartamuk nő.
+
+Száraz vagy nedves aszfalton jobb a gumiabroncs tapadása?
+× Száraz aszfalton.
+− Nedves aszfalton.
+− Nincs különbség, a megfelelő gumiabroncs típussal egyaránt jó a tapadás.
+
+Kell-e ellenőrizni a jármű gumiabroncsait elindulás előtt?
+× Igen, legalább a napi első elindulás előtt.
+− Igen, minden elindulás előtt.
+− Nem szükséges, mert -a gumiabroncs cseréjekor- ellenőrzötten kerülnek felszerelésre.
+
+Mit kell a gumiabroncsokon ellenőrizni?
+× Levegőnyomást, mintázat mélységet, sérülésmentességet.
+− Kizárólag a mintázat mélységét.
+− Méretét, épségét.

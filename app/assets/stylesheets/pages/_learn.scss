@@ -1,0 +1,58 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  background-color: rgb(10,10,10);
+  width: 15%;
+  height: 100%;
+  color: white;
+  font-weight: 300;
+  font-size: 14px;
+  padding-top: 15px;
+}
+
+.something {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.completion-grid {
+  flex-grow: 1;
+  height: 100vh;
+  background-color: rgba(241, 211, 2, 0.5);
+}
+
+.tab {
+  opacity: 0.5;
+  display: flex;
+  align-items: center;
+  width: 90%;
+  height: 40px;
+  color: white;
+  text-decoration: none;
+  &:hover {
+    color: white;
+    text-decoration: none;
+    opacity: 1;
+    border-right: 5px solid #F1D302;
+    width: 86%;
+    background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
+  }
+  transition: opacity 0.2s ease-out,
+              width 0.2s ease-out,
+              background-color 0.2s ease-out;
+}
+
+.tab.active {
+  color: #F1D302;
+  text-decoration: none;
+  opacity: 1;
+  border-right: 5px solid #F1D302;
+  width: 86%;
+  background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
+}

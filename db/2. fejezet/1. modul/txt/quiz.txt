@@ -1,0 +1,410 @@
+Az alábbiakban felsorolt esetek közül kinek köteles Ön elsőbbséget adni, ha egy egyenrangú útkereszteződéshez érve járművével balra kanyarodik?
+× A szemből érkező, egyenesen továbbhaladó jármű részére.
+− A balról érkező, egyenesen továbbhaladó jármű részére.
+− Senkinek sem.
+
+[2.1] Ön az ’A’ jelű járművet vezeti. Bekanyarodás közben köteles-e elsőbbséget adni a ’B’ jelű kerékpáros részére?
+× Igen.
+− Nem.
+− Csak akkor, ha kerékpárúton érkezik.
+
+Elsőbbséget kell-e adni a balra bekanyarodó járművel a szemből érkező, jobbra bekanyarodó jármű részére?
+× Ha a közúti jelzésekből más nem következik, akkor igen.
+− Nem.
+
+Elsőbbséget kell-e adni a balra bekanyarodó járművel a szemből érkező és egyenesen továbbhaladó jármű részére?
+× Ha a közúti jelzésekből más nem következik, akkor igen.
+− Nem.
+
+[2.1 1] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Az ’A’ jelű.
+− A ’B’ jelű.
+
+[2.1 1] Ön az ’A’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Nem.
+− Igen.
+
+[2.1 1] A ’B’ jelű járművet vezetve elsőként haladhat át ebben az útkereszteződésben?
+× Nem.
+− Igen.
+
+[2.1 2] Ön a kormánykerékkel jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× Ön, a kormánykerékkel jelzett járművel.
+− A ’B’ jelű.
+
+[2.1 2] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Nem.
+− Igen.
+
+[2.1 3] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+
+[2.1 3] Ön a ’B’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Nem.
+− Igen.
+
+[2.1 3] Az ’A’ jelű járművet vezetve elsőként haladhat át ebben az útkereszteződésben?
+× Nem.
+− Igen.
+
+[2.1 4] Ön a kormánykerékkel jelzett járművet vezeti. Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− Ön, a kormánykerékkel jelzett járművel.
+
+[2.1 4] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen.
+− Nem.
+
+[2.1 4] Ön a kormánykerékkel jelzett járművet vezeti. Elsőként haladhat át ebben az útkereszteződésben?
+× Nem.
+− Igen.
+
+[2.1 4] Ön a kormánykerékkel jelzett járművet vezeti. Elsőként haladhat át ebben az útkereszteződésben?
+× Nem.
+− Igen.
+
+[2.1 5] Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× A ’B’ jelű.
+− Az ’A’ jelű.
+
+[2.1 5] Elsőként haladhat-e át ebben az útkereszteződésben, ha Ön a ’B’ jelű járművet vezeti?
+× Igen.
+− Nem.
+
+[2.1 5] Ön a ’B’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Nem.
+− Igen.
+
+[2.1 6] Ön a kormánykerékkel jelzett járművet vezeti. Melyik jármű haladhat tovább elsőként az ábrán látható útkereszteződésben?
+× Ön, a kormánykerékkel jelzett járművel.
+− Az ’A’ jelű.
+
+[2.1 7] Az ’A’ jelű jármű vezetője köteles irányjelzőjével jelezni bekanyarodási szándékát?
+× Igen.
+− Nem.
+
+Mi lehet az oka annak, ha valamelyik kerék megcsúszik?
+× A kerék terhelése nem elegendő, kis ívű kanyarodás történt nagy sebességgel, vagy csúszós az úttest.
+− Nem megfelelő a gumiabroncs mérete.
+− Kis sebességgel, magas sebességfokozattal közlekedünk.
+
+Mennyi üzemanyagot fogyaszt a jármű motorfék, illetve kipufogófék használatakor?
+× Motorfék esetén minimális mennyiségű üzemanyagot fogyaszt a jármű, míg kipufogófék esetében nincs üzemanyag fogyasztás.
+− A jármű mindkét esetben az átlagfogyasztásának megfelelő mennyiségű üzemanyagot fogyasztja.
+− A jármű mindkét esetben az alapjárathoz tartozó fogyasztásnak megfelelő mennyiségű üzemanyagot fogyasztja.
+
+Milyen célt szolgál a jármű fordulatszám-mérője?
+× Segítséget nyújt a fogyasztás, illetve a teljesítményleadás szempontjából ideális fordulatszám tartományban történő üzemeltetéshez.
+− Segítségével meghatározható a pillanatnyi fogyasztás pontos értéke.
+− Segítségével ellenőrizhető a kenő- és a hűtőrendszer működése is.
+− Segítségével a motor elhasználódásáról kapunk fontos információkat.
+
+Az alábbiak közül hová kell a járművel besorolni, mielőtt bekanyarodik az útkereszteződésben?
+× Az útburkolati jelek által meghatározott forgalmi sávba.
+− Bármely forgalmi sávba.
+− A legbiztonságosabbnak ítélt forgalmi sávba.
+
+Az alábbiak közül mi minősül kerékpársávnak?
+× Az úttesten útburkolati jellel jelölt – kerékpárosok közlekedésére szolgáló – különleges forgalmi sáv.
+− A jelzőtáblával kerékpársávként jelölt forgalmi sáv.
+− Az úttesten kerékpárt és nyilat mutató útburkolati jellel jelölt terület.
+− A kerékpárosok által használt forgalmi sáv.
+− A forgalmi sávoktól kiemelt szegéllyel elválasztott, kerékpárosok közlekedésére szolgáló forgalmi sáv.
+
+Az alábbiak közül mely jármű részére kell elsőbbséget adni jobbra bekanyarodó járművel?
+× A kerékpársávon érkező részére.
+− Az úttesten szemből érkező jármű részére.
+− A jobbról érkező jármű részére.
+
+Útkereszteződésben jobbra kíván kanyarodni. Eközben a...
+× jobbra bekanyarodást a nyitott kerékpársávról kell végrehajtani
+− jobbra bekanyarodást a nyitott kerékpársáv melletti forgalmi sávból kell végrehajtania.
+
+Kell-e elsőbbséget adni annak a gyalogosnak, aki annak az útnak az úttestjén halad át, amelyre a jármű bekanyarodik?
+× Igen.
+− Nem.
+
+[2.1 8] Az ’A’ jelű személygépkocsi az ábrán látható nyomvonalon kíván továbbhaladni. Eközben...
+× a gyalogosok részére elsőbbséget kell adnia.
+− a gyalogosokat feltarthatja.
+− a gyalogosokkal szemben elsőbbsége van.
+
+[2.1 8] Köteles-e az ’A’ jelű személygépkocsi vezetője elsőbbséget adni az ábrán látható ’B’ és ’C’ jelű gyalogosok részére?
+× Igen, mert irányt változtatva elhagyja a kanyarodó főútvonalat.
+− Nem, mert egyenesen halad tovább, és csak kanyarodó járművel kell a gyalogosok részére elsőbbséget adni.
+− Nem, mert itt csak akkor kellene elsőbbséget adnia a gyalogosok részére, ha kijelölt gyalogos-átkelőhelyen haladnának át.
+
+[2.1 8] Az ’A’ jelű személygépkocsival az ábrán látható helyen közlekedik. Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× Köteles a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni.
+− A ’B’ és a ’C’ jelű gyalogosoktól elsőbbséget fog kapni.
+− Csak a ’B’ jelű gyalogos részére kell elsőbbséget adnia.
+
+[2.1 9] Ön a kormánykerékkel jelzett járművet vezeti. A tervezett manőver kapcsán van-e elsőbbségadási kötelezettsége?
+× Igen, van.
+− Nincs.
+
+[2.1 9] Ön a kormánykerékkel jelzett járművet vezeti. A tervezett manőver kapcsán elsőbbséget kell-e adnia az ábrán látható ’B’ és ’C’ jelű gyalogosok részére?
+× Igen, mert irányt változtatva elhagyja a kanyarodó főútvonalat.
+− Nem, mert egyenesen halad tovább, és csak kanyarodó járművel kell a gyalogosok részére elsőbbséget adni.
+− Nem, mert itt csak akkor kellene elsőbbséget adnia a gyalogosok részére, ha kijelölt gyalogos-átkelőhelyen haladnának át.
+
+[2.1 9] Ön a kormánykerékkel jelzett járművet vezeti. Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× Köteles a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni.
+− Csak a ’C’ jelű gyalogos részére kell elsőbbséget adnia.
+− Csak a ’B’ jelű gyalogos részére kell elsőbbséget adnia.
+− Nincs elsőbbségadási kötelezettsége.
+
+[2.1 10] Az ’A’ jelű személygépkocsi az ábrán látható nyomvonalon kíván továbbhaladni. A bekanyarodás közben...
+× a gyalogosok részére elsőbbséget kell adnia.
+− a gyalogosokat feltarthatja.
+− a gyalogosokkal szemben elsőbbsége van.
+
+[2.1 10] Köteles-e az ’A’ jelű személygépkocsi vezetője a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni?
+× Igen.
+− Nem, mert csak a kanyarodó főútvonalon áthaladó gyalogosok részére kell elsőbbséget adnia.
+− Nem, mert itt csak akkor kell elsőbbséget adni a gyalogosok részére, ha kijelölt gyalogos-átkelőhelyen haladnak át.
+
+[2.1 10] Ön az ’A’ jelű személygépkocsival közlekedik. Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× Köteles a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni.
+− A ’B’ és a ’C’ jelű gyalogosoktól elsőbbséget fog kapni.
+− Csak a ’C’ jelű gyalogosnak kell elsőbbséget adnia.
+
+[2.1 11] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni?
+× Igen.
+− Nem.
+
+[2.1 11] Ön a kormánykerékkel jelzett járművet vezeti. Melyik állítás igaz az ábrázolt forgalmi helyzetre?
+× Köteles a ’B’ és a ’C’ jelű gyalogosok részére elsőbbséget adni.
+− Csak a ’B’ jelű gyalogos részére kell elsőbbséget adnia.
+− Csak a ’C’ jelű gyalogos részére kell elsőbbséget adnia.
+− Nincs elsőbbségadási kötelezettsége.
+
+Az alábbiak közül mely jármű részére kell elsőbbséget adni jobbra bekanyarodó járművel?
+× A kerékpársávon érkező részére.
+− Az úttesten szemből érkező jármű részére.
+− A jobbról érkező jármű részére.
+
+Elsőbbsége van az útkereszteződésnél áthaladó gyalogosnak azokkal a járművekkel szemben, amelyek arra az útra kanyarodnak be, amelyen a gyalogos áthalad?
+× Igen, minden esetben.
+− Igen, de csak akkor, ha a kijelölt gyalogos-átkelőhelyen halad át.
+− Nem.
+
+[2.1 12] Ön járművezetőként az ábrán bemutatott forgalmi helyzetet látja. Határozza meg a helyes áthaladási sorrendet!
+× ’B’ - ’Ön’ - ’A’.
+− ’B’ - ’A’ - ’Ön’.
+− ’Ön’ - ’B’ - ’A’.
+
+[2.1 13] Hányadikként haladhat át az útkereszteződésben a ’C’ jelű jármű?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.1 14] Hányadikként haladhat át az útkereszteződésben a kormánykerékkel jelzett járművel?
+× Másodikként.
+− Utolsóként.
+− Elsőként.
+
+[2.1 15] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− A ’C’ jelű.
+− Az ’A’ jelű.
+
+[2.1 16] Az ábrán látható útkereszteződésben melyik jármű haladhat tovább elsőként?
+× A ’B’ jelű.
+− Ön, a kormánykerékkel jelzett járművel.
+− Az ’A’ jelű.
+
+[2.1 17] Ön a ’C’ jelű járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak a ’B’ jelű jármű részére.
+− Igen, a ’B’ és ’A’ jelű jármű részére egyaránt.
+− Nem.
+− Igen, de csak az ’A’ jelű jármű részére.
+
+[2.1 18] Ön a kormánykerékkel jelzett járművet vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+× Igen, de csak a ’B’ jelű jármű részére.
+− Igen, a ’B’ és ’A’ jelű jármű részére egyaránt.
+− Nem.
+− Igen, de csak az ’A’ jelű jármű részére.
+
+[2.1 19] Az ábrán látható útkereszteződésben melyik a helyes áthaladási sorrend?
+× ’B’ - ’C’ - ’A’.
+− ’B’ - ’A’ - ’C’.
+− ’C’ - ’B’ - ’A’.
+
+Kell-e elsőbbséget adni annak a gyalogosnak, aki annak az útnak az úttestjén halad át, amelyre a jármű bekanyarodik?
+× Igen.
+− Nem.
+
+[2.1 20] Mit nem szabad az alábbiak közül ennél az útburkolati jelnél csinálni?
+× Járművel folyamatosan ezen az útburkolati jelen haladni.
+− Másik járművet ezt az útburkolati jelet átlépve kikerülni.
+− Kerékpárost ezt az útburkolati jelet átlépve megelőzni.
+
+[2.1 21] Átlépheti-e ezt az útburkolati jelet előzés céljából?
+× A záróvonal felől nem, a terelővonal felől viszont igen.
+− A záróvonal felől igen, a terelővonal felől viszont nem.
+− Igen, bármelyik irányból.
+
+[2.1 21] Megfordulhat-e ezen az útburkolati jelen?
+× Csak a terelővonal felől.
+− Igen, akár a terelővonal, akár a záróvonal felől.
+− Nem, mivel csak előzés céljából lépheti át ezt az útburkolati jelet.
+
+[2.1 22] Előzhet-e úgy, hogy közben átlépi ezt az útburkolati jelet?
+× Nem.
+− Igen, ha nincs kihelyezve ’Előzni tilos’ jelzőtábla.
+− Igen, ha kerékpárost előz.
+
+[2.1 23] Mit jelent az ábrán látható sárga útburkolati jel?
+× ’Veszélyes hely előjelzése’.
+− ’Merőleges várakozóhelyek’.
+− ’Kerékpározni tilos’.
+
+[2.1 23] Ön az ’A’ jelű személygépkocsit vezeti. Mire kell számítania az úton, ha ezt az útburkolati jelet látja?
+× Sebességkorlátozásra vagy megállási kötelezettségre.
+− Az utat keresztező vasúti átjáróra vagy villamospályára.
+− Sebességmérő rendszerre.
+
+[2.1 23] Az ábrán látható sárga útburkolati jelet látva kötelesek-e az érkező járművek csökkenteni a sebességüket?
+× Nem, de érdemes felkészülni arra, hogy az úton hamarosan sebességkorlátozás lesz, vagy megállási kötelezettsége keletkezik.
+− Igen, lakott területen max. 30, lakott területen kívül max. 60 km/h sebességgel közlekedhet az útburkolati jel kezdetétől.
+
+[2.1 24] Ön a ’B’ jelű személygépkocsit vezeti. Köteles-e az ábrán látható helyzetben irányjelzőt használni, és a forgalmi sávot elhagyni?
+× Igen, mivel az útburkolati jel kötelezi Önt a forgalmi sáv elhagyására, amit csak irányváltoztatással tud végrehajtani.
+− A forgalmi sávot el kell hagynia, de irányjelzőt nem kell használnia, hiszen egyértelmű, hogy ebben a forgalmi sávban nem tud továbbhaladni.
+− Nem kell irányjelzőt használni, hiszen az útburkolati jelek (nyilak) mutatják a sávelhagyás kötelező irányát.
+
+[2.1 25] Mit jelez ez az útburkolati jel?
+× A forgalmi sávot a jelzett irányban el kell hagyni.
+− Az útkereszteződés előtt félre kell állni.
+− A ferdén becsatlakozó úton egyirányú forgalom van.
+
+[2.1 26] Mi az útburkolati jel jelentése?
+× ’Kerékpárosok közlekedésére kijelölt úttest’.
+− ’Várakozóhely kerékpárosok részére’.
+− ’Előretolt kerékpáros felállóhely’.
+
+[2.1 27] Várakozhat-e ennél az útburkolati jelnél két vonal között két egy nyomon haladó jármű egyszerre?
+× Igen.
+− Nem.
+
+[2.1 28] Mire figyelmezteti Önt ez a sárga útburkolati jel?
+× Az úttest lezárása miatt megváltozott forgalmi rendre.
+− A menetrend szerint közlekedő járművek terelő útirányára.
+− Arra, hogy kerékpárosok keresztezhetik a forgalmi sávot.
+
+A járda szegélyére folytonos sárga vonalat festettek fel. Mire figyelmezteti Önt ez az útburkolati jel?
+× Megállási tilalomra.
+− Arra, hogy a kerékpárosok a járdán közlekednek.
+− Mozgássérült várakozóhelyre.
+− Várakozási tilalomra.
+
+Kijelölt gyalogos-átkelőhelyen a járművel a gyalogos részére...
+× elsőbbséget kell adni.
+− nem kell elsőbbséget adni.
+− kettő, vagy több gyalogos esetén kell elsőbbséget adni.
+− csak akkor kell elsőbbséget adni, ha ezzel a forgalmat nem tartja fel.
+
+Azt a helyet, ahol a gyalogosnak elsőbbsége van, csak olyan sebességgel szabad a járművel megközelíteni, hogy...
+× a jármű vezetője az elsőbbségadási kötelezettségének eleget tudjon tenni.
+− ez a sebesség a gyalogosban félelmet, veszélyérzetet ne keltsen.
+− ez a sebesség a mögöttes forgalmat ne kényszerítse fékezésre.
+− a gyalogosok a jármű továbbhaladási szándékáról egyértelműen tudomást szerezzenek.
+
+Hogyan kell megközelítenie a jármű vezetőjének a kijelölt gyalogos-átkelőhelyet az alábbiak közül?
+× Fokozott óvatossággal.
+− Állandó sebességgel.
+− Kettes sebességi fokozatba kapcsolva.
+− Egyes sebességi fokozatba kapcsolva, a tengelykapcsoló csúsztatásával.
+
+Hogyan kell megközelítenie a jármű vezetőjének a kijelölt gyalogos-átkelőhelyet az alábbiak közül?
+× Olyan sebességgel, hogy a járművel a kijelölt gyalogos-átkelőhely előtt meg is tudjon állni.
+− Állandó sebességgel.
+− Kettes sebességi fokozatba kapcsolva.
+− Egyes sebességi fokozatba kapcsolva, a tengelykapcsoló csúsztatásával.
+
+[2.1 29] Mi a jelzőtábla jelentése?
+× ’Kijelölt gyalogos-átkelőhely’.
+− ’Mozgólépcső’.
+− ’Gyalogos alul- vagy felüljáró’.
+
+Hogyan kell elhaladni a kijelölt gyalogos-átkelőhely előtt álló másik jármű mellett?
+× Meg kell állni, és továbbhaladni csak akkor szabad, ha meggyőződött arról, hogy azt a gyalogosok elsőbbségének megsértése nélkül megteheti.
+− Megállás nélkül, fokozott figyelemmel, mérsékelt sebességgel.
+− Megállás nélkül, a biztonságos oldaltávolság megtartásával.
+− Egyes sebességfokozatba kapcsolva, a tengelykapcsoló csúsztatásával.
+
+Hogyan kell elhaladni a kijelölt gyalogos-átkelőhely előtt forgalmi okból megálló másik jármű mellett?
+× Meg kell állni, és továbbhaladni csak akkor szabad, ha meggyőződött arról, hogy azt a gyalogosok elsőbbségének megsértése nélkül megteheti.
+− Megállás nélkül, fokozott figyelemmel, mérsékelt sebességgel.
+− Megállás nélkül, a biztonságos oldaltávolság megtartásával.
+− Egyes sebességfokozatba kapcsolva, a tengelykapcsoló csúsztatásával.
+
+Szabad-e előzni közvetlenül a kijelölt gyalogos-átkelőhely előtt?
+× Nem.
+− Igen.
+− Előtte igen, csak utána nem.
+
+Szabad-e előzni kijelölt gyalogos-átkelőhelyen?
+× Nem.
+− Igen, ha nincs rajta gyalogosforgalom.
+− Igen, de csak motorkerékpárral.
+
+[2.1 30] Mikor viselkedik szabályosan az ’A’ jelű gépkocsi vezetője az ábrán látható helyen?
+× Ha csak a kijelölt gyalogos-átkelőhelyet elhagyva előzi meg a ’B’ jelű kerékpárost.
+− Ha megelőzi a kijelölt gyalogos-átkelőhelyen a ’B’ jelű kerékpárost, mivel ott nem tiltott az egy nyomon haladók előzése.
+
+[2.1 31] Ön az ’A’ jelű személygépkocsit vezeti. Mikor jár el szabályosan?
+× Ha elsőbbséget ad a kijelölt gyalogos-átkelőhelyen áthaladó ’C’ jelű gyalogosnak.
+− Ha nem csökkenti a sebességét, nehogy a ’C’ jelű gyalogos az úttestre lépjen.
+
+[2.1 31] Van-e valamilyen kötelezettsége a ’C’ jelű gyalogosnak az ábrán látható helyzetben?
+× Igen: az úttestre csak akkor léphet, ha meggyőződött annak veszélytelenségéről.
+− Nincs, mert az ’A’ jelű személygépkocsinak kötelező megállni.
+− Nincs, mert a kijelölt gyalogos-átkelőhelyen mindig számíthat arra, hogy zavartalan áthaladását a járművek biztosítani fogják.
+
+[2.1 31] Szabad-e elhaladnia az ’A’ jelű személygépkocsinak a kijelölt gyalogos-átkelőhely előtt megálló ’B’ jelű személygépkocsi mellett?
+× Nem.
+− Igen, ha a ’B’ jelű személygépkocsi túl hirtelen fékezett.
+− Igen, ha a gyalogos még nem indult el.
+
+[2.1 32] Ön a kormánykerékkel jelzett járművet vezeti. Szabad-e elhaladnia járművével a kijelölt gyalogos-átkelőhely előtt megálló ’B’ jelű személygépkocsi mellett?
+× Nem.
+− Igen, ha a ’B’ jelű személygépkocsi túl hirtelen fékezett.
+− Igen, ha a gyalogos még nem indult el.
+
+[2.1 33] Ön az ’A’ jelű gépkocsit vezeti. Számíthat-e arra, hogy figyelmetlen gyalogosok a villamos megállóhelyről az úttestre lépnek?
+× Igen, ezért fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Mivel a gyalogosoknak itt elsőbbségük van, köteles megállni, és átengedni őket.
+− Nem, mert a gyalogosok csak a kijelölt gyalogos-átkelőhelyen mehetnek át az úttesten.
+
+[2.1 34] Ön a kormánykerékkel jelzett járművet vezeti. Számíthat-e arra, hogy figyelmetlen gyalogosok a villamos megállóhelyről az úttestre lépnek?
+× Igen, ezért fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Mivel a gyalogosoknak itt elsőbbségük van, köteles megállni, és átengedni őket.
+− Nem, mert a gyalogosok csak a kijelölt gyalogos-átkelőhelyen mehetnek át az úttesten.
+
+[2.1 33] Ön az ’A’ jelű gépkocsit vezeti. Köteles-e a ’B’ jelű gyalogosok részére elsőbbséget adni?
+× Nem, de fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Igen, az elsőbbség megilleti a gyalogosokat a megállóhely teljes hosszában.
+− Igen, de csak akkor, amikor villamos áll a megállóhelyen.
+
+[2.1 34] Ön a kormánykerékkel jelzett járművet vezeti. Köteles-e a ’B’ jelű gyalogosok részére elsőbbséget adni?
+× Nem, de fokozottan ügyelni kell a megállóhelyről lelépő gyalogosokra.
+− Igen, az elsőbbség megilleti a gyalogosokat a megállóhely teljes hosszában.
+− Igen, de csak akkor, amikor villamos áll a megállóhelyen.
+
+Szabad-e behajtani személygépkocsival a lakó-pihenő övezetbe?
+× Igen, ha a járművezető vagy utasa ott lakik vagy oda látogatóba érkezik.
+− Csak akkor, ha a járművezető ott lakik.
+− Csak akkor, ha a járművezető oda látogatóba érkezik.
+
+Szabad-e behajtani személygépkocsival a lakó-pihenő övezetbe?
+× Igen, ha a járművezető vagy utasa ott lakik vagy oda látogatóba érkezik.
+− Csak akkor, ha a járművezető ott lakik.
+− Csak akkor, ha a járművezető oda látogatóba érkezik.
+
+Szabad-e behajtani pótkocsit vontató személygépkocsival a lakó-pihenő övezetbe?
+× Igen, ha a járművezető, vagy utasa ott lakik, vagy oda látogatóba érkezik.
+− Igen, feltétel nélkül.
+− Nem.

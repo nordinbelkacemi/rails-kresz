@@ -1,0 +1,251 @@
+[2.4] Mit jelez ez a jelzőtábla?
+× Az úttest szélessége a megelőző útszakaszhoz képest számottevően csökken.
+− A forgalmi sáv szélessége a megelőzőhöz képest számottevően csökken.
+− Az út szélessége a megelőző útszakaszhoz képest számottevően csökken.
+
+[2.4 1] Mit jelez ez a jelzőtábla?
+× 500 m hosszon fennálló, a megelőző útszakaszhoz képest lényegesen rosszabb állapotú úttestet.
+− Azt, hogy 500 m megtétele után a megelőző útszakaszhoz képest lényegesen rosszabb állapotú az úttest.
+− Egymástól 500 m-re lévő két bukkanót.
+
+[2.4 2] Járművezetőként milyen magatartást kell tanúsítani ezt a táblát észlelve?
+× Az útszűkületben elsőbbséget kell adni a szembejövő jármű részére.
+− Semmi rendkívülit, ez a tábla elsőbbséget biztosít a szembejövő járművel szemben.
+− Nem szabad behajtani az egyirányú forgalmú útra.
+
+[2.4 3] Mi a neve ennek a jelzőtáblának?
+× ’Elsőbbség a szembejövő forgalommal szemben’.
+− ’A szembejövő forgalom elsőbbsége’.
+− ’Egyirányú forgalmú út’.
+
+Hogyan kell lehetővé tenni a keskeny úttesten szükséges kitérés végrehajtását?
+× Megállással, útpadkára húzódással vagy hátramenettel.
+− Csak megállással.
+− Csak hátramenettel.
+
+Az egy forgalmi sávra szűkülő úttesten szembejövő járművek találkoznak. Melyiküknek van elsőbbsége?
+× Ha a közúti jelzésekből más nem következik, akkor annak a járműnek, amelyik irányváltoztatás nélkül tud továbbhaladni.
+− Ha a közúti jelzésekből más nem következik, akkor annak a járműnek, amelyik irányváltoztatással tud továbbhaladni.
+− Minden esetben a nagyobb járműnek van elsőbbsége.
+
+[2.4 4] Mit jelent ez a jelzőtábla?
+× Azt, hogy az útszűkületben elsőbbséget kell adni a szembejövő jármű részére.
+− Azt, hogy az útszűkület után tilos egyenesen továbbhaladni.
+− Azt, hogy ebből az irányból tilos behajtani az útszűkületbe.
+
+[2.4 5] Mit jelent ez a jelzőtábla?
+× Azt, hogy az útszűkületben a járműnek elsőbbsége van a szembejövő járművel szemben.
+− Azt, hogy az útszűkület után egyenesen kell továbbhaladni.
+− Azt, hogy az út egyirányú forgalmú a jelzőtáblától.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjármű részére útszűkületben?
+× Igen, minden helyzetben.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a megkülönböztető jelzéseket használó gépjárművekkel kísért, zárt csoportban haladó járművek részére útszűkületben?
+× Igen, minden helyzetben, a zárt csoportban haladó valamennyi jármű részére.
+− Igen, de csak akkor, ha ezt az elöl haladó jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Nem.
+
+Elsőbbséget kell-e adni a figyelmeztető fényjelzést használó gépjármű részére útszűkületben?
+× Nem.
+− Igen, de csak akkor, ha ez hirtelen fékezés nélkül megtehető.
+− Igen, de csak akkor, ha ezt a jármű vezetője a távolsági fényszóró felvillantásával külön kéri.
+− Igen, a többi közlekedő zavarása nélkül.
+
+[2.4 6] A képen látható helyzetben mi a szabályos elhaladás sorrendje?
+× A ’B’ jelű gépkocsi elsőbbséget ad az ’A’ jelű személygépkocsi részére.
+− Az ’A’ jelű személygépkocsi elsőbbséget ad a ’B’ jelű gépkocsi részére.
+− Kölcsönös udvariassággal megegyeznek az áthaladás sorrendjén.
+
+[2.4 6] A képen látható helyzetben melyik jármű tegye lehetővé a másik számára az elhaladást?
+× A ’B’ jelű jármű az 'A' jelű jármű részére.
+− Az ’A’ jelű jármű a 'B' jelű jármű részére..
+
+[2.4 6] Ön a ’B’ jelű gépkocsit vezeti. Válassza ki a helyes állítást!
+× Elsőbbséget ad az ’A’ jelű személygépkocsi részére.
+− Áthajt az útszűkületen, mert elsőbbsége van az ’A’ jelű személygépkocsival szemben.
+− Kölcsönös udvariasság alapján kell eldönteni az áthaladási sorrendet.
+
+[2.4 7] A képen látható helyzetben mi a szabályos elhaladás sorrendje?
+× A ’B’ jelű gépkocsi elsőbbséget ad az ’A’ jelű személygépkocsi részére.
+− Az ’A’ jelű személygépkocsi elsőbbséget ad a ’B’ jelű gépkocsi részére.
+− Kölcsönös udvariassággal megegyeznek az áthaladás sorrendjén.
+
+[2.4 7] A képen látható helyzetben melyik jármű tegye lehetővé a másik számára az elhaladást?
+× A ’B’ jelű jármű az 'A' jelű jármű részére.
+− Az ’A’ jelű jármű a 'B' jelű jármű részére.
+
+[2.4 8] Ön a kormánykerékkel jelzett járművet vezeti. A képen látható helyzetben mi a szabályos elhaladás sorrendje?
+× Ön elsőbbséget ad az ’A’ jelű személygépkocsi részére.
+− Az ’A’ jelű személygépkocsi elsőbbséget ad az Ön részére.
+− Kölcsönös udvariassággal megegyeznek az áthaladás sorrendjén.
+
+[2.4 8] Ön a kormánykerékkel jelzett járművet vezeti. A képen látható helyzetben melyik jármű tegye lehetővé a másik számára az elhaladást?
+× Ön az 'A' jelű jármű részére.
+− Az ’A’ jelű jármű az Ön részére.
+
+[2.4 9] A képen látható helyzetben mi az egymás melletti elhaladás sorrendje?
+× Az ’A’ jelű mezőgazdasági vontató elsőbbséget ad a ’B’ jelű jármű részére.
+− A ’B’ jelű jármű elsőbbséget ad az ’A’ jelű mezőgazdasági vontató részére.
+− Kölcsönös udvariassággal megegyeznek az elhaladás sorrendjén.
+
+[2.4 9] Ön a ’B’ jelű járművet vezeti. Az úton lévő akadály melletti elhaladás kapcsán van-e elsőbbségadási kötelezettsége?
+× Nincs.
+− Igen, van.
+
+[2.4 10] Ön a kormánykerékkel jelzett járművet vezeti. A képen látható helyzetben mi az egymás melletti elhaladás sorrendje?
+× Az ’A’ jelű mezőgazdasági vontató elsőbbséget ad az Ön által vezetett jármű részére.
+− Ön a kormánykerékkel jelzett járművel elsőbbséget ad az ’A’ jelű mezőgazdasági vontató részére.
+− Kölcsönös udvariassággal megegyeznek az elhaladás sorrendjén.
+
+[2.4 10] Ön a kormánykerékkel jelzett járművet vezeti. Az úton lévő akadály melletti elhaladás kapcsán van-e elsőbbségadási kötelezettsége?
+× Nincs.
+− Igen, van.
+
+Melyik járművel kell hátramenetet végezni, ha a kitérés az úttest méretei miatt nem lehetséges?
+× Amelyikkel ez könnyebben megtehető.
+− Amelyik később érkezett a helyszínre.
+− Amelyik előbb fog a későbbiekben elkanyarodni.
+
+[2.4 11] Melyik jármű végezzen hátramenetet a képen látható helyen, amennyiben a továbbhaladást csak hátramenettel lehet biztosítani?
+× A ’B’ jelű gépkocsi.
+− Az ’A’ jelű tehergépkocsi.
+
+[2.4 12] Mit jelez ez a jelzőtábla?
+× Azt, hogy az úttest 500 m-en keresztül lényegesen rosszabb állapotban van a megelőző útszakaszhoz képest.
+− Azt, hogy a két bukkanó között 500 m a távolság.
+− 500 m megtétele után bukkanók következnek.
+
+[2.4 13] Milyen veszélyre figyelmeztet ez a jelzőtábla?
+× Kavicsfelverődésre.
+− Sáros útra.
+− Poros földútra.
+
+[2.4 14] Mit jelez ez a jelzőtábla?
+× 500 m hosszon fennálló, a megelőző útszakaszhoz képest lényegesen rosszabb állapotú úttestet.
+− Azt, hogy 500 m megtétele után a megelőző útszakaszhoz képest lényegesen rosszabb állapotú az úttest.
+− Egymástól 500 m-re lévő két bukkanót.
+
+Kell-e megfelelő oldaltávolságot tartani az egymás mellett ellentétes irányban elhaladó járművek között?
+× Igen.
+− Nem.
+
+Hogyan kell az egymással szemben haladó járművek vezetőinek egymástól biztonságos oldaltávolságot tartani?
+× Szükség esetén kölcsönösen az úttest széléhez kell húzódniuk.
+− Szükség esetén egyiküknek az úttest széléhez kell húzódni.
+− Szükség esetén egyiküknek meg kell állni.
+
+Hogyan kell lehetővé tenni a keskeny úttesten szükséges kitérés végrehajtását?
+× Megállással, útpadkára húzódással vagy hátramenettel.
+− Csak megállással.
+− Csak hátramenettel.
+
+Melyik járművel kell hátramenetet végezni, ha a kitérés az úttest méretei miatt nem lehetséges?
+× Amelyikkel ez könnyebben megtehető.
+− Amelyik később érkezett a helyszínre.
+− Amelyik előbb fog a későbbiekben elkanyarodni.
+
+[2.4 11] Hogyan kötelesek a képen látható helyen a járművek egymás továbbhaladását biztosítani?
+× A járművekkel meg kell állni, és az elhaladást az útpadkára húzódással vagy hátramenettel kell lehetővé tenni.
+− Egy harmadik forgalomirányító személy közreműködésével.
+− Az ’A’ jelű tehergépkocsi köteles az útpadkára húzódni, hogy a ’B’ jelű gépkocsi az úttesten akadálytalanul tudjon továbbhaladni.
+
+[2.4 11] Mindkét jármű köteles az útpadkára lehúzódni a képen látható helyen, hogy egymás továbbhaladását biztosítani tudják?
+× Igen.
+− Nem, csak az ’A’ jelű tehergépkocsi.
+− Nem, csak a ’B’ jelű gépkocsi.
+
+[2.4 15] Mi a megfelelő magatartás az ábrán látható forgalmi helyzetben?
+× A járművek kölcsönösen lehúzódnak az útpadkára, és ha így sem férnek el egymás mellett, akkor az a jármű végez hátramenetet, amelyik ezt könnyebben meg tudja tenni.
+− Megvárják, amíg forgalomirányító személy érkezik a helyszínre, aki segíti majd a továbbhaladásukat.
+− A ’B’ jelű járműszerelvény vezetőjének a biztonság érdekében le kell akasztania a lakókocsit.
+
+[2.4 15] Az ábrázolt forgalmi helyzet csak valamelyik jármű hátramenetével oldható meg. Mikor jár el szabályosan az ’A’ jelű gépkocsi vezetője?
+× Ha visszatolat.
+− Ha megvárja, amíg a ’B’ jelű járműszerelvény visszatolat.
+
+[2.4 15] Az ábrán látható helyzetben melyik járműnek kell hátramenettel lehetővé tennie az egymás melletti elhaladást?
+× Az ’A’ jelű személygépkocsinak.
+− A ’B’ jelű járműszerelvénynek.
+
+[2.4 16] Mire utasít ez a jelzőtábla?
+× Arra, hogy a jelzőtáblával jelzett akadályt jobbról kell kikerülni.
+− Jobbra történő bekanyarodásra.
+− Arra, hogy a jelzőtáblával jelzett akadályt valamely irányból ki kell kerülni.
+
+[2.4 16] Mi a jelzőtábla neve?
+× ’Kikerülési irány’.
+− ’Kötelező haladási irány’.
+− ’Szoros jobbra tartási kötelezettség’.
+
+[2.4 16] Mi a jelzőtábla jelentése?
+× ’Kikerülési irány’.
+− ’Kötelező haladási irány’.
+− ’Terelőút’.
+
+[2.4 17] Az ábrázolt jelzőtábla után ki kell kerülnie az úttestre került kődarabokat. Szükséges-e eközben az irányjelzőjét használni?
+× Csak akkor, ha a kikerülés irányváltoztatással is jár.
+− Csak akkor, ha más is érkezik az úton.
+− Ez vészhelyzetnek minősül, és ilyen esetben nem szükséges használni az irányjelzőt.
+
+[2.4 18] Ön autópályán utolér egy ilyen táblával megjelölt autóbuszt. Megelőzheti-e?
+× Igen.
+− Nem.
+− Igen, de csak lakott területen kívül.
+− Igen, de csak akkor, ha az autóbusz vezetője nem működteti az autóbusz vészvillogót.
+− Igen, de csak akkor, ha az autóbusz vezetője működteti az autóbusz vészvillogóját.
+
+[2.4 18] Egy ilyen táblával megjelölt, valamint vészvillogóját működtető autóbusz a párhuzamos közlekedésre alkalmas úttesten áll. Mikor cselekszik szabályosan?
+× Ha fokozott óvatossággal kerülöm ki az autóbuszt.
+− Ha megállok az autóbusz mögött.
+− Ha az autóbusz kikerülése közben hangjelzést adok.
+− Ha az autóbusz kikerülése közben én is működtetem a járművem vészvillogóját.
+− Ha én is megállok a mellette lévő forgalmi sávban és bekapcsolom a járművem vészvillogóját.
+
+Kell-e a kikerülési szándékot irányjelzéssel jelezni?
+× Csak akkor, ha a kikerülés irányváltoztatással jár.
+− Igen, minden esetben.
+− Nem, mert a kikerülési szándék irányjelző használata nélkül is látszik.
+
+Szabad-e elkezdeni a kikerülést, ha a kikerülni szándékozó jármű előzését más jármű már megkezdte?
+× Nem.
+− Igen.
+
+Melyik irányból szabad elhaladni az úttesten levő járdasziget mellett, ha az nem az úttest menetirány szerinti jobb és bal oldalát választja el egymástól és a járdaszigeten nem helyezték el a kikerülési irány jelzőtáblát sem?
+× Útiránytól függően jobbról és balról is.
+− A jobbratartás miatt kizárólag csak jobbról.
+− Minden esetben csak balról.
+
+Szabad-e kikerülni az úttesten álló járművet, ha ezzel zavarná a szemből érkező járművek forgalmát?
+× Nem.
+− Igen, ha a manőver egyébként nem veszélyes.
+
+Szabad-e kikerülést végezni, ha nem áll rendelkezésre megfelelő oldaltávolság?
+× Nem.
+− Igen, ha a manőver egyébként veszélytelen.
+
+Megkülönböztető fényjelzést használó, álló járművet megközelíteni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
+
+Megkülönböztető fényjelzést használó, álló jármű mellett elhaladni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
+
+Figyelmeztető fényjelzést használó, álló járművet megközelíteni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
+
+Figyelmeztető fényjelzést használó, álló jármű mellett elhaladni csak...
+× fokozott óvatossággal szabad.
+− állandó sebességgel szabad.
+− megállást követően szabad.
+− akkor szabad, ha erre a jármű vezetője engedélyt ad.
