@@ -6,10 +6,31 @@ tabSelections.forEach((tabSelection, index) => {
 
 document.querySelector('#chapter-' + <%= @chapter_number %>).classList.add('active');
 
-// var i;
-//
-// var activeTab = document.querySelector('active');
-//
-// for (i = <%= @number_of_modules %>; i > 0; i--) {
-//   activeTab.insertAdjacentHTML('afterend', '<div class="' + i ' two">two</div>');;
-// }
+var numberOfModules = <%= @number_of_modules %>
+var subTabs = "";
+for (var i = 0; i < numberOfModules; i++) {
+  subTabs += `<a id="module-${i + 1}" class="sub-tab" data-remote="true" href="/learn?chapter=${<%= @chapter_number %>}&module=${i + 1}">${i + 1}. Modul</a>`
+}
+var activeSubTabDiv = document.querySelector(`.sub-tab-div-${<%= @chapter_number %>}`);
+
+var inactiveSubTabDivs = [];
+
+<%= @inactive_chapters %>.forEach(function(inactiveChapter) {
+    inactiveSubTabDivs.push(document.querySelector(`.sub-tab-div-${inactiveChapter}`));
+});
+
+inactiveSubTabDivs.forEach(function(subTabDiv) {
+    subTabDiv.innerHTML = "";
+})
+activeSubTabDiv.innerHTML = subTabs;
+
+var subTabSelections = document.querySelectorAll(".sub-tab")
+
+if (subTabSelections.length !== 0) {
+  subTabSelections.forEach((subTabSelection, index) => {
+    subTabSelection.classList.remove("active");
+  });
+    document.querySelector('#module-' + <%= @module_number %>).classList.add('active');
+}
+
+console.log("chapter: " + <%= @chapter_number %> + ", module: " + <%= @module_number %>);
