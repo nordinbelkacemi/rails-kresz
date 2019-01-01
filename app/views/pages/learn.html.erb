@@ -1,25 +1,32 @@
 <div class="something">
   <div class="sidebar">
-    <% (1..5).each do |num| %>
-      <% if num == 1 %>
-        <%= link_to "#{num}. Fejezet", learn_page_path(chapter: num), remote: true, id: "chapter-#{num}", class: "tab active" %>
-        <div class="sub-tab-container sub-tab-div-<%= num %>">
-          <% (1..@number_of_modules).each do |n| %>
-            <% if n == 1 %>
-              <%= link_to "#{n}. Modul", learn_page_path(chapter: num, module: n), remote: true, id: "module-#{num}", class: "sub-tab active" %>
-            <% else %>
-              <%= link_to "#{n}. Modul", learn_page_path(chapter: num, module: n), remote: true, id: "module-#{num}", class: "sub-tab" %>
-            <% end %>
-          <% end  %>
-        </div>
-      <% else %>
-        <%= link_to "#{num}. Fejezet", learn_page_path(chapter: num), remote: true, id: "chapter-#{num}", class: "tab" %>
-        <div class="sub-tab-container sub-tab-div-<%= num %>">
-        </div>
+    <div class="box-within-sidebar">
+      <% (1..5).each do |num| %>
+        <% if num == 1 %>
+          <%= link_to "#{num}. Fejezet", learn_page_path(chapter: num), remote: true, id: "chapter-#{num}", class: "tab active" %>
+          <div class="sub-tab-container sub-tab-div-<%= num %>">
+            <% (1..@number_of_modules).each do |n| %>
+              <% if n == 1 %>
+                <%= link_to "#{n}. Modul", learn_page_path(chapter: num, module: n), remote: true, id: "module-#{num}", class: "sub-tab active" %>
+              <% else %>
+                <%= link_to "#{n}. Modul", learn_page_path(chapter: num, module: n), remote: true, id: "module-#{num}", class: "sub-tab" %>
+              <% end %>
+            <% end  %>
+          </div>
+        <% else %>
+          <%= link_to "#{num}. Fejezet", learn_page_path(chapter: num), remote: true, id: "chapter-#{num}", class: "tab" %>
+          <div class="sub-tab-container sub-tab-div-<%= num %>">
+          </div>
+        <% end %>
       <% end %>
-    <% end %>
+    </div>
   </div>
   <div class="completion-grid">
 
   </div>
 </div>
+
+<script type="text/javascript">
+  document.querySelector('#module-' + <%= @module_number %>).insertAdjacentHTML('afterbegin', '<i class="fas fa-caret-right"></i>');
+  document.querySelector('#chapter-5').classList.add('last-sub-tab');
+</script>

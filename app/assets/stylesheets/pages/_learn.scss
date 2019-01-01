@@ -2,14 +2,23 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: flex-end;
-  background-color: rgb(10,10,10);
+  align-items: center;
   width: 15%;
   height: 100%;
-  color: white;
-  font-weight: 300;
+  color: black;
+  font-weight: 400;
   font-size: 14px;
   padding-top: 15px;
+  border-right: solid 1px rgba(0,0,0,0.125);
+}
+
+.box-within-sidebar {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid 1px rgba(0,0,0,0.125);
+  border-radius: 3px;
 }
 
 .something {
@@ -24,37 +33,30 @@
 .completion-grid {
   flex-grow: 1;
   height: 100vh;
-  background-color: rgba(241, 211, 2, 0.5);
 }
 
 .tab {
-  opacity: 0.5;
+  border-bottom: solid 1px rgba(0,0,0,0.125);
   display: flex;
   align-items: center;
-  width: 90%;
+  padding-left: 15px;
+  width: 100%;
   height: 40px;
-  color: white;
+  color: #007bff;
   text-decoration: none;
   &:hover {
-    color: white;
+    color: #0056b3;
     text-decoration: none;
-    opacity: 1;
-    border-right: 5px solid #F1D302;
-    width: 86%;
-    background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
   }
-  transition: opacity 0.2s ease-out,
-              width 0.2s ease-out,
-              background-color 0.2s ease-out;
+  transition: background-color 0.2s ease-out;
 }
 
 .tab.active {
-  color: #F1D302;
+  color: white;
   text-decoration: none;
   opacity: 1;
-  border-right: 5px solid #F1D302;
-  width: 86%;
-  background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
+  width: 100%;
+  background-color: #007bff;
 }
 
 .sub-tab-container {
@@ -66,30 +68,39 @@
 }
 
 .sub-tab {
-  opacity: 0.5;
+  border-bottom: solid 1px rgba(0,0,0,0.125);
   display: flex;
   align-items: center;
-  width: 86%;
+  padding-left: 30px;
+  width: 100%;
   height: 25px;
-  color: white;
+  background-color: rgba(0,0,0,0.05);
+  color: #007bff;
   text-decoration: none;
   font-size: 12px;
   &:hover {
-    color: white;
+    color: #0056b3;
     text-decoration: none;
-    opacity: 1;
-    width: 80%;
-    background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
   }
-  transition: opacity 0.2s ease-out,
-              width 0.2s ease-out,
-              background-color 0.2s ease-out;
+  transition: background-color 0.2s ease-out;
 }
 
 .sub-tab.active {
-  color: #F1D302;
+  color: #0056b3;
   text-decoration: none;
   opacity: 1;
-  width: 80%;
-  background-image: linear-gradient(to right, rgb(10,10,10), rgb(20,20,20));
+  padding-left: 20px;
+}
+
+#chapter-1 {
+  border-radius: 3px 3px 0 0;
+}
+
+.last-sub-tab {
+  border-radius: 0 0 3px 3px;
+  border-bottom: none;
+}
+
+.fas {
+  margin-right: 5px;
 }

@@ -30,7 +30,22 @@ if (subTabSelections.length !== 0) {
   subTabSelections.forEach((subTabSelection, index) => {
     subTabSelection.classList.remove("active");
   });
+  if (<%= @module_number %> === 3 && <%= @chapter_number %> === 5) {
     document.querySelector('#module-' + <%= @module_number %>).classList.add('active');
+    document.querySelector('#module-' + <%= @module_number %>).classList.add('last-sub-tab');
+  } else {
+    document.querySelector('#module-' + <%= @module_number %>).classList.add('active');
+  }
+  document.querySelector('#module-' + <%= @module_number %>).insertAdjacentHTML('afterbegin', '<i class="fas fa-caret-right"></i>');
+
+  if (<%= @chapter_number %> === 5) {
+    document.querySelector('#chapter-5').classList.remove('last-sub-tab');
+    document.querySelector('#module-3').classList.add('last-sub-tab');
+  } else {
+    document.querySelector('#chapter-5').classList.add('last-sub-tab');
+  }
 }
+
+
 
 console.log("chapter: " + <%= @chapter_number %> + ", module: " + <%= @module_number %>);
