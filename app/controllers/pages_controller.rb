@@ -20,7 +20,13 @@ class PagesController < ApplicationController
     else
       @module_number = params[:module].to_i
     end
-    puts @chapter_number
+    @questions = Question.where(chapter: @chapter_number, module: @module_number).each_slice(10).to_a
+
+    n_successful = 0
+    @questions.each do |q_arr|
+        n_successful += q_arr.select{|q| q.successes > 0}.size if q_arr.all?{|q| q.attempts > 0}
+    end
+    @completion_percentage = (n_successful.to_f / @questions.flatten.size * 100).round
   end
 
   def quiz

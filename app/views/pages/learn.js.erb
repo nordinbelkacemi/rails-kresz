@@ -46,6 +46,7 @@ if (subTabSelections.length !== 0) {
   }
 }
 
-
+document.querySelector('.completion-info').innerHTML = "";
+document.querySelector('.completion-info').innerHTML = '<%= j render "completion_info", questions: @questions %>';
 
 console.log("chapter: " + <%= @chapter_number %> + ", module: " + <%= @module_number %>);

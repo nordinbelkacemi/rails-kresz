@@ -1,0 +1,51 @@
+<!-- <div class="info-table"> -->
+  <div class="progress">
+    <div class="progress-bar" role="progressbar" style="width: <%= @completion_percentage %>%;" aria-valuenow="<%= @completion_percentage %>" aria-valuemin="0" aria-valuemax="100"><%= @completion_percentage %>%</div>
+  </div>
+<!-- </div> -->
+
+<% questions.each_with_index do |q_arr, i| %>
+  <% all_ten_correct = q_arr.all? {|q| q.successes > 0} %>
+  <% all_ten_attempted = q_arr.all? {|q| q.attempts > 0} %>
+
+  <div class="block-question all-ten-correct-<%= all_ten_correct %>">
+
+    <% q_arr.each_with_index do |q, j| %>
+      <% string = "first-q" if j == 0 %>
+      <% if all_ten_attempted %>
+        <% if q.successes > 0 %>
+        <div class="cell-question <%= string %> q-<%= j % 2 %> correct">
+          <%= j + 1 + 10 * i %>
+        </div>
+        <% elsif q.successes == 0 && q.attempts == 0 %>
+        <div class="cell-question <%= string %> q-<%= j % 2 %>">
+          <%= j + 1 + 10 * i %>
+        </div>
+        <% else %>
+        <div class="cell-question <%= string %> q-<%= j % 2 %> incorrect">
+          <%= j + 1 + 10 * i %>
+        </div>
+        <% end %>
+      <% else %>
+        <div class="cell-question <%= string %> q-<%= j % 2 %>">
+          <%= j + 1 + 10 * i %>
+        </div>
+      <% end %>
+    <% end %>
+
+    <% if all_ten_correct %>
+      <div class="complete">
+        <i class="fas fa-check"></i>
+      </div>
+    <% elsif all_ten_attempted && !all_ten_correct %>
+      <div class="btn btn-secondary retry">
+        Retry
+      </div>
+    <% else %>
+      <div class="btn btn-primary start">
+        Start
+      </div>
+    <% end %>
+
+  </div>
+<% end %>
